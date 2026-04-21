@@ -1,0 +1,1201 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Segment,City,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+ORD-01000,2021-06-28,2021-07-03,Second Class,CUST-1013,Consumer,Dallas,Central,Office Supplies,Binders,66.18,5,0.0,17.09
+ORD-01001,2021-11-23,2021-11-30,Standard Class,CUST-1052,Home Office,Seattle,West,Office Supplies,Labels,198.84,3,0.0,87.35
+ORD-01002,2023-07-30,2023-08-04,First Class,CUST-1185,Corporate,Boston,East,Technology,Phones,1948.4,6,0.0,309.09
+ORD-01003,2022-04-22,2022-04-23,Same Day,CUST-1181,Corporate,San Francisco,West,Office Supplies,Binders,216.42,3,0.1,52.2
+ORD-01004,2022-05-17,2022-05-19,Standard Class,CUST-1112,Corporate,Chicago,Central,Technology,Accessories,1894.8,5,0.5,-41.69
+ORD-01005,2021-05-16,2021-05-18,Standard Class,CUST-1234,Home Office,Los Angeles,West,Office Supplies,Binders,412.21,6,0.0,133.89
+ORD-01006,2023-03-29,2023-04-01,Standard Class,CUST-1056,Corporate,Seattle,West,Technology,Laptops,1267.99,1,0.1,86.45
+ORD-01007,2023-08-17,2023-08-22,Standard Class,CUST-1136,Corporate,Denver,Central,Technology,Laptops,661.51,5,0.15,31.69
+ORD-01008,2022-06-24,2022-06-29,Standard Class,CUST-1259,Consumer,Portland,West,Office Supplies,Pens,80.84,6,0.3,10.07
+ORD-01009,2023-12-23,2023-12-24,First Class,CUST-1122,Corporate,Philadelphia,East,Office Supplies,Paper,367.39,3,0.0,158.81
+ORD-01010,2023-12-27,2023-12-29,Same Day,CUST-1216,Home Office,Portland,West,Technology,Phones,1188.72,5,0.4,-79.61
+ORD-01011,2023-06-17,2023-06-22,Second Class,CUST-1283,Home Office,Denver,Central,Office Supplies,Paper,140.93,5,0.0,40.1
+ORD-01012,2022-11-08,2022-11-09,First Class,CUST-1292,Consumer,Los Angeles,West,Technology,Laptops,3525.53,2,0.15,239.2
+ORD-01013,2023-06-02,2023-06-05,Standard Class,CUST-1050,Consumer,Denver,Central,Office Supplies,Paper,185.98,6,0.3,11.82
+ORD-01014,2023-07-08,2023-07-10,Standard Class,CUST-1226,Consumer,Chicago,Central,Technology,Accessories,3510.98,1,0.0,965.16
+ORD-01015,2022-04-30,2022-05-02,First Class,CUST-1084,Home Office,Los Angeles,West,Office Supplies,Binders,255.72,1,0.0,76.78
+ORD-01016,2023-09-24,2023-09-26,Second Class,CUST-1031,Consumer,Portland,West,Furniture,Storage,507.39,5,0.4,-53.38
+ORD-01017,2021-11-19,2021-11-20,First Class,CUST-1120,Corporate,Portland,West,Office Supplies,Binders,101.02,1,0.3,6.78
+ORD-01018,2023-12-07,2023-12-10,Standard Class,CUST-1202,Corporate,New York,East,Furniture,Tables,2871.3,3,0.15,-133.38
+ORD-01019,2021-07-24,2021-07-25,Second Class,CUST-1125,Consumer,New York,East,Technology,Accessories,4309.68,1,0.0,731.79
+ORD-01020,2023-12-20,2023-12-21,Same Day,CUST-1135,Corporate,Boston,East,Furniture,Tables,2223.66,2,0.4,-498.33
+ORD-01021,2022-12-04,2022-12-06,Second Class,CUST-1047,Consumer,Dallas,Central,Technology,Phones,4809.36,1,0.1,482.01
+ORD-01022,2022-06-21,2022-06-23,Second Class,CUST-1076,Corporate,Seattle,West,Office Supplies,Pens,404.92,6,0.1,72.06
+ORD-01023,2023-01-17,2023-01-18,Standard Class,CUST-1286,Consumer,Philadelphia,East,Furniture,Bookcases,2767.89,3,0.15,115.51
+ORD-01024,2021-11-29,2021-12-01,Standard Class,CUST-1127,Home Office,Nashville,South,Office Supplies,Labels,132.81,4,0.0,57.26
+ORD-01025,2023-08-01,2023-08-04,Standard Class,CUST-1168,Home Office,New York,East,Technology,Phones,1803.88,4,0.0,418.51
+ORD-01026,2022-11-10,2022-11-11,Second Class,CUST-1019,Consumer,New Orleans,South,Technology,Phones,1395.86,3,0.0,408.3
+ORD-01027,2021-08-25,2021-08-29,Same Day,CUST-1266,Consumer,Boston,East,Technology,Monitors,4537.72,1,0.0,1097.03
+ORD-01028,2022-10-05,2022-10-12,First Class,CUST-1206,Home Office,New York,East,Office Supplies,Paper,345.5,3,0.1,109.43
+ORD-01029,2022-09-09,2022-09-13,First Class,CUST-1164,Corporate,Portland,West,Office Supplies,Paper,84.45,5,0.0,21.33
+ORD-01030,2021-12-14,2021-12-21,Same Day,CUST-1158,Corporate,Denver,Central,Furniture,Storage,732.46,2,0.0,137.7
+ORD-01031,2021-05-30,2021-06-03,Standard Class,CUST-1124,Consumer,Los Angeles,West,Technology,Laptops,1960.47,4,0.15,199.57
+ORD-01032,2023-11-27,2023-12-01,Standard Class,CUST-1237,Corporate,Miami,South,Technology,Phones,441.7,2,0.3,-11.36
+ORD-01033,2023-10-31,2023-11-04,Second Class,CUST-1230,Corporate,Charlotte,South,Office Supplies,Pens,351.21,4,0.3,82.86
+ORD-01034,2022-05-05,2022-05-08,Second Class,CUST-1041,Corporate,Houston,Central,Technology,Laptops,3635.12,5,0.0,607.68
+ORD-01035,2023-04-15,2023-04-18,Standard Class,CUST-1299,Corporate,Philadelphia,East,Technology,Laptops,5792.02,4,0.0,1544.03
+ORD-01036,2022-09-04,2022-09-08,First Class,CUST-1112,Consumer,Charlotte,South,Office Supplies,Binders,463.5,5,0.1,154.65
+ORD-01037,2023-04-09,2023-04-16,Second Class,CUST-1013,Consumer,New York,East,Furniture,Bookcases,1065.61,5,0.3,48.14
+ORD-01038,2021-04-13,2021-04-16,Standard Class,CUST-1142,Consumer,Portland,West,Office Supplies,Binders,119.94,4,0.0,34.11
+ORD-01039,2021-04-17,2021-04-20,Second Class,CUST-1126,Consumer,Los Angeles,West,Office Supplies,Labels,30.01,1,0.2,7.89
+ORD-01040,2022-03-23,2022-03-27,Second Class,CUST-1058,Consumer,Philadelphia,East,Technology,Phones,5426.31,6,0.0,1201.65
+ORD-01041,2023-02-08,2023-02-12,First Class,CUST-1124,Corporate,Miami,South,Office Supplies,Paper,283.03,6,0.0,105.47
+ORD-01042,2021-03-26,2021-03-29,Second Class,CUST-1215,Corporate,Miami,South,Technology,Accessories,4275.94,1,0.0,981.37
+ORD-01043,2021-11-10,2021-11-14,First Class,CUST-1238,Corporate,Boston,East,Office Supplies,Binders,82.46,4,0.1,31.33
+ORD-01044,2023-07-13,2023-07-15,Standard Class,CUST-1093,Home Office,Philadelphia,East,Furniture,Bookcases,5503.24,3,0.0,404.91
+ORD-01045,2022-07-20,2022-07-25,Second Class,CUST-1284,Consumer,Houston,Central,Furniture,Bookcases,234.51,4,0.0,30.49
+ORD-01046,2022-08-26,2022-08-28,Standard Class,CUST-1283,Consumer,Atlanta,East,Office Supplies,Labels,127.28,4,0.0,43.96
+ORD-01047,2022-09-20,2022-09-23,Standard Class,CUST-1094,Consumer,New Orleans,South,Furniture,Storage,983.83,6,0.0,133.53
+ORD-01048,2022-08-30,2022-09-01,First Class,CUST-1023,Home Office,Seattle,West,Technology,Monitors,3090.08,3,0.0,639.11
+ORD-01049,2021-07-30,2021-07-31,First Class,CUST-1129,Corporate,Dallas,Central,Office Supplies,Pens,352.96,1,0.0,100.66
+ORD-01050,2021-04-20,2021-04-22,Standard Class,CUST-1213,Consumer,Los Angeles,West,Office Supplies,Labels,79.9,5,0.0,20.94
+ORD-01051,2023-05-29,2023-06-01,Standard Class,CUST-1108,Consumer,Denver,Central,Office Supplies,Paper,78.7,2,0.1,26.37
+ORD-01052,2023-04-17,2023-04-21,Standard Class,CUST-1144,Corporate,San Francisco,West,Technology,Phones,7142.21,6,0.0,1044.87
+ORD-01053,2022-02-10,2022-02-14,First Class,CUST-1036,Home Office,San Francisco,West,Office Supplies,Labels,38.96,2,0.1,14.69
+ORD-01054,2022-09-15,2022-09-22,Standard Class,CUST-1020,Consumer,Boston,East,Technology,Accessories,3039.58,1,0.1,452.17
+ORD-01055,2021-02-12,2021-02-19,Same Day,CUST-1226,Consumer,New York,East,Office Supplies,Pens,99.29,5,0.2,14.28
+ORD-01056,2021-07-06,2021-07-10,Standard Class,CUST-1168,Corporate,Charlotte,South,Office Supplies,Paper,166.36,2,0.0,37.62
+ORD-01057,2023-07-21,2023-07-22,Second Class,CUST-1000,Home Office,Portland,West,Furniture,Storage,1904.04,5,0.0,272.54
+ORD-01058,2023-10-18,2023-10-25,Second Class,CUST-1224,Corporate,Philadelphia,East,Office Supplies,Labels,69.1,3,0.0,23.31
+ORD-01059,2021-01-29,2021-02-03,Standard Class,CUST-1060,Corporate,San Francisco,West,Office Supplies,Labels,64.16,4,0.5,11.44
+ORD-01060,2023-09-16,2023-09-20,Standard Class,CUST-1069,Corporate,Boston,East,Office Supplies,Paper,80.68,5,0.0,34.73
+ORD-01061,2022-07-02,2022-07-03,First Class,CUST-1250,Consumer,Denver,Central,Office Supplies,Pens,110.42,6,0.2,27.05
+ORD-01062,2023-02-12,2023-02-16,First Class,CUST-1119,Consumer,Boston,East,Office Supplies,Labels,140.26,4,0.5,1.36
+ORD-01063,2023-03-02,2023-03-09,First Class,CUST-1169,Corporate,Portland,West,Office Supplies,Labels,239.79,5,0.0,50.18
+ORD-01064,2021-11-13,2021-11-14,Standard Class,CUST-1041,Consumer,Portland,West,Office Supplies,Labels,219.23,6,0.0,81.81
+ORD-01065,2021-05-21,2021-05-23,Standard Class,CUST-1050,Home Office,Charlotte,South,Office Supplies,Labels,144.78,4,0.5,19.79
+ORD-01066,2021-04-25,2021-04-28,Standard Class,CUST-1092,Home Office,Boston,East,Office Supplies,Binders,227.91,5,0.0,75.85
+ORD-01067,2021-10-21,2021-10-23,Standard Class,CUST-1147,Corporate,Atlanta,East,Technology,Phones,3781.93,4,0.0,882.58
+ORD-01068,2023-05-19,2023-05-26,Standard Class,CUST-1054,Home Office,Seattle,West,Office Supplies,Paper,123.79,4,0.0,36.66
+ORD-01069,2023-03-22,2023-03-25,First Class,CUST-1117,Consumer,Boston,East,Technology,Accessories,153.04,3,0.3,15.16
+ORD-01070,2021-10-08,2021-10-15,Second Class,CUST-1186,Corporate,San Francisco,West,Office Supplies,Pens,19.09,5,0.0,5.92
+ORD-01071,2021-09-28,2021-10-03,Standard Class,CUST-1131,Corporate,New Orleans,South,Office Supplies,Binders,356.63,2,0.1,134.94
+ORD-01072,2021-08-24,2021-08-28,Standard Class,CUST-1203,Corporate,New Orleans,South,Office Supplies,Labels,231.39,6,0.2,36.19
+ORD-01073,2023-07-21,2023-07-24,Second Class,CUST-1055,Consumer,Portland,West,Office Supplies,Pens,276.91,3,0.1,98.47
+ORD-01074,2021-05-10,2021-05-17,Standard Class,CUST-1019,Home Office,Seattle,West,Office Supplies,Labels,336.04,1,0.1,60.21
+ORD-01075,2023-07-19,2023-07-22,Standard Class,CUST-1050,Home Office,San Francisco,West,Furniture,Storage,4463.38,4,0.1,364.43
+ORD-01076,2023-06-28,2023-07-02,Standard Class,CUST-1183,Consumer,New Orleans,South,Office Supplies,Labels,428.49,5,0.0,159.15
+ORD-01077,2021-07-07,2021-07-14,First Class,CUST-1289,Home Office,Los Angeles,West,Technology,Accessories,687.84,2,0.0,114.66
+ORD-01078,2021-01-06,2021-01-09,Standard Class,CUST-1056,Consumer,Philadelphia,East,Technology,Laptops,2174.34,2,0.5,-91.23
+ORD-01079,2022-10-26,2022-10-27,Standard Class,CUST-1032,Corporate,Seattle,West,Office Supplies,Binders,30.27,1,0.0,9.24
+ORD-01080,2021-03-30,2021-04-06,Standard Class,CUST-1245,Consumer,New York,East,Furniture,Bookcases,4294.46,1,0.0,820.27
+ORD-01081,2021-06-15,2021-06-18,Standard Class,CUST-1280,Corporate,Denver,Central,Office Supplies,Labels,93.2,5,0.0,33.19
+ORD-01082,2021-07-23,2021-07-30,Second Class,CUST-1173,Consumer,New Orleans,South,Office Supplies,Labels,43.18,4,0.0,18.22
+ORD-01083,2022-06-07,2022-06-10,Standard Class,CUST-1221,Consumer,New York,East,Office Supplies,Labels,573.08,1,0.0,233.78
+ORD-01084,2022-11-07,2022-11-14,Second Class,CUST-1026,Corporate,Chicago,Central,Technology,Accessories,1010.38,4,0.3,139.66
+ORD-01085,2021-08-10,2021-08-13,Standard Class,CUST-1219,Consumer,Philadelphia,East,Office Supplies,Pens,382.74,2,0.0,103.2
+ORD-01086,2022-09-25,2022-09-28,Standard Class,CUST-1035,Consumer,Boston,East,Office Supplies,Binders,78.26,4,0.3,14.99
+ORD-01087,2021-11-19,2021-11-22,Standard Class,CUST-1026,Consumer,San Francisco,West,Technology,Phones,2200.24,1,0.2,249.77
+ORD-01088,2023-06-25,2023-06-29,Standard Class,CUST-1249,Consumer,Houston,Central,Technology,Phones,828.28,6,0.0,101.2
+ORD-01089,2022-02-23,2022-02-26,Standard Class,CUST-1003,Home Office,Portland,West,Furniture,Bookcases,2731.28,1,0.2,-212.05
+ORD-01090,2022-12-27,2022-12-28,Standard Class,CUST-1160,Corporate,Portland,West,Furniture,Storage,775.02,1,0.0,50.33
+ORD-01091,2022-10-28,2022-10-30,Standard Class,CUST-1223,Consumer,Denver,Central,Office Supplies,Labels,387.82,1,0.2,127.96
+ORD-01092,2022-09-28,2022-10-05,Standard Class,CUST-1058,Corporate,Atlanta,East,Office Supplies,Paper,130.15,6,0.2,15.5
+ORD-01093,2021-10-30,2021-11-01,Same Day,CUST-1038,Consumer,New Orleans,South,Furniture,Tables,824.3,6,0.0,82.92
+ORD-01094,2022-10-24,2022-10-31,First Class,CUST-1140,Corporate,Atlanta,East,Technology,Monitors,3708.48,3,0.0,698.83
+ORD-01095,2023-01-26,2023-01-29,Standard Class,CUST-1297,Consumer,Boston,East,Office Supplies,Pens,14.52,4,0.1,4.02
+ORD-01096,2021-11-05,2021-11-06,Standard Class,CUST-1088,Consumer,Philadelphia,East,Office Supplies,Binders,105.49,6,0.5,-3.05
+ORD-01097,2023-03-05,2023-03-09,First Class,CUST-1168,Consumer,Nashville,South,Technology,Monitors,1585.02,1,0.2,205.2
+ORD-01098,2021-10-17,2021-10-20,Second Class,CUST-1158,Consumer,San Francisco,West,Technology,Monitors,3654.13,1,0.0,883.45
+ORD-01099,2023-01-12,2023-01-13,Standard Class,CUST-1098,Corporate,Chicago,Central,Office Supplies,Pens,69.09,4,0.4,5.9
+ORD-01100,2023-12-15,2023-12-16,Standard Class,CUST-1084,Home Office,Seattle,West,Technology,Laptops,3100.38,2,0.1,250.67
+ORD-01101,2023-07-09,2023-07-11,Second Class,CUST-1188,Home Office,Philadelphia,East,Office Supplies,Binders,148.37,2,0.4,29.09
+ORD-01102,2023-05-08,2023-05-10,Second Class,CUST-1190,Corporate,Boston,East,Office Supplies,Labels,172.83,4,0.3,10.9
+ORD-01103,2022-07-13,2022-07-17,First Class,CUST-1230,Consumer,Chicago,Central,Office Supplies,Binders,218.03,2,0.2,26.8
+ORD-01104,2021-06-17,2021-06-20,Standard Class,CUST-1171,Corporate,Atlanta,East,Office Supplies,Binders,67.6,6,0.4,14.18
+ORD-01105,2023-08-19,2023-08-23,Standard Class,CUST-1280,Corporate,Portland,West,Office Supplies,Paper,94.23,2,0.0,23.93
+ORD-01106,2022-05-04,2022-05-08,Standard Class,CUST-1274,Consumer,Seattle,West,Office Supplies,Labels,390.59,4,0.0,159.82
+ORD-01107,2022-05-08,2022-05-13,Second Class,CUST-1278,Consumer,Houston,Central,Technology,Laptops,1042.3,5,0.1,127.29
+ORD-01108,2023-02-04,2023-02-07,Standard Class,CUST-1053,Consumer,Atlanta,East,Furniture,Chairs,3289.05,6,0.2,-209.84
+ORD-01109,2021-12-25,2022-01-01,First Class,CUST-1234,Corporate,Seattle,West,Office Supplies,Pens,260.53,1,0.1,91.93
+ORD-01110,2022-09-28,2022-10-03,Standard Class,CUST-1146,Home Office,San Francisco,West,Technology,Laptops,4463.66,2,0.0,1118.85
+ORD-01111,2023-06-14,2023-06-18,First Class,CUST-1254,Consumer,New Orleans,South,Furniture,Chairs,5454.49,6,0.0,-17.98
+ORD-01112,2022-01-05,2022-01-10,Second Class,CUST-1228,Consumer,Denver,Central,Furniture,Bookcases,599.4,3,0.0,69.07
+ORD-01113,2022-12-24,2022-12-29,Standard Class,CUST-1038,Consumer,Portland,West,Office Supplies,Labels,404.28,1,0.1,140.64
+ORD-01114,2023-06-17,2023-06-18,Standard Class,CUST-1290,Home Office,Philadelphia,East,Office Supplies,Labels,37.29,4,0.2,7.14
+ORD-01115,2021-10-09,2021-10-14,First Class,CUST-1013,Consumer,Houston,Central,Technology,Laptops,2818.76,1,0.1,281.66
+ORD-01116,2023-07-03,2023-07-05,Standard Class,CUST-1062,Consumer,New York,East,Office Supplies,Labels,381.16,2,0.15,142.8
+ORD-01117,2022-10-17,2022-10-24,First Class,CUST-1080,Home Office,Atlanta,East,Technology,Phones,899.17,3,0.1,97.18
+ORD-01118,2021-10-12,2021-10-14,Standard Class,CUST-1282,Consumer,Dallas,Central,Office Supplies,Paper,119.6,4,0.0,41.03
+ORD-01119,2023-12-13,2023-12-17,Second Class,CUST-1230,Home Office,Portland,West,Technology,Phones,1969.08,1,0.0,321.76
+ORD-01120,2023-10-27,2023-10-28,Standard Class,CUST-1115,Corporate,San Francisco,West,Furniture,Bookcases,3026.73,6,0.0,-28.78
+ORD-01121,2022-07-17,2022-07-19,Same Day,CUST-1078,Consumer,Houston,Central,Furniture,Bookcases,1046.29,5,0.1,-60.52
+ORD-01122,2021-04-04,2021-04-11,Standard Class,CUST-1015,Home Office,Chicago,Central,Technology,Accessories,5032.04,4,0.15,897.67
+ORD-01123,2023-04-12,2023-04-15,First Class,CUST-1104,Consumer,Boston,East,Furniture,Bookcases,871.03,4,0.0,46.95
+ORD-01124,2023-03-28,2023-03-30,First Class,CUST-1230,Corporate,Boston,East,Furniture,Tables,1393.13,3,0.0,92.81
+ORD-01125,2021-11-24,2021-11-27,Standard Class,CUST-1239,Home Office,Portland,West,Technology,Phones,7042.89,5,0.0,928.74
+ORD-01126,2022-05-09,2022-05-11,Second Class,CUST-1240,Home Office,New York,East,Furniture,Bookcases,1091.68,6,0.0,80.48
+ORD-01127,2023-01-20,2023-01-24,Standard Class,CUST-1283,Consumer,Denver,Central,Technology,Phones,4166.62,3,0.0,884.84
+ORD-01128,2021-09-01,2021-09-03,Second Class,CUST-1187,Home Office,Boston,East,Technology,Monitors,9770.76,5,0.0,2905.41
+ORD-01129,2021-10-08,2021-10-15,Standard Class,CUST-1071,Corporate,Atlanta,East,Office Supplies,Paper,191.84,5,0.1,35.92
+ORD-01130,2023-11-10,2023-11-15,Second Class,CUST-1056,Corporate,Seattle,West,Furniture,Bookcases,2798.22,3,0.0,-128.27
+ORD-01131,2022-04-12,2022-04-19,Standard Class,CUST-1194,Corporate,Chicago,Central,Office Supplies,Pens,49.79,5,0.0,17.79
+ORD-01132,2023-05-08,2023-05-10,Standard Class,CUST-1031,Consumer,Los Angeles,West,Technology,Laptops,2299.62,4,0.0,586.39
+ORD-01133,2021-12-21,2021-12-25,Standard Class,CUST-1135,Corporate,Atlanta,East,Office Supplies,Paper,370.59,6,0.1,118.21
+ORD-01134,2022-09-02,2022-09-05,Standard Class,CUST-1140,Corporate,New Orleans,South,Office Supplies,Paper,428.84,6,0.0,123.16
+ORD-01135,2021-10-27,2021-10-30,Same Day,CUST-1245,Home Office,Charlotte,South,Technology,Monitors,296.75,3,0.0,55.93
+ORD-01136,2022-05-06,2022-05-08,Second Class,CUST-1169,Consumer,New Orleans,South,Technology,Accessories,570.17,4,0.1,34.49
+ORD-01137,2021-11-20,2021-11-24,Second Class,CUST-1164,Consumer,Dallas,Central,Office Supplies,Binders,398.68,3,0.0,99.62
+ORD-01138,2021-03-18,2021-03-20,Standard Class,CUST-1253,Corporate,Miami,South,Technology,Phones,1393.36,4,0.4,-129.21
+ORD-01139,2022-11-18,2022-11-21,Second Class,CUST-1239,Consumer,Miami,South,Technology,Accessories,3486.01,5,0.3,-80.74
+ORD-01140,2021-01-29,2021-02-05,Second Class,CUST-1207,Corporate,Atlanta,East,Technology,Phones,2633.46,2,0.1,530.53
+ORD-01141,2022-10-25,2022-10-27,Standard Class,CUST-1154,Consumer,Los Angeles,West,Office Supplies,Pens,23.96,3,0.0,9.31
+ORD-01142,2021-08-31,2021-09-04,Standard Class,CUST-1159,Corporate,Seattle,West,Office Supplies,Binders,168.26,6,0.15,59.86
+ORD-01143,2021-11-10,2021-11-14,Standard Class,CUST-1275,Consumer,Philadelphia,East,Office Supplies,Pens,340.26,4,0.0,114.77
+ORD-01144,2023-01-11,2023-01-12,Second Class,CUST-1103,Corporate,Chicago,Central,Office Supplies,Paper,138.0,5,0.0,46.49
+ORD-01145,2023-09-29,2023-09-30,Standard Class,CUST-1212,Consumer,Portland,West,Office Supplies,Paper,433.09,5,0.2,92.4
+ORD-01146,2021-01-07,2021-01-14,Standard Class,CUST-1277,Corporate,Boston,East,Furniture,Chairs,470.43,1,0.0,17.0
+ORD-01147,2021-10-05,2021-10-12,Standard Class,CUST-1193,Consumer,Charlotte,South,Office Supplies,Binders,587.43,4,0.0,248.39
+ORD-01148,2023-03-16,2023-03-21,Same Day,CUST-1237,Consumer,Houston,Central,Furniture,Tables,506.38,3,0.2,19.77
+ORD-01149,2022-07-19,2022-07-21,Standard Class,CUST-1008,Consumer,Philadelphia,East,Office Supplies,Labels,140.92,5,0.0,51.44
+ORD-01150,2021-04-10,2021-04-12,Second Class,CUST-1071,Consumer,Los Angeles,West,Technology,Phones,7612.98,1,0.0,1583.13
+ORD-01151,2022-10-19,2022-10-21,First Class,CUST-1153,Corporate,Seattle,West,Furniture,Bookcases,613.0,4,0.5,-104.02
+ORD-01152,2022-12-07,2022-12-14,Standard Class,CUST-1192,Corporate,Atlanta,East,Technology,Laptops,4447.42,3,0.15,474.33
+ORD-01153,2023-08-07,2023-08-08,Second Class,CUST-1130,Consumer,San Francisco,West,Technology,Monitors,5376.56,2,0.1,413.02
+ORD-01154,2022-01-26,2022-01-27,Second Class,CUST-1286,Consumer,New Orleans,South,Technology,Phones,572.22,5,0.3,-7.08
+ORD-01155,2022-03-10,2022-03-12,First Class,CUST-1104,Consumer,New Orleans,South,Technology,Laptops,2050.86,2,0.15,360.68
+ORD-01156,2023-01-06,2023-01-09,Second Class,CUST-1240,Consumer,Boston,East,Furniture,Tables,2178.62,6,0.0,328.33
+ORD-01157,2022-03-30,2022-04-06,Standard Class,CUST-1213,Consumer,New Orleans,South,Office Supplies,Pens,70.63,6,0.1,20.91
+ORD-01158,2022-11-23,2022-11-26,Standard Class,CUST-1235,Corporate,Atlanta,East,Technology,Laptops,4693.75,4,0.4,133.02
+ORD-01159,2021-05-01,2021-05-06,First Class,CUST-1211,Consumer,Portland,West,Technology,Accessories,166.67,1,0.4,5.61
+ORD-01160,2023-02-04,2023-02-05,Second Class,CUST-1282,Consumer,San Francisco,West,Technology,Laptops,5511.47,5,0.15,155.13
+ORD-01161,2023-10-26,2023-11-02,Standard Class,CUST-1123,Corporate,Boston,East,Furniture,Chairs,2491.71,2,0.0,-64.59
+ORD-01162,2023-04-12,2023-04-16,Standard Class,CUST-1016,Corporate,Houston,Central,Technology,Accessories,2999.01,1,0.0,796.57
+ORD-01163,2021-12-17,2021-12-18,Standard Class,CUST-1270,Consumer,Atlanta,East,Technology,Monitors,4858.83,1,0.1,564.86
+ORD-01164,2022-07-29,2022-08-03,First Class,CUST-1106,Consumer,Portland,West,Office Supplies,Paper,86.71,1,0.0,35.78
+ORD-01165,2023-03-08,2023-03-15,Standard Class,CUST-1040,Consumer,New Orleans,South,Office Supplies,Labels,404.99,6,0.0,155.9
+ORD-01166,2023-03-24,2023-03-27,Standard Class,CUST-1182,Consumer,Portland,West,Furniture,Bookcases,360.87,2,0.2,-13.48
+ORD-01167,2022-05-20,2022-05-27,Second Class,CUST-1078,Consumer,Atlanta,East,Office Supplies,Labels,46.98,6,0.0,17.75
+ORD-01168,2023-01-08,2023-01-11,Standard Class,CUST-1262,Consumer,New York,East,Office Supplies,Pens,19.82,5,0.0,6.19
+ORD-01169,2023-02-28,2023-03-01,First Class,CUST-1124,Corporate,Los Angeles,West,Furniture,Chairs,1907.65,5,0.2,59.54
+ORD-01170,2023-10-07,2023-10-09,Standard Class,CUST-1184,Consumer,Dallas,Central,Office Supplies,Paper,56.69,1,0.0,15.59
+ORD-01171,2021-08-08,2021-08-10,Standard Class,CUST-1225,Corporate,Denver,Central,Technology,Laptops,3602.85,3,0.0,807.18
+ORD-01172,2023-03-27,2023-03-30,Standard Class,CUST-1192,Consumer,Philadelphia,East,Furniture,Tables,1429.11,3,0.4,-77.9
+ORD-01173,2021-02-25,2021-03-04,Second Class,CUST-1035,Corporate,Philadelphia,East,Technology,Monitors,2523.46,6,0.0,399.38
+ORD-01174,2021-11-12,2021-11-19,Standard Class,CUST-1298,Corporate,Dallas,Central,Office Supplies,Labels,265.41,4,0.0,118.82
+ORD-01175,2021-06-24,2021-06-25,First Class,CUST-1204,Corporate,Boston,East,Furniture,Storage,4221.67,5,0.0,435.55
+ORD-01176,2022-03-31,2022-04-05,Standard Class,CUST-1256,Consumer,Charlotte,South,Office Supplies,Pens,226.59,6,0.0,67.47
+ORD-01177,2021-08-26,2021-09-02,Same Day,CUST-1247,Consumer,Boston,East,Technology,Phones,1577.56,5,0.0,405.2
+ORD-01178,2021-08-24,2021-08-25,Standard Class,CUST-1124,Consumer,Atlanta,East,Furniture,Chairs,1312.07,6,0.15,-110.1
+ORD-01179,2023-04-10,2023-04-17,Standard Class,CUST-1230,Home Office,Atlanta,East,Furniture,Tables,1654.27,2,0.0,222.25
+ORD-01180,2021-05-09,2021-05-14,First Class,CUST-1134,Consumer,San Francisco,West,Office Supplies,Labels,39.51,1,0.0,9.85
+ORD-01181,2021-08-22,2021-08-25,Second Class,CUST-1152,Corporate,Boston,East,Office Supplies,Labels,201.74,6,0.1,71.3
+ORD-01182,2022-01-10,2022-01-13,Standard Class,CUST-1216,Consumer,Houston,Central,Office Supplies,Binders,422.19,4,0.0,98.99
+ORD-01183,2023-07-13,2023-07-18,Standard Class,CUST-1196,Consumer,Atlanta,East,Technology,Laptops,581.95,2,0.4,-1.79
+ORD-01184,2023-09-28,2023-09-30,First Class,CUST-1140,Consumer,Atlanta,East,Office Supplies,Labels,13.59,1,0.2,2.11
+ORD-01185,2023-10-12,2023-10-17,First Class,CUST-1277,Corporate,Portland,West,Technology,Accessories,1374.85,3,0.0,286.82
+ORD-01186,2021-07-29,2021-08-05,Same Day,CUST-1134,Corporate,Denver,Central,Office Supplies,Binders,250.72,4,0.0,112.78
+ORD-01187,2022-12-20,2022-12-27,Standard Class,CUST-1105,Corporate,New York,East,Furniture,Chairs,4549.78,2,0.0,-69.12
+ORD-01188,2022-08-16,2022-08-21,Second Class,CUST-1030,Consumer,Philadelphia,East,Office Supplies,Pens,43.76,4,0.0,16.96
+ORD-01189,2022-05-22,2022-05-29,Second Class,CUST-1192,Consumer,Dallas,Central,Office Supplies,Paper,111.49,4,0.1,24.21
+ORD-01190,2023-07-21,2023-07-25,First Class,CUST-1234,Corporate,Boston,East,Furniture,Chairs,459.47,1,0.3,5.42
+ORD-01191,2022-03-10,2022-03-14,Standard Class,CUST-1248,Consumer,Charlotte,South,Office Supplies,Pens,131.81,5,0.0,45.41
+ORD-01192,2021-11-20,2021-11-24,First Class,CUST-1154,Consumer,Portland,West,Office Supplies,Binders,284.78,2,0.0,105.98
+ORD-01193,2021-12-05,2021-12-06,Standard Class,CUST-1046,Consumer,Seattle,West,Technology,Accessories,2834.55,4,0.15,499.01
+ORD-01194,2023-07-01,2023-07-02,Standard Class,CUST-1067,Consumer,Los Angeles,West,Office Supplies,Binders,14.81,4,0.2,5.14
+ORD-01195,2022-09-05,2022-09-07,Standard Class,CUST-1271,Consumer,New York,East,Furniture,Tables,1351.12,1,0.1,93.61
+ORD-01196,2023-04-24,2023-04-29,Standard Class,CUST-1196,Corporate,Philadelphia,East,Office Supplies,Paper,209.1,1,0.0,47.07
+ORD-01197,2022-05-24,2022-05-29,Second Class,CUST-1154,Consumer,Philadelphia,East,Furniture,Storage,2692.08,6,0.2,60.89
+ORD-01198,2022-05-06,2022-05-10,First Class,CUST-1006,Corporate,Houston,Central,Technology,Laptops,2175.07,5,0.0,475.87
+ORD-01199,2023-08-23,2023-08-24,Second Class,CUST-1203,Consumer,Portland,West,Office Supplies,Pens,7.42,1,0.0,1.88
+ORD-01200,2021-11-09,2021-11-12,Second Class,CUST-1274,Consumer,Atlanta,East,Furniture,Storage,217.91,2,0.1,-10.72
+ORD-01201,2021-04-29,2021-05-01,First Class,CUST-1158,Corporate,Atlanta,East,Furniture,Chairs,986.25,1,0.0,101.66
+ORD-01202,2022-12-12,2022-12-17,Standard Class,CUST-1060,Corporate,San Francisco,West,Office Supplies,Paper,239.99,3,0.0,55.61
+ORD-01203,2021-06-07,2021-06-11,Standard Class,CUST-1188,Consumer,Atlanta,East,Office Supplies,Binders,213.01,2,0.0,88.37
+ORD-01204,2021-04-01,2021-04-02,Second Class,CUST-1018,Consumer,Miami,South,Technology,Phones,3049.87,2,0.0,866.3
+ORD-01205,2022-07-10,2022-07-11,Second Class,CUST-1114,Consumer,San Francisco,West,Office Supplies,Labels,79.08,2,0.1,29.69
+ORD-01206,2022-09-29,2022-10-02,First Class,CUST-1155,Home Office,Miami,South,Office Supplies,Binders,70.1,5,0.0,17.54
+ORD-01207,2022-05-18,2022-05-20,First Class,CUST-1004,Home Office,Atlanta,East,Office Supplies,Paper,23.7,6,0.0,7.95
+ORD-01208,2021-08-01,2021-08-03,Second Class,CUST-1143,Home Office,Denver,Central,Office Supplies,Binders,163.65,2,0.0,72.05
+ORD-01209,2021-06-23,2021-06-28,Standard Class,CUST-1290,Corporate,Charlotte,South,Technology,Laptops,755.68,5,0.1,97.38
+ORD-01210,2023-03-16,2023-03-23,First Class,CUST-1103,Home Office,Seattle,West,Technology,Laptops,6340.11,1,0.0,978.86
+ORD-01211,2021-09-05,2021-09-10,Standard Class,CUST-1046,Consumer,San Francisco,West,Technology,Phones,2048.12,1,0.0,394.61
+ORD-01212,2021-10-31,2021-11-01,First Class,CUST-1133,Consumer,Chicago,Central,Technology,Accessories,5506.99,3,0.0,604.61
+ORD-01213,2022-05-27,2022-05-28,Second Class,CUST-1066,Home Office,Portland,West,Office Supplies,Paper,143.99,2,0.0,31.02
+ORD-01214,2021-06-03,2021-06-04,Standard Class,CUST-1047,Corporate,New York,East,Technology,Monitors,3490.86,2,0.3,135.05
+ORD-01215,2023-06-07,2023-06-14,First Class,CUST-1109,Consumer,Portland,West,Office Supplies,Pens,62.27,3,0.0,19.1
+ORD-01216,2022-05-19,2022-05-26,Second Class,CUST-1143,Consumer,San Francisco,West,Office Supplies,Pens,133.81,1,0.3,22.72
+ORD-01217,2021-02-09,2021-02-13,First Class,CUST-1289,Corporate,San Francisco,West,Furniture,Storage,4287.77,3,0.0,623.27
+ORD-01218,2022-07-30,2022-07-31,Standard Class,CUST-1081,Consumer,Los Angeles,West,Furniture,Storage,5308.97,2,0.1,486.89
+ORD-01219,2023-03-07,2023-03-10,First Class,CUST-1183,Corporate,Los Angeles,West,Technology,Laptops,4701.95,6,0.0,1027.39
+ORD-01220,2022-01-21,2022-01-25,Second Class,CUST-1112,Home Office,Houston,Central,Office Supplies,Binders,167.22,2,0.0,37.22
+ORD-01221,2021-12-30,2022-01-02,Standard Class,CUST-1269,Home Office,San Francisco,West,Technology,Monitors,606.56,1,0.1,141.6
+ORD-01222,2022-10-23,2022-10-25,Standard Class,CUST-1162,Corporate,Atlanta,East,Office Supplies,Binders,468.8,6,0.2,159.47
+ORD-01223,2022-08-27,2022-08-29,Second Class,CUST-1290,Consumer,San Francisco,West,Technology,Accessories,365.24,4,0.4,32.78
+ORD-01224,2023-10-14,2023-10-16,Standard Class,CUST-1045,Corporate,Nashville,South,Technology,Accessories,961.69,2,0.0,285.12
+ORD-01225,2022-12-19,2022-12-22,Second Class,CUST-1085,Consumer,Boston,East,Office Supplies,Pens,119.12,4,0.0,36.87
+ORD-01226,2023-09-09,2023-09-14,Standard Class,CUST-1150,Corporate,New Orleans,South,Office Supplies,Labels,198.78,1,0.0,43.42
+ORD-01227,2021-11-26,2021-12-03,First Class,CUST-1015,Consumer,Miami,South,Technology,Accessories,372.51,4,0.0,110.66
+ORD-01228,2022-02-25,2022-02-27,Standard Class,CUST-1025,Consumer,Atlanta,East,Furniture,Tables,2029.23,1,0.15,-102.78
+ORD-01229,2023-09-11,2023-09-13,Standard Class,CUST-1242,Consumer,Seattle,West,Furniture,Storage,529.76,1,0.0,12.16
+ORD-01230,2021-07-06,2021-07-13,Second Class,CUST-1228,Consumer,Denver,Central,Office Supplies,Pens,167.8,2,0.0,49.56
+ORD-01231,2021-11-06,2021-11-13,Second Class,CUST-1116,Home Office,Philadelphia,East,Technology,Monitors,1474.9,4,0.15,275.27
+ORD-01232,2023-08-31,2023-09-05,Second Class,CUST-1017,Home Office,Denver,Central,Office Supplies,Labels,531.36,6,0.0,158.72
+ORD-01233,2022-03-10,2022-03-12,Same Day,CUST-1075,Consumer,Portland,West,Furniture,Tables,1258.06,2,0.0,151.95
+ORD-01234,2022-10-30,2022-11-02,Second Class,CUST-1214,Consumer,New York,East,Office Supplies,Pens,64.28,5,0.2,16.44
+ORD-01235,2021-07-26,2021-07-29,Second Class,CUST-1248,Home Office,Los Angeles,West,Technology,Laptops,4609.91,6,0.3,13.03
+ORD-01236,2023-04-03,2023-04-04,Second Class,CUST-1137,Consumer,Seattle,West,Office Supplies,Labels,159.09,4,0.15,21.85
+ORD-01237,2021-07-21,2021-07-23,First Class,CUST-1213,Consumer,Boston,East,Office Supplies,Binders,78.35,6,0.2,14.12
+ORD-01238,2023-09-20,2023-09-25,Standard Class,CUST-1259,Home Office,San Francisco,West,Office Supplies,Binders,117.67,3,0.1,22.33
+ORD-01239,2023-07-24,2023-07-25,Standard Class,CUST-1203,Home Office,San Francisco,West,Furniture,Chairs,3321.31,5,0.0,517.71
+ORD-01240,2021-12-30,2022-01-03,Second Class,CUST-1046,Consumer,Dallas,Central,Office Supplies,Binders,270.29,3,0.0,110.66
+ORD-01241,2022-02-28,2022-03-03,Second Class,CUST-1004,Home Office,San Francisco,West,Technology,Monitors,1189.06,6,0.3,170.54
+ORD-01242,2022-09-18,2022-09-25,Second Class,CUST-1235,Consumer,New York,East,Furniture,Tables,5231.82,3,0.0,230.82
+ORD-01243,2023-02-06,2023-02-11,Standard Class,CUST-1172,Corporate,Atlanta,East,Technology,Monitors,5066.66,1,0.0,616.21
+ORD-01244,2022-09-04,2022-09-06,Same Day,CUST-1206,Corporate,New Orleans,South,Office Supplies,Pens,37.44,5,0.3,9.41
+ORD-01245,2023-05-08,2023-05-12,Standard Class,CUST-1175,Home Office,Denver,Central,Office Supplies,Paper,55.17,2,0.1,22.0
+ORD-01246,2023-11-05,2023-11-08,Second Class,CUST-1132,Home Office,Denver,Central,Office Supplies,Paper,255.17,6,0.0,81.07
+ORD-01247,2022-04-03,2022-04-10,Standard Class,CUST-1299,Corporate,New Orleans,South,Office Supplies,Paper,420.34,3,0.2,76.85
+ORD-01248,2021-09-03,2021-09-10,Standard Class,CUST-1070,Consumer,New York,East,Technology,Phones,3233.52,2,0.0,886.53
+ORD-01249,2022-01-05,2022-01-06,First Class,CUST-1140,Consumer,Atlanta,East,Office Supplies,Pens,151.4,4,0.0,32.48
+ORD-01250,2021-06-30,2021-07-02,First Class,CUST-1002,Consumer,Philadelphia,East,Technology,Laptops,6453.21,4,0.0,1891.21
+ORD-01251,2023-12-24,2023-12-26,First Class,CUST-1176,Home Office,Chicago,Central,Technology,Laptops,217.09,6,0.1,21.66
+ORD-01252,2022-09-03,2022-09-06,First Class,CUST-1175,Consumer,Boston,East,Furniture,Chairs,2625.22,2,0.0,319.48
+ORD-01253,2023-04-07,2023-04-08,First Class,CUST-1086,Consumer,Philadelphia,East,Office Supplies,Labels,76.24,5,0.0,15.67
+ORD-01254,2021-04-09,2021-04-16,Second Class,CUST-1194,Corporate,Boston,East,Technology,Phones,448.66,4,0.0,55.26
+ORD-01255,2021-01-20,2021-01-23,Second Class,CUST-1070,Consumer,Philadelphia,East,Technology,Accessories,992.8,5,0.15,78.43
+ORD-01256,2023-10-17,2023-10-19,First Class,CUST-1209,Consumer,New York,East,Furniture,Chairs,2724.73,3,0.2,254.16
+ORD-01257,2022-04-26,2022-04-27,Standard Class,CUST-1252,Corporate,Philadelphia,East,Technology,Phones,160.52,6,0.3,18.79
+ORD-01258,2022-06-09,2022-06-16,Standard Class,CUST-1020,Corporate,Chicago,Central,Technology,Phones,2195.01,2,0.0,241.49
+ORD-01259,2021-04-04,2021-04-05,Standard Class,CUST-1137,Consumer,Houston,Central,Office Supplies,Pens,257.08,5,0.0,108.91
+ORD-01260,2023-07-24,2023-07-27,Standard Class,CUST-1057,Consumer,Boston,East,Office Supplies,Binders,403.77,2,0.2,105.87
+ORD-01261,2023-09-16,2023-09-21,First Class,CUST-1014,Consumer,Nashville,South,Technology,Phones,3168.55,5,0.1,652.19
+ORD-01262,2021-04-05,2021-04-06,Standard Class,CUST-1295,Consumer,Atlanta,East,Office Supplies,Paper,128.8,5,0.0,53.72
+ORD-01263,2021-07-15,2021-07-19,Second Class,CUST-1197,Corporate,New Orleans,South,Office Supplies,Paper,201.9,6,0.0,73.88
+ORD-01264,2023-10-13,2023-10-15,Standard Class,CUST-1025,Corporate,San Francisco,West,Technology,Phones,1488.76,3,0.0,247.4
+ORD-01265,2023-07-07,2023-07-08,Standard Class,CUST-1009,Consumer,Philadelphia,East,Furniture,Storage,6224.81,6,0.0,1214.88
+ORD-01266,2022-09-16,2022-09-21,First Class,CUST-1114,Home Office,Los Angeles,West,Technology,Monitors,3584.08,1,0.4,-97.96
+ORD-01267,2023-07-16,2023-07-17,Standard Class,CUST-1149,Corporate,Atlanta,East,Office Supplies,Pens,38.26,6,0.0,11.05
+ORD-01268,2023-04-19,2023-04-20,Standard Class,CUST-1110,Home Office,Chicago,Central,Furniture,Bookcases,1064.58,4,0.0,194.34
+ORD-01269,2021-09-10,2021-09-14,Standard Class,CUST-1024,Corporate,Chicago,Central,Furniture,Tables,1053.07,6,0.4,-262.13
+ORD-01270,2021-12-29,2022-01-05,First Class,CUST-1164,Home Office,Denver,Central,Office Supplies,Labels,177.78,5,0.0,64.78
+ORD-01271,2022-08-26,2022-08-30,Same Day,CUST-1262,Consumer,Philadelphia,East,Furniture,Storage,2936.31,6,0.0,367.05
+ORD-01272,2022-08-19,2022-08-26,Second Class,CUST-1257,Consumer,Dallas,Central,Technology,Accessories,994.17,2,0.5,-19.87
+ORD-01273,2023-05-05,2023-05-12,Second Class,CUST-1267,Corporate,Houston,Central,Furniture,Bookcases,2879.89,1,0.3,-271.87
+ORD-01274,2021-11-26,2021-11-29,First Class,CUST-1104,Consumer,Los Angeles,West,Technology,Monitors,2834.88,3,0.2,391.55
+ORD-01275,2022-04-05,2022-04-12,First Class,CUST-1147,Consumer,Atlanta,East,Office Supplies,Binders,395.33,6,0.0,156.58
+ORD-01276,2022-10-03,2022-10-08,First Class,CUST-1115,Consumer,Charlotte,South,Office Supplies,Binders,38.4,4,0.0,16.02
+ORD-01277,2022-08-26,2022-08-30,Same Day,CUST-1061,Corporate,Dallas,Central,Office Supplies,Pens,30.73,5,0.0,7.48
+ORD-01278,2022-06-07,2022-06-08,Second Class,CUST-1026,Consumer,Seattle,West,Furniture,Storage,1323.91,5,0.0,241.16
+ORD-01279,2023-12-13,2023-12-15,Second Class,CUST-1274,Consumer,Boston,East,Office Supplies,Pens,115.01,5,0.2,16.08
+ORD-01280,2022-08-25,2022-08-27,Standard Class,CUST-1004,Corporate,San Francisco,West,Furniture,Bookcases,3431.05,6,0.5,-322.79
+ORD-01281,2022-10-20,2022-10-24,Second Class,CUST-1012,Home Office,Philadelphia,East,Technology,Accessories,2306.64,3,0.0,479.89
+ORD-01282,2022-01-30,2022-02-02,Standard Class,CUST-1273,Consumer,Atlanta,East,Office Supplies,Pens,79.51,5,0.0,34.91
+ORD-01283,2021-08-01,2021-08-03,Standard Class,CUST-1078,Home Office,San Francisco,West,Technology,Phones,5172.61,6,0.1,1230.82
+ORD-01284,2021-05-25,2021-05-30,First Class,CUST-1221,Consumer,Los Angeles,West,Technology,Accessories,6269.17,4,0.0,1192.55
+ORD-01285,2021-04-04,2021-04-11,Second Class,CUST-1154,Corporate,Chicago,Central,Furniture,Storage,2775.65,6,0.4,-620.26
+ORD-01286,2021-03-05,2021-03-09,First Class,CUST-1151,Consumer,Denver,Central,Office Supplies,Pens,55.33,5,0.0,16.47
+ORD-01287,2021-10-17,2021-10-18,Standard Class,CUST-1107,Home Office,Seattle,West,Office Supplies,Paper,39.81,3,0.1,15.4
+ORD-01288,2022-06-02,2022-06-04,Standard Class,CUST-1236,Consumer,San Francisco,West,Office Supplies,Pens,15.13,5,0.3,4.28
+ORD-01289,2023-09-25,2023-09-28,Standard Class,CUST-1162,Consumer,Los Angeles,West,Office Supplies,Binders,113.57,2,0.0,40.3
+ORD-01290,2023-01-17,2023-01-20,Standard Class,CUST-1223,Corporate,Boston,East,Furniture,Bookcases,3459.44,2,0.0,39.94
+ORD-01291,2023-01-05,2023-01-08,Standard Class,CUST-1071,Home Office,Seattle,West,Technology,Accessories,1320.03,3,0.0,292.16
+ORD-01292,2023-11-05,2023-11-12,First Class,CUST-1282,Corporate,Los Angeles,West,Office Supplies,Paper,30.47,1,0.2,4.67
+ORD-01293,2022-08-19,2022-08-21,Standard Class,CUST-1122,Consumer,Dallas,Central,Technology,Monitors,1268.81,6,0.0,254.31
+ORD-01294,2021-10-27,2021-11-03,Standard Class,CUST-1032,Consumer,Dallas,Central,Office Supplies,Paper,333.42,2,0.0,130.16
+ORD-01295,2023-03-06,2023-03-10,First Class,CUST-1266,Corporate,San Francisco,West,Technology,Laptops,2311.17,1,0.0,530.89
+ORD-01296,2023-02-11,2023-02-18,Second Class,CUST-1264,Corporate,Houston,Central,Office Supplies,Pens,53.9,2,0.1,13.16
+ORD-01297,2021-10-12,2021-10-16,Standard Class,CUST-1095,Home Office,Atlanta,East,Furniture,Bookcases,343.38,2,0.1,-10.23
+ORD-01298,2023-09-14,2023-09-21,Second Class,CUST-1011,Home Office,Denver,Central,Technology,Phones,2342.3,4,0.1,420.33
+ORD-01299,2021-10-28,2021-10-29,Second Class,CUST-1009,Consumer,Philadelphia,East,Technology,Laptops,1048.65,5,0.1,137.47
+ORD-01300,2023-09-14,2023-09-16,Same Day,CUST-1261,Consumer,Nashville,South,Office Supplies,Pens,132.51,2,0.1,46.2
+ORD-01301,2021-08-11,2021-08-12,Standard Class,CUST-1243,Consumer,Miami,South,Technology,Accessories,2129.29,2,0.2,257.86
+ORD-01302,2021-01-03,2021-01-10,Second Class,CUST-1219,Consumer,Miami,South,Office Supplies,Binders,396.55,5,0.0,83.62
+ORD-01303,2021-07-20,2021-07-24,First Class,CUST-1145,Consumer,Denver,Central,Technology,Monitors,1625.38,1,0.2,295.85
+ORD-01304,2023-12-07,2023-12-08,First Class,CUST-1209,Corporate,Los Angeles,West,Office Supplies,Labels,273.24,3,0.15,81.14
+ORD-01305,2023-01-19,2023-01-24,Second Class,CUST-1247,Consumer,Boston,East,Furniture,Tables,1819.05,5,0.2,-84.94
+ORD-01306,2023-03-27,2023-04-03,First Class,CUST-1082,Corporate,Seattle,West,Technology,Monitors,439.93,6,0.15,50.29
+ORD-01307,2021-01-11,2021-01-12,Same Day,CUST-1134,Consumer,Chicago,Central,Technology,Monitors,5024.37,1,0.4,-64.94
+ORD-01308,2023-12-04,2023-12-07,Standard Class,CUST-1253,Home Office,Atlanta,East,Technology,Phones,1102.01,6,0.4,70.58
+ORD-01309,2023-11-12,2023-11-17,First Class,CUST-1000,Consumer,New Orleans,South,Furniture,Tables,2188.52,6,0.15,-76.74
+ORD-01310,2022-02-15,2022-02-20,Standard Class,CUST-1286,Consumer,Charlotte,South,Office Supplies,Binders,5.06,6,0.3,0.95
+ORD-01311,2023-07-21,2023-07-25,Same Day,CUST-1037,Consumer,Boston,East,Office Supplies,Pens,265.08,5,0.0,86.56
+ORD-01312,2022-05-28,2022-06-04,First Class,CUST-1234,Home Office,New Orleans,South,Furniture,Bookcases,3069.75,3,0.1,283.93
+ORD-01313,2022-03-28,2022-04-04,Second Class,CUST-1004,Consumer,Boston,East,Office Supplies,Binders,320.01,5,0.0,92.25
+ORD-01314,2022-12-02,2022-12-03,Second Class,CUST-1137,Consumer,Los Angeles,West,Office Supplies,Pens,170.82,5,0.0,49.26
+ORD-01315,2022-06-28,2022-06-30,Standard Class,CUST-1061,Consumer,Philadelphia,East,Technology,Laptops,1163.48,1,0.2,82.85
+ORD-01316,2022-10-08,2022-10-12,Standard Class,CUST-1143,Home Office,New York,East,Office Supplies,Labels,405.68,5,0.0,180.97
+ORD-01317,2023-10-27,2023-10-30,Second Class,CUST-1235,Consumer,Portland,West,Furniture,Tables,1538.64,5,0.0,-30.63
+ORD-01318,2023-01-11,2023-01-16,Standard Class,CUST-1175,Consumer,San Francisco,West,Furniture,Chairs,2817.23,4,0.1,-114.7
+ORD-01319,2023-04-01,2023-04-04,Standard Class,CUST-1138,Corporate,Atlanta,East,Furniture,Storage,866.24,1,0.5,-111.31
+ORD-01320,2021-11-03,2021-11-07,Same Day,CUST-1264,Consumer,Nashville,South,Office Supplies,Labels,243.64,6,0.0,56.92
+ORD-01321,2021-04-08,2021-04-12,First Class,CUST-1049,Consumer,Houston,Central,Furniture,Bookcases,536.51,4,0.0,82.33
+ORD-01322,2022-06-12,2022-06-15,First Class,CUST-1101,Corporate,Seattle,West,Furniture,Bookcases,133.72,5,0.0,16.03
+ORD-01323,2023-09-26,2023-10-03,Second Class,CUST-1074,Consumer,New Orleans,South,Office Supplies,Paper,69.8,6,0.0,18.96
+ORD-01324,2021-11-28,2021-12-01,Standard Class,CUST-1202,Home Office,Atlanta,East,Office Supplies,Pens,97.13,5,0.15,29.39
+ORD-01325,2023-07-12,2023-07-16,Second Class,CUST-1040,Corporate,Houston,Central,Technology,Monitors,584.83,3,0.0,85.93
+ORD-01326,2021-04-21,2021-04-22,Standard Class,CUST-1199,Home Office,Los Angeles,West,Technology,Monitors,1973.15,1,0.0,441.24
+ORD-01327,2021-12-16,2021-12-17,Standard Class,CUST-1239,Corporate,Denver,Central,Furniture,Tables,335.5,4,0.3,-39.82
+ORD-01328,2021-12-29,2022-01-03,Second Class,CUST-1177,Home Office,Philadelphia,East,Office Supplies,Pens,329.94,3,0.1,102.24
+ORD-01329,2021-11-15,2021-11-18,Standard Class,CUST-1251,Consumer,Denver,Central,Furniture,Tables,235.89,1,0.0,15.88
+ORD-01330,2021-01-15,2021-01-20,Second Class,CUST-1083,Corporate,Portland,West,Office Supplies,Labels,165.7,2,0.3,26.39
+ORD-01331,2022-05-06,2022-05-11,Standard Class,CUST-1211,Consumer,Dallas,Central,Office Supplies,Labels,347.57,3,0.0,134.07
+ORD-01332,2023-07-17,2023-07-20,Standard Class,CUST-1273,Consumer,Seattle,West,Technology,Phones,7244.35,1,0.0,752.54
+ORD-01333,2022-04-22,2022-04-23,Second Class,CUST-1190,Corporate,San Francisco,West,Technology,Phones,2186.29,4,0.0,402.38
+ORD-01334,2021-05-27,2021-06-01,First Class,CUST-1006,Consumer,Philadelphia,East,Furniture,Chairs,1258.95,4,0.3,-173.08
+ORD-01335,2022-02-12,2022-02-16,Same Day,CUST-1199,Consumer,Atlanta,East,Technology,Laptops,1702.12,4,0.1,419.44
+ORD-01336,2023-12-03,2023-12-04,Standard Class,CUST-1111,Corporate,Nashville,South,Office Supplies,Pens,125.19,6,0.0,52.82
+ORD-01337,2021-09-03,2021-09-07,First Class,CUST-1243,Consumer,Boston,East,Office Supplies,Paper,71.66,6,0.4,10.41
+ORD-01338,2022-11-25,2022-12-02,Standard Class,CUST-1064,Consumer,New York,East,Office Supplies,Paper,37.01,1,0.1,12.04
+ORD-01339,2022-01-31,2022-02-01,Standard Class,CUST-1248,Home Office,New Orleans,South,Furniture,Bookcases,3242.89,1,0.15,-202.12
+ORD-01340,2022-12-14,2022-12-17,Standard Class,CUST-1082,Consumer,Atlanta,East,Office Supplies,Pens,233.52,5,0.3,46.63
+ORD-01341,2023-11-03,2023-11-07,Standard Class,CUST-1122,Corporate,Boston,East,Technology,Laptops,1698.67,5,0.1,208.62
+ORD-01342,2021-11-12,2021-11-17,Second Class,CUST-1034,Consumer,Denver,Central,Furniture,Chairs,2092.75,5,0.1,-151.48
+ORD-01343,2021-07-22,2021-07-23,Standard Class,CUST-1131,Consumer,Los Angeles,West,Technology,Laptops,5145.31,6,0.15,669.74
+ORD-01344,2023-10-04,2023-10-05,First Class,CUST-1188,Consumer,New York,East,Technology,Laptops,1276.54,4,0.0,317.47
+ORD-01345,2022-09-15,2022-09-16,Second Class,CUST-1097,Corporate,Houston,Central,Office Supplies,Binders,141.97,4,0.0,36.59
+ORD-01346,2021-08-05,2021-08-12,Second Class,CUST-1085,Corporate,Philadelphia,East,Technology,Laptops,5188.73,1,0.15,572.91
+ORD-01347,2022-12-23,2022-12-26,Second Class,CUST-1220,Corporate,Philadelphia,East,Office Supplies,Labels,203.43,6,0.2,41.31
+ORD-01348,2022-06-05,2022-06-08,Second Class,CUST-1145,Consumer,Philadelphia,East,Office Supplies,Pens,346.66,1,0.4,0.02
+ORD-01349,2022-03-16,2022-03-19,Same Day,CUST-1292,Consumer,New Orleans,South,Office Supplies,Paper,17.11,5,0.3,3.04
+ORD-01350,2022-05-27,2022-05-29,Standard Class,CUST-1039,Consumer,Philadelphia,East,Technology,Phones,2368.08,2,0.0,426.16
+ORD-01351,2023-02-21,2023-02-22,Standard Class,CUST-1061,Corporate,Los Angeles,West,Office Supplies,Labels,354.35,4,0.0,143.26
+ORD-01352,2021-04-21,2021-04-24,Second Class,CUST-1113,Corporate,Chicago,Central,Office Supplies,Paper,218.8,5,0.1,41.0
+ORD-01353,2023-03-19,2023-03-21,Standard Class,CUST-1204,Consumer,Miami,South,Technology,Monitors,504.03,5,0.0,125.54
+ORD-01354,2022-02-10,2022-02-14,Standard Class,CUST-1126,Corporate,Philadelphia,East,Technology,Monitors,1996.62,5,0.1,497.99
+ORD-01355,2021-08-19,2021-08-26,Second Class,CUST-1012,Corporate,Houston,Central,Technology,Accessories,3453.72,5,0.0,566.92
+ORD-01356,2022-04-24,2022-04-26,Standard Class,CUST-1027,Corporate,Charlotte,South,Office Supplies,Paper,167.0,1,0.2,52.3
+ORD-01357,2021-08-16,2021-08-19,Second Class,CUST-1104,Consumer,New Orleans,South,Technology,Laptops,1235.14,2,0.0,306.32
+ORD-01358,2023-02-11,2023-02-16,Second Class,CUST-1138,Corporate,Philadelphia,East,Furniture,Bookcases,1640.27,2,0.0,-57.36
+ORD-01359,2023-01-08,2023-01-09,First Class,CUST-1050,Corporate,Seattle,West,Technology,Phones,975.52,6,0.0,171.83
+ORD-01360,2023-07-27,2023-08-01,Second Class,CUST-1170,Consumer,Miami,South,Office Supplies,Labels,139.32,3,0.0,59.99
+ORD-01361,2023-10-24,2023-10-27,Standard Class,CUST-1284,Consumer,Seattle,West,Furniture,Tables,3108.45,1,0.3,70.25
+ORD-01362,2023-02-22,2023-02-27,Standard Class,CUST-1159,Corporate,Portland,West,Office Supplies,Paper,288.58,4,0.0,99.05
+ORD-01363,2022-02-19,2022-02-21,Standard Class,CUST-1289,Consumer,Philadelphia,East,Office Supplies,Pens,99.61,2,0.0,42.56
+ORD-01364,2021-10-26,2021-11-02,First Class,CUST-1155,Consumer,Los Angeles,West,Office Supplies,Pens,19.48,4,0.3,2.99
+ORD-01365,2022-07-01,2022-07-06,Standard Class,CUST-1183,Consumer,San Francisco,West,Furniture,Bookcases,1915.15,1,0.1,-80.96
+ORD-01366,2023-03-05,2023-03-09,Standard Class,CUST-1138,Corporate,Portland,West,Technology,Monitors,2579.7,1,0.0,274.6
+ORD-01367,2023-06-19,2023-06-24,Standard Class,CUST-1207,Corporate,Dallas,Central,Office Supplies,Paper,159.69,4,0.3,43.42
+ORD-01368,2023-12-12,2023-12-19,Second Class,CUST-1125,Corporate,Denver,Central,Office Supplies,Labels,118.79,1,0.1,31.23
+ORD-01369,2021-04-11,2021-04-13,Second Class,CUST-1236,Corporate,Miami,South,Furniture,Storage,1666.01,3,0.3,-10.96
+ORD-01370,2023-08-08,2023-08-15,First Class,CUST-1279,Corporate,New York,East,Technology,Accessories,1238.91,6,0.0,268.95
+ORD-01371,2022-02-18,2022-02-22,Second Class,CUST-1063,Consumer,New York,East,Technology,Monitors,1038.9,2,0.15,214.46
+ORD-01372,2023-11-14,2023-11-19,Standard Class,CUST-1171,Corporate,New York,East,Technology,Monitors,8583.97,2,0.1,504.58
+ORD-01373,2023-05-10,2023-05-13,Second Class,CUST-1103,Consumer,San Francisco,West,Office Supplies,Paper,199.52,2,0.0,48.92
+ORD-01374,2021-01-12,2021-01-17,Second Class,CUST-1209,Home Office,Portland,West,Technology,Accessories,4460.43,4,0.0,1034.35
+ORD-01375,2022-03-02,2022-03-03,Second Class,CUST-1295,Corporate,Seattle,West,Furniture,Chairs,352.1,1,0.15,-40.78
+ORD-01376,2022-01-01,2022-01-03,Standard Class,CUST-1018,Consumer,New York,East,Office Supplies,Pens,122.95,3,0.4,23.03
+ORD-01377,2021-05-13,2021-05-16,First Class,CUST-1211,Home Office,Atlanta,East,Technology,Accessories,1090.45,5,0.15,87.11
+ORD-01378,2023-12-20,2023-12-21,Same Day,CUST-1269,Corporate,New York,East,Furniture,Tables,2766.68,3,0.0,448.06
+ORD-01379,2023-10-06,2023-10-08,Second Class,CUST-1060,Corporate,Charlotte,South,Office Supplies,Pens,226.32,1,0.15,83.7
+ORD-01380,2023-04-28,2023-04-29,Same Day,CUST-1130,Corporate,Dallas,Central,Technology,Phones,1935.44,3,0.0,271.42
+ORD-01381,2022-11-14,2022-11-17,Standard Class,CUST-1245,Corporate,Boston,East,Office Supplies,Pens,49.94,3,0.2,7.42
+ORD-01382,2022-11-18,2022-11-22,Standard Class,CUST-1153,Consumer,Atlanta,East,Office Supplies,Binders,284.83,5,0.4,3.99
+ORD-01383,2022-12-26,2022-12-27,Second Class,CUST-1273,Consumer,New York,East,Office Supplies,Pens,349.42,4,0.2,64.57
+ORD-01384,2022-10-07,2022-10-14,First Class,CUST-1231,Home Office,Los Angeles,West,Office Supplies,Labels,38.34,3,0.0,16.07
+ORD-01385,2021-03-18,2021-03-20,Standard Class,CUST-1078,Consumer,Seattle,West,Office Supplies,Pens,494.78,5,0.1,173.05
+ORD-01386,2021-07-21,2021-07-26,Standard Class,CUST-1267,Corporate,Houston,Central,Technology,Monitors,3512.9,4,0.0,376.97
+ORD-01387,2021-07-31,2021-08-05,First Class,CUST-1107,Consumer,Miami,South,Technology,Accessories,5886.64,6,0.0,1481.66
+ORD-01388,2022-07-13,2022-07-15,Second Class,CUST-1052,Corporate,Seattle,West,Furniture,Tables,367.74,5,0.0,38.88
+ORD-01389,2022-08-04,2022-08-09,Second Class,CUST-1227,Consumer,Boston,East,Technology,Accessories,763.1,5,0.0,212.48
+ORD-01390,2023-05-24,2023-05-28,Standard Class,CUST-1273,Consumer,New York,East,Technology,Phones,2201.98,2,0.1,247.7
+ORD-01391,2023-08-18,2023-08-19,First Class,CUST-1132,Home Office,New York,East,Technology,Monitors,4991.37,2,0.0,1444.95
+ORD-01392,2023-07-18,2023-07-22,First Class,CUST-1144,Corporate,Seattle,West,Office Supplies,Labels,37.55,2,0.0,12.0
+ORD-01393,2022-10-30,2022-11-04,First Class,CUST-1122,Home Office,Atlanta,East,Office Supplies,Paper,267.76,4,0.1,66.99
+ORD-01394,2023-06-02,2023-06-06,Standard Class,CUST-1039,Consumer,Charlotte,South,Office Supplies,Paper,235.57,6,0.1,49.24
+ORD-01395,2023-07-01,2023-07-03,Standard Class,CUST-1194,Consumer,Portland,West,Office Supplies,Labels,198.66,5,0.0,45.13
+ORD-01396,2021-01-01,2021-01-03,First Class,CUST-1228,Home Office,San Francisco,West,Furniture,Chairs,4404.59,5,0.1,-11.03
+ORD-01397,2022-12-07,2022-12-08,First Class,CUST-1189,Home Office,Seattle,West,Technology,Accessories,4928.87,1,0.2,840.38
+ORD-01398,2021-03-05,2021-03-07,Standard Class,CUST-1195,Consumer,Seattle,West,Office Supplies,Binders,243.35,4,0.1,79.81
+ORD-01399,2023-01-08,2023-01-12,Second Class,CUST-1073,Consumer,Denver,Central,Furniture,Tables,724.51,1,0.0,-23.23
+ORD-01400,2023-05-02,2023-05-06,Second Class,CUST-1282,Consumer,Dallas,Central,Office Supplies,Labels,484.45,4,0.1,127.7
+ORD-01401,2023-10-18,2023-10-25,Standard Class,CUST-1017,Consumer,Philadelphia,East,Office Supplies,Labels,117.99,3,0.0,39.71
+ORD-01402,2021-06-13,2021-06-15,Same Day,CUST-1045,Corporate,Chicago,Central,Office Supplies,Labels,332.63,5,0.0,73.03
+ORD-01403,2021-01-23,2021-01-27,First Class,CUST-1150,Corporate,Houston,Central,Technology,Phones,4479.41,3,0.1,520.97
+ORD-01404,2021-05-06,2021-05-13,Second Class,CUST-1013,Corporate,Houston,Central,Technology,Phones,2318.89,3,0.1,420.33
+ORD-01405,2021-09-29,2021-10-04,Standard Class,CUST-1077,Home Office,Los Angeles,West,Technology,Phones,2538.71,2,0.0,310.51
+ORD-01406,2022-01-06,2022-01-11,Standard Class,CUST-1078,Corporate,Houston,Central,Office Supplies,Pens,194.99,5,0.5,37.41
+ORD-01407,2021-12-09,2021-12-11,Second Class,CUST-1026,Corporate,Dallas,Central,Office Supplies,Labels,266.32,1,0.0,70.87
+ORD-01408,2023-12-27,2023-12-29,First Class,CUST-1006,Corporate,Atlanta,East,Technology,Monitors,4294.17,4,0.0,554.08
+ORD-01409,2021-03-26,2021-03-27,Second Class,CUST-1139,Home Office,Boston,East,Technology,Monitors,4159.33,6,0.4,-56.75
+ORD-01410,2022-05-11,2022-05-18,Standard Class,CUST-1160,Corporate,Houston,Central,Furniture,Bookcases,2235.99,2,0.1,155.24
+ORD-01411,2023-07-03,2023-07-06,Second Class,CUST-1047,Consumer,Chicago,Central,Furniture,Chairs,1419.02,5,0.0,-58.87
+ORD-01412,2021-09-24,2021-09-28,Standard Class,CUST-1150,Corporate,Miami,South,Technology,Laptops,2393.59,3,0.3,213.34
+ORD-01413,2022-10-25,2022-10-28,Second Class,CUST-1170,Corporate,Boston,East,Furniture,Chairs,375.34,4,0.0,-12.91
+ORD-01414,2022-02-15,2022-02-20,Standard Class,CUST-1111,Consumer,New Orleans,South,Office Supplies,Pens,247.73,4,0.0,83.03
+ORD-01415,2022-05-29,2022-06-02,Standard Class,CUST-1199,Consumer,New Orleans,South,Office Supplies,Binders,30.88,1,0.0,11.12
+ORD-01416,2023-10-02,2023-10-06,First Class,CUST-1246,Corporate,Miami,South,Technology,Accessories,1082.64,6,0.1,54.85
+ORD-01417,2021-07-05,2021-07-08,Second Class,CUST-1103,Consumer,Boston,East,Technology,Accessories,4288.92,3,0.0,823.16
+ORD-01418,2021-08-07,2021-08-14,Standard Class,CUST-1097,Consumer,Nashville,South,Technology,Phones,7137.35,6,0.0,1617.03
+ORD-01419,2022-09-23,2022-09-27,Standard Class,CUST-1028,Consumer,San Francisco,West,Technology,Laptops,3427.35,3,0.4,-331.48
+ORD-01420,2023-07-28,2023-08-04,Second Class,CUST-1018,Home Office,Philadelphia,East,Furniture,Chairs,2684.88,1,0.15,-179.23
+ORD-01421,2022-05-13,2022-05-20,Second Class,CUST-1049,Home Office,Denver,Central,Office Supplies,Labels,99.07,3,0.0,21.05
+ORD-01422,2023-10-16,2023-10-21,Standard Class,CUST-1205,Home Office,Chicago,Central,Furniture,Tables,2917.2,3,0.0,1.93
+ORD-01423,2022-11-19,2022-11-20,Second Class,CUST-1283,Corporate,Philadelphia,East,Furniture,Tables,488.42,3,0.2,-52.74
+ORD-01424,2023-02-10,2023-02-12,First Class,CUST-1145,Consumer,Miami,South,Technology,Laptops,943.8,1,0.0,95.74
+ORD-01425,2023-07-12,2023-07-16,Standard Class,CUST-1255,Consumer,Dallas,Central,Furniture,Storage,912.11,2,0.1,-82.63
+ORD-01426,2022-04-28,2022-04-30,Standard Class,CUST-1259,Consumer,Boston,East,Office Supplies,Binders,19.84,5,0.1,7.26
+ORD-01427,2023-08-30,2023-09-03,Standard Class,CUST-1222,Consumer,San Francisco,West,Technology,Laptops,605.54,2,0.0,104.66
+ORD-01428,2021-03-01,2021-03-05,Standard Class,CUST-1296,Home Office,Los Angeles,West,Technology,Monitors,969.0,5,0.3,91.36
+ORD-01429,2022-04-12,2022-04-13,Standard Class,CUST-1037,Consumer,Houston,Central,Furniture,Tables,1408.68,2,0.3,-149.48
+ORD-01430,2023-07-21,2023-07-23,First Class,CUST-1138,Consumer,Portland,West,Furniture,Storage,1516.92,3,0.0,-2.22
+ORD-01431,2023-08-12,2023-08-16,Standard Class,CUST-1087,Consumer,Los Angeles,West,Technology,Laptops,3485.74,2,0.0,554.35
+ORD-01432,2023-08-28,2023-09-01,Standard Class,CUST-1222,Home Office,Portland,West,Office Supplies,Paper,154.63,3,0.15,28.86
+ORD-01433,2023-08-22,2023-08-29,Standard Class,CUST-1050,Consumer,Miami,South,Office Supplies,Paper,116.45,6,0.0,34.77
+ORD-01434,2022-03-23,2022-03-25,Standard Class,CUST-1156,Corporate,Los Angeles,West,Furniture,Tables,1276.72,4,0.1,-98.71
+ORD-01435,2021-10-11,2021-10-18,Standard Class,CUST-1036,Home Office,Miami,South,Technology,Monitors,3057.29,1,0.1,583.27
+ORD-01436,2022-03-01,2022-03-08,Standard Class,CUST-1186,Consumer,Boston,East,Furniture,Bookcases,605.96,6,0.15,-67.44
+ORD-01437,2021-12-25,2022-01-01,Standard Class,CUST-1171,Corporate,Atlanta,East,Office Supplies,Binders,77.42,2,0.1,26.59
+ORD-01438,2022-10-19,2022-10-22,First Class,CUST-1231,Corporate,Philadelphia,East,Technology,Phones,9060.98,3,0.0,1020.94
+ORD-01439,2021-05-15,2021-05-17,Standard Class,CUST-1147,Consumer,Boston,East,Furniture,Chairs,6464.94,2,0.0,308.19
+ORD-01440,2021-11-05,2021-11-07,Standard Class,CUST-1067,Consumer,Seattle,West,Office Supplies,Binders,80.5,5,0.0,35.61
+ORD-01441,2022-04-21,2022-04-26,Standard Class,CUST-1248,Consumer,New York,East,Furniture,Storage,4305.39,3,0.1,275.29
+ORD-01442,2022-06-17,2022-06-19,Standard Class,CUST-1145,Home Office,Philadelphia,East,Office Supplies,Labels,180.52,3,0.2,20.19
+ORD-01443,2021-12-26,2022-01-02,Standard Class,CUST-1294,Corporate,Philadelphia,East,Furniture,Tables,2555.72,3,0.0,-53.08
+ORD-01444,2022-10-12,2022-10-15,Standard Class,CUST-1062,Corporate,Philadelphia,East,Technology,Accessories,1944.98,3,0.1,160.5
+ORD-01445,2021-11-16,2021-11-17,First Class,CUST-1293,Home Office,Nashville,South,Office Supplies,Labels,393.32,3,0.1,88.06
+ORD-01446,2021-10-13,2021-10-20,First Class,CUST-1228,Corporate,New York,East,Office Supplies,Labels,254.67,2,0.0,90.25
+ORD-01447,2022-07-24,2022-07-26,Standard Class,CUST-1201,Corporate,San Francisco,West,Furniture,Bookcases,470.33,5,0.15,53.81
+ORD-01448,2021-10-30,2021-11-06,Standard Class,CUST-1179,Home Office,New York,East,Technology,Accessories,6491.25,3,0.0,664.95
+ORD-01449,2023-05-02,2023-05-06,First Class,CUST-1044,Consumer,Miami,South,Furniture,Storage,2008.3,5,0.15,-43.08
+ORD-01450,2023-02-09,2023-02-10,Same Day,CUST-1290,Consumer,Boston,East,Technology,Accessories,645.67,6,0.0,136.34
+ORD-01451,2022-09-11,2022-09-16,Standard Class,CUST-1134,Consumer,Portland,West,Office Supplies,Paper,196.27,2,0.0,78.08
+ORD-01452,2022-05-17,2022-05-18,Standard Class,CUST-1185,Consumer,Seattle,West,Furniture,Storage,908.71,5,0.0,175.07
+ORD-01453,2023-02-04,2023-02-09,First Class,CUST-1074,Home Office,Charlotte,South,Office Supplies,Labels,89.02,1,0.2,12.53
+ORD-01454,2022-12-31,2023-01-01,Standard Class,CUST-1048,Consumer,New York,East,Furniture,Tables,533.48,2,0.1,48.87
+ORD-01455,2022-09-09,2022-09-12,Second Class,CUST-1006,Home Office,Boston,East,Office Supplies,Paper,313.17,2,0.0,108.05
+ORD-01456,2021-11-30,2021-12-01,First Class,CUST-1269,Consumer,Atlanta,East,Technology,Accessories,1121.78,5,0.2,178.39
+ORD-01457,2021-02-05,2021-02-09,Standard Class,CUST-1267,Consumer,New York,East,Office Supplies,Binders,166.47,5,0.0,51.69
+ORD-01458,2022-04-01,2022-04-03,First Class,CUST-1066,Consumer,Seattle,West,Office Supplies,Pens,219.71,2,0.15,44.35
+ORD-01459,2023-06-03,2023-06-04,First Class,CUST-1240,Consumer,Chicago,Central,Office Supplies,Labels,26.78,1,0.2,6.12
+ORD-01460,2021-09-11,2021-09-16,First Class,CUST-1074,Corporate,Seattle,West,Technology,Accessories,1344.85,1,0.0,229.04
+ORD-01461,2022-05-11,2022-05-16,First Class,CUST-1111,Consumer,New Orleans,South,Office Supplies,Pens,70.14,5,0.2,20.4
+ORD-01462,2022-03-15,2022-03-20,Standard Class,CUST-1054,Home Office,Los Angeles,West,Office Supplies,Pens,513.75,4,0.0,178.45
+ORD-01463,2021-08-20,2021-08-23,Standard Class,CUST-1147,Consumer,Charlotte,South,Technology,Accessories,435.89,3,0.1,65.02
+ORD-01464,2022-10-01,2022-10-08,Standard Class,CUST-1096,Consumer,Portland,West,Office Supplies,Binders,586.18,4,0.0,176.92
+ORD-01465,2023-10-04,2023-10-11,Same Day,CUST-1073,Consumer,New Orleans,South,Office Supplies,Labels,72.9,1,0.1,23.26
+ORD-01466,2022-11-25,2022-11-27,Same Day,CUST-1255,Consumer,Dallas,Central,Furniture,Chairs,4445.73,6,0.0,709.22
+ORD-01467,2023-04-09,2023-04-13,Second Class,CUST-1250,Consumer,Denver,Central,Technology,Accessories,2202.01,3,0.2,47.58
+ORD-01468,2021-02-24,2021-02-26,Standard Class,CUST-1039,Home Office,Los Angeles,West,Furniture,Tables,2251.43,1,0.0,237.51
+ORD-01469,2023-10-31,2023-11-03,Standard Class,CUST-1060,Consumer,Dallas,Central,Office Supplies,Labels,50.19,4,0.4,0.4
+ORD-01470,2022-09-13,2022-09-20,Standard Class,CUST-1056,Consumer,Charlotte,South,Furniture,Bookcases,1516.18,4,0.0,195.48
+ORD-01471,2023-11-04,2023-11-05,First Class,CUST-1180,Consumer,Denver,Central,Office Supplies,Labels,222.3,6,0.1,54.34
+ORD-01472,2023-01-21,2023-01-24,Standard Class,CUST-1049,Corporate,New York,East,Office Supplies,Pens,97.91,4,0.2,25.09
+ORD-01473,2022-10-02,2022-10-07,Standard Class,CUST-1010,Corporate,New York,East,Furniture,Bookcases,171.08,2,0.3,-29.32
+ORD-01474,2022-07-01,2022-07-02,First Class,CUST-1165,Corporate,Atlanta,East,Furniture,Chairs,641.57,4,0.5,-131.88
+ORD-01475,2022-11-27,2022-11-29,Second Class,CUST-1038,Consumer,San Francisco,West,Office Supplies,Labels,169.47,6,0.4,8.55
+ORD-01476,2022-04-08,2022-04-13,Second Class,CUST-1172,Consumer,Los Angeles,West,Office Supplies,Paper,95.81,5,0.15,25.83
+ORD-01477,2022-09-11,2022-09-16,Second Class,CUST-1205,Corporate,Boston,East,Technology,Monitors,6968.27,4,0.15,610.91
+ORD-01478,2023-11-24,2023-11-26,Second Class,CUST-1137,Home Office,Dallas,Central,Technology,Monitors,2595.46,4,0.15,492.57
+ORD-01479,2021-10-30,2021-11-01,Standard Class,CUST-1104,Corporate,Miami,South,Office Supplies,Labels,64.37,1,0.2,13.04
+ORD-01480,2023-04-12,2023-04-14,Second Class,CUST-1237,Consumer,Dallas,Central,Office Supplies,Pens,42.93,3,0.0,17.14
+ORD-01481,2021-03-01,2021-03-04,Standard Class,CUST-1248,Consumer,New York,East,Furniture,Storage,3678.22,1,0.15,-297.95
+ORD-01482,2021-05-11,2021-05-15,Standard Class,CUST-1120,Consumer,Miami,South,Office Supplies,Binders,135.03,2,0.0,55.36
+ORD-01483,2021-09-08,2021-09-11,Standard Class,CUST-1111,Consumer,Boston,East,Technology,Phones,3063.54,4,0.2,455.83
+ORD-01484,2021-04-25,2021-04-29,Standard Class,CUST-1126,Consumer,Seattle,West,Technology,Laptops,1426.98,6,0.0,263.64
+ORD-01485,2021-03-13,2021-03-20,Standard Class,CUST-1129,Home Office,Boston,East,Office Supplies,Paper,85.87,2,0.15,27.67
+ORD-01486,2022-04-30,2022-05-04,Second Class,CUST-1046,Home Office,Boston,East,Office Supplies,Pens,147.19,3,0.4,33.78
+ORD-01487,2023-04-13,2023-04-14,Second Class,CUST-1211,Home Office,San Francisco,West,Office Supplies,Paper,35.79,4,0.2,11.99
+ORD-01488,2023-11-03,2023-11-04,Second Class,CUST-1094,Home Office,Chicago,Central,Office Supplies,Pens,168.06,1,0.0,34.76
+ORD-01489,2021-06-18,2021-06-19,Standard Class,CUST-1231,Corporate,San Francisco,West,Office Supplies,Paper,44.62,3,0.2,12.11
+ORD-01490,2023-04-29,2023-05-02,Standard Class,CUST-1010,Corporate,Seattle,West,Furniture,Tables,982.11,2,0.4,-28.4
+ORD-01491,2021-12-12,2021-12-13,Second Class,CUST-1087,Consumer,Charlotte,South,Office Supplies,Paper,227.34,3,0.1,42.58
+ORD-01492,2023-10-10,2023-10-11,First Class,CUST-1147,Corporate,Portland,West,Office Supplies,Binders,75.1,3,0.0,31.2
+ORD-01493,2022-08-03,2022-08-10,Same Day,CUST-1148,Corporate,San Francisco,West,Office Supplies,Labels,412.77,1,0.0,164.33
+ORD-01494,2023-07-28,2023-07-29,Second Class,CUST-1108,Consumer,Philadelphia,East,Office Supplies,Paper,9.09,4,0.3,2.67
+ORD-01495,2021-04-17,2021-04-20,Second Class,CUST-1023,Consumer,Houston,Central,Office Supplies,Labels,392.01,6,0.3,117.28
+ORD-01496,2021-03-26,2021-03-31,Standard Class,CUST-1067,Corporate,Atlanta,East,Technology,Monitors,1102.6,4,0.1,260.29
+ORD-01497,2023-10-20,2023-10-23,Same Day,CUST-1135,Consumer,Los Angeles,West,Technology,Monitors,7679.97,5,0.0,2114.97
+ORD-01498,2021-11-06,2021-11-11,Standard Class,CUST-1093,Corporate,New Orleans,South,Furniture,Storage,6200.63,2,0.0,-79.65
+ORD-01499,2023-10-11,2023-10-12,Same Day,CUST-1075,Consumer,Portland,West,Technology,Accessories,4861.98,6,0.0,595.58
+ORD-01500,2023-11-08,2023-11-11,Standard Class,CUST-1292,Consumer,Seattle,West,Technology,Phones,2691.85,5,0.1,657.69
+ORD-01501,2021-02-23,2021-02-26,First Class,CUST-1165,Corporate,Portland,West,Technology,Phones,1767.02,1,0.0,385.33
+ORD-01502,2021-01-12,2021-01-15,Same Day,CUST-1291,Consumer,Atlanta,East,Technology,Phones,9721.89,6,0.0,2394.59
+ORD-01503,2021-05-25,2021-05-30,Standard Class,CUST-1204,Consumer,Houston,Central,Technology,Phones,9557.48,2,0.0,1443.49
+ORD-01504,2021-11-12,2021-11-13,First Class,CUST-1067,Consumer,Portland,West,Technology,Laptops,3014.64,6,0.15,631.08
+ORD-01505,2023-09-03,2023-09-06,First Class,CUST-1095,Consumer,Dallas,Central,Furniture,Chairs,4228.79,3,0.0,235.26
+ORD-01506,2021-11-14,2021-11-18,Second Class,CUST-1153,Home Office,Seattle,West,Furniture,Storage,996.37,4,0.0,59.12
+ORD-01507,2022-08-29,2022-09-03,Second Class,CUST-1217,Home Office,Houston,Central,Technology,Laptops,216.85,5,0.3,11.42
+ORD-01508,2023-10-29,2023-10-30,Second Class,CUST-1023,Consumer,Houston,Central,Furniture,Storage,1174.76,4,0.0,-5.23
+ORD-01509,2022-06-27,2022-06-30,Standard Class,CUST-1132,Corporate,Atlanta,East,Technology,Accessories,4846.91,5,0.0,560.52
+ORD-01510,2021-12-18,2021-12-25,Standard Class,CUST-1249,Consumer,New York,East,Office Supplies,Binders,207.71,5,0.3,60.54
+ORD-01511,2021-10-04,2021-10-05,Standard Class,CUST-1107,Home Office,Denver,Central,Furniture,Bookcases,360.71,1,0.15,-28.12
+ORD-01512,2022-01-26,2022-01-27,First Class,CUST-1085,Home Office,Atlanta,East,Furniture,Tables,2446.24,1,0.0,135.69
+ORD-01513,2022-05-12,2022-05-14,Standard Class,CUST-1221,Consumer,Charlotte,South,Office Supplies,Labels,191.0,6,0.0,38.58
+ORD-01514,2023-11-18,2023-11-23,Standard Class,CUST-1216,Consumer,Houston,Central,Office Supplies,Labels,440.28,1,0.0,94.74
+ORD-01515,2022-12-12,2022-12-16,Standard Class,CUST-1176,Home Office,Portland,West,Office Supplies,Binders,106.14,4,0.0,40.5
+ORD-01516,2023-08-18,2023-08-20,First Class,CUST-1184,Home Office,Boston,East,Furniture,Tables,3843.35,6,0.4,-160.38
+ORD-01517,2023-09-16,2023-09-18,Standard Class,CUST-1252,Corporate,Boston,East,Office Supplies,Paper,54.23,4,0.1,9.5
+ORD-01518,2021-11-21,2021-11-23,Standard Class,CUST-1116,Consumer,New York,East,Furniture,Tables,1206.01,1,0.2,-79.07
+ORD-01519,2022-07-02,2022-07-04,First Class,CUST-1234,Corporate,Boston,East,Technology,Laptops,1838.41,4,0.15,386.67
+ORD-01520,2021-08-04,2021-08-06,Standard Class,CUST-1226,Home Office,Miami,South,Office Supplies,Binders,134.88,3,0.3,12.04
+ORD-01521,2021-10-10,2021-10-11,Standard Class,CUST-1125,Consumer,Chicago,Central,Office Supplies,Labels,307.31,1,0.4,59.1
+ORD-01522,2023-04-30,2023-05-03,Standard Class,CUST-1116,Consumer,Philadelphia,East,Office Supplies,Labels,192.54,4,0.0,74.78
+ORD-01523,2023-11-24,2023-12-01,Same Day,CUST-1264,Home Office,Atlanta,East,Technology,Monitors,1032.08,6,0.0,262.18
+ORD-01524,2021-05-06,2021-05-10,Standard Class,CUST-1266,Home Office,Atlanta,East,Office Supplies,Binders,161.12,6,0.3,10.38
+ORD-01525,2022-12-06,2022-12-07,Standard Class,CUST-1278,Corporate,Boston,East,Office Supplies,Labels,212.36,2,0.15,50.23
+ORD-01526,2021-06-22,2021-06-23,First Class,CUST-1266,Corporate,Denver,Central,Office Supplies,Labels,281.95,2,0.15,87.41
+ORD-01527,2021-11-24,2021-11-25,First Class,CUST-1216,Corporate,Seattle,West,Office Supplies,Pens,27.13,6,0.0,10.68
+ORD-01528,2021-09-11,2021-09-12,Second Class,CUST-1232,Consumer,Houston,Central,Office Supplies,Binders,114.7,1,0.0,39.35
+ORD-01529,2021-10-14,2021-10-21,Standard Class,CUST-1184,Consumer,Dallas,Central,Furniture,Tables,1484.06,2,0.0,117.41
+ORD-01530,2021-09-24,2021-09-28,Standard Class,CUST-1286,Consumer,Denver,Central,Furniture,Tables,465.13,5,0.0,37.94
+ORD-01531,2023-09-30,2023-10-07,Same Day,CUST-1234,Corporate,Charlotte,South,Furniture,Storage,3509.13,6,0.0,-63.93
+ORD-01532,2023-01-27,2023-01-28,Second Class,CUST-1020,Consumer,Denver,Central,Technology,Phones,6334.72,3,0.0,1101.72
+ORD-01533,2021-10-20,2021-10-22,Standard Class,CUST-1110,Consumer,Boston,East,Furniture,Chairs,5729.79,3,0.0,994.48
+ORD-01534,2023-09-13,2023-09-18,Standard Class,CUST-1067,Consumer,Seattle,West,Technology,Monitors,2554.48,4,0.3,271.46
+ORD-01535,2021-07-02,2021-07-07,Second Class,CUST-1276,Consumer,Denver,Central,Office Supplies,Labels,405.41,3,0.0,172.32
+ORD-01536,2022-09-25,2022-09-30,Second Class,CUST-1027,Home Office,Chicago,Central,Technology,Monitors,1683.87,5,0.0,376.75
+ORD-01537,2022-01-04,2022-01-05,First Class,CUST-1227,Consumer,Chicago,Central,Office Supplies,Paper,89.74,5,0.0,33.78
+ORD-01538,2022-11-28,2022-12-02,First Class,CUST-1046,Consumer,New York,East,Technology,Accessories,430.62,3,0.3,5.8
+ORD-01539,2021-07-03,2021-07-05,Standard Class,CUST-1092,Consumer,Boston,East,Technology,Phones,3079.13,3,0.15,113.26
+ORD-01540,2022-10-26,2022-10-29,Standard Class,CUST-1300,Consumer,Los Angeles,West,Technology,Phones,1063.68,5,0.0,157.34
+ORD-01541,2023-04-14,2023-04-15,Standard Class,CUST-1137,Consumer,New Orleans,South,Technology,Monitors,4728.94,1,0.1,1100.65
+ORD-01542,2021-06-21,2021-06-28,Standard Class,CUST-1275,Consumer,San Francisco,West,Office Supplies,Binders,155.13,2,0.0,69.24
+ORD-01543,2021-12-09,2021-12-10,Second Class,CUST-1194,Home Office,Portland,West,Office Supplies,Labels,54.9,6,0.0,14.42
+ORD-01544,2021-05-24,2021-05-27,Second Class,CUST-1221,Consumer,Boston,East,Office Supplies,Paper,14.41,3,0.2,4.05
+ORD-01545,2023-07-17,2023-07-20,Same Day,CUST-1168,Corporate,New Orleans,South,Technology,Accessories,2296.91,5,0.0,440.91
+ORD-01546,2021-01-20,2021-01-27,Standard Class,CUST-1039,Corporate,New York,East,Technology,Laptops,1917.22,6,0.2,206.34
+ORD-01547,2023-01-04,2023-01-08,Standard Class,CUST-1227,Home Office,Houston,Central,Furniture,Storage,401.22,2,0.0,17.1
+ORD-01548,2022-09-13,2022-09-20,First Class,CUST-1107,Consumer,Houston,Central,Technology,Phones,1700.74,4,0.4,-157.56
+ORD-01549,2022-02-01,2022-02-08,Standard Class,CUST-1065,Corporate,Seattle,West,Technology,Monitors,3798.55,1,0.0,477.29
+ORD-01550,2023-12-28,2024-01-02,Second Class,CUST-1026,Consumer,New Orleans,South,Technology,Laptops,3126.87,6,0.0,579.79
+ORD-01551,2023-08-14,2023-08-18,Second Class,CUST-1215,Consumer,Atlanta,East,Office Supplies,Pens,40.19,3,0.3,4.27
+ORD-01552,2021-02-21,2021-02-28,First Class,CUST-1084,Consumer,San Francisco,West,Furniture,Bookcases,1160.56,2,0.4,-24.08
+ORD-01553,2021-02-19,2021-02-24,Standard Class,CUST-1122,Consumer,New York,East,Furniture,Chairs,3492.66,4,0.2,-308.09
+ORD-01554,2023-06-18,2023-06-19,First Class,CUST-1193,Home Office,Dallas,Central,Office Supplies,Binders,95.68,1,0.0,20.59
+ORD-01555,2022-09-10,2022-09-15,Standard Class,CUST-1150,Home Office,Chicago,Central,Furniture,Chairs,1164.51,1,0.0,-41.98
+ORD-01556,2021-01-22,2021-01-26,Second Class,CUST-1013,Consumer,Portland,West,Office Supplies,Labels,169.87,3,0.3,34.79
+ORD-01557,2021-05-19,2021-05-24,Second Class,CUST-1131,Consumer,New York,East,Furniture,Bookcases,2018.81,5,0.3,-340.18
+ORD-01558,2021-04-01,2021-04-02,Standard Class,CUST-1159,Consumer,Denver,Central,Furniture,Storage,1141.41,3,0.1,71.82
+ORD-01559,2021-01-17,2021-01-22,Standard Class,CUST-1027,Corporate,Seattle,West,Office Supplies,Paper,180.07,5,0.0,58.84
+ORD-01560,2023-09-02,2023-09-09,Standard Class,CUST-1289,Corporate,Nashville,South,Furniture,Tables,4594.07,5,0.1,-79.08
+ORD-01561,2021-03-28,2021-04-01,First Class,CUST-1109,Consumer,Philadelphia,East,Office Supplies,Pens,33.13,4,0.1,10.71
+ORD-01562,2021-01-14,2021-01-17,Standard Class,CUST-1225,Consumer,Denver,Central,Technology,Accessories,668.26,3,0.0,82.22
+ORD-01563,2022-03-25,2022-03-28,Standard Class,CUST-1011,Consumer,Los Angeles,West,Technology,Accessories,4447.98,2,0.2,218.81
+ORD-01564,2021-08-16,2021-08-19,Standard Class,CUST-1087,Home Office,Miami,South,Technology,Accessories,7059.19,3,0.0,1227.79
+ORD-01565,2021-09-25,2021-09-27,First Class,CUST-1125,Consumer,Miami,South,Office Supplies,Labels,111.5,4,0.15,22.8
+ORD-01566,2021-04-20,2021-04-27,Standard Class,CUST-1107,Corporate,New Orleans,South,Office Supplies,Paper,168.51,4,0.3,49.22
+ORD-01567,2023-11-09,2023-11-12,Standard Class,CUST-1247,Consumer,Chicago,Central,Office Supplies,Labels,309.18,5,0.0,116.91
+ORD-01568,2021-03-16,2021-03-18,First Class,CUST-1156,Corporate,Atlanta,East,Office Supplies,Labels,73.66,2,0.0,19.05
+ORD-01569,2021-06-22,2021-06-25,Standard Class,CUST-1172,Consumer,Boston,East,Furniture,Storage,2566.98,5,0.0,-101.95
+ORD-01570,2023-02-23,2023-02-24,Standard Class,CUST-1150,Home Office,Boston,East,Furniture,Storage,810.52,1,0.0,-25.15
+ORD-01571,2021-03-20,2021-03-25,Standard Class,CUST-1140,Consumer,Dallas,Central,Office Supplies,Binders,57.88,6,0.15,10.85
+ORD-01572,2022-12-11,2022-12-15,Standard Class,CUST-1203,Consumer,New Orleans,South,Technology,Laptops,2375.37,2,0.0,481.08
+ORD-01573,2021-06-25,2021-06-28,Standard Class,CUST-1224,Corporate,Atlanta,East,Technology,Laptops,6865.1,2,0.2,958.29
+ORD-01574,2023-10-21,2023-10-28,Second Class,CUST-1275,Consumer,Philadelphia,East,Furniture,Chairs,4554.92,4,0.0,257.03
+ORD-01575,2022-11-08,2022-11-13,Standard Class,CUST-1032,Home Office,New York,East,Technology,Phones,3297.26,4,0.5,-359.93
+ORD-01576,2022-09-16,2022-09-17,Standard Class,CUST-1013,Corporate,Boston,East,Furniture,Tables,782.84,4,0.0,95.71
+ORD-01577,2023-12-10,2023-12-11,Standard Class,CUST-1200,Consumer,Charlotte,South,Technology,Phones,3363.46,4,0.1,283.76
+ORD-01578,2022-02-27,2022-03-01,Standard Class,CUST-1081,Consumer,Portland,West,Technology,Phones,6606.1,4,0.0,1598.24
+ORD-01579,2021-10-20,2021-10-24,Standard Class,CUST-1291,Consumer,Atlanta,East,Office Supplies,Pens,51.39,3,0.1,10.88
+ORD-01580,2023-07-24,2023-07-27,Standard Class,CUST-1212,Corporate,New York,East,Office Supplies,Labels,319.64,2,0.0,129.73
+ORD-01581,2021-03-31,2021-04-02,Standard Class,CUST-1034,Corporate,Philadelphia,East,Technology,Monitors,4473.49,3,0.0,1009.29
+ORD-01582,2023-01-26,2023-01-27,Second Class,CUST-1259,Home Office,Charlotte,South,Office Supplies,Paper,343.6,2,0.0,82.88
+ORD-01583,2022-02-03,2022-02-07,Second Class,CUST-1237,Consumer,Portland,West,Technology,Phones,860.65,3,0.0,243.93
+ORD-01584,2023-08-23,2023-08-26,Standard Class,CUST-1150,Corporate,San Francisco,West,Furniture,Chairs,2449.05,2,0.2,4.28
+ORD-01585,2023-01-04,2023-01-06,Standard Class,CUST-1024,Corporate,Los Angeles,West,Technology,Monitors,488.84,4,0.3,27.6
+ORD-01586,2021-04-10,2021-04-14,Second Class,CUST-1008,Consumer,Boston,East,Office Supplies,Binders,232.46,1,0.0,60.35
+ORD-01587,2021-07-17,2021-07-24,Standard Class,CUST-1165,Corporate,Philadelphia,East,Furniture,Chairs,770.8,3,0.0,60.22
+ORD-01588,2022-03-14,2022-03-15,Standard Class,CUST-1199,Home Office,Atlanta,East,Office Supplies,Paper,113.41,1,0.0,41.22
+ORD-01589,2021-05-18,2021-05-20,Standard Class,CUST-1291,Corporate,Seattle,West,Technology,Laptops,2291.05,5,0.5,-297.01
+ORD-01590,2021-09-30,2021-10-03,Same Day,CUST-1171,Corporate,Atlanta,East,Technology,Phones,904.89,1,0.5,-15.14
+ORD-01591,2021-01-28,2021-01-30,Second Class,CUST-1040,Corporate,Philadelphia,East,Technology,Monitors,248.79,2,0.0,61.6
+ORD-01592,2021-03-19,2021-03-21,Standard Class,CUST-1162,Consumer,Philadelphia,East,Technology,Accessories,7901.06,3,0.15,716.93
+ORD-01593,2021-02-18,2021-02-20,Standard Class,CUST-1127,Corporate,Atlanta,East,Office Supplies,Binders,383.42,1,0.0,96.41
+ORD-01594,2021-01-13,2021-01-14,Standard Class,CUST-1104,Corporate,Atlanta,East,Office Supplies,Paper,78.68,2,0.4,1.02
+ORD-01595,2023-08-15,2023-08-18,Standard Class,CUST-1155,Consumer,Philadelphia,East,Technology,Laptops,1155.13,2,0.0,156.27
+ORD-01596,2021-06-13,2021-06-16,First Class,CUST-1221,Consumer,Nashville,South,Technology,Monitors,2231.92,5,0.0,411.88
+ORD-01597,2022-09-07,2022-09-12,Standard Class,CUST-1145,Consumer,Portland,West,Office Supplies,Labels,165.79,4,0.0,52.38
+ORD-01598,2022-01-24,2022-01-25,Standard Class,CUST-1191,Corporate,San Francisco,West,Furniture,Storage,365.45,4,0.0,66.3
+ORD-01599,2021-09-12,2021-09-16,Standard Class,CUST-1178,Consumer,New York,East,Furniture,Bookcases,3369.24,3,0.0,199.04
+ORD-01600,2023-05-19,2023-05-26,Second Class,CUST-1014,Corporate,Boston,East,Furniture,Storage,2078.18,6,0.0,318.55
+ORD-01601,2022-05-22,2022-05-27,Standard Class,CUST-1196,Home Office,Portland,West,Office Supplies,Paper,177.72,6,0.0,69.8
+ORD-01602,2023-05-25,2023-05-28,Standard Class,CUST-1045,Home Office,Philadelphia,East,Furniture,Chairs,4594.04,6,0.1,383.53
+ORD-01603,2023-03-27,2023-04-03,First Class,CUST-1213,Corporate,Houston,Central,Technology,Accessories,1453.81,1,0.2,0.46
+ORD-01604,2021-10-03,2021-10-05,Standard Class,CUST-1102,Consumer,Dallas,Central,Furniture,Bookcases,927.0,2,0.0,142.38
+ORD-01605,2023-04-18,2023-04-22,First Class,CUST-1043,Consumer,Dallas,Central,Technology,Laptops,1149.21,3,0.3,-19.28
+ORD-01606,2021-07-26,2021-07-27,Standard Class,CUST-1049,Corporate,Los Angeles,West,Furniture,Bookcases,173.23,1,0.15,12.52
+ORD-01607,2022-11-22,2022-11-27,Standard Class,CUST-1122,Home Office,Boston,East,Technology,Phones,3028.75,3,0.15,283.54
+ORD-01608,2021-07-25,2021-07-26,First Class,CUST-1013,Home Office,New York,East,Office Supplies,Labels,242.26,2,0.15,84.06
+ORD-01609,2023-09-01,2023-09-06,Second Class,CUST-1008,Consumer,Nashville,South,Office Supplies,Pens,129.81,3,0.0,46.67
+ORD-01610,2023-09-20,2023-09-24,Standard Class,CUST-1051,Corporate,New Orleans,South,Office Supplies,Binders,112.18,4,0.0,48.77
+ORD-01611,2023-10-31,2023-11-01,First Class,CUST-1239,Home Office,Philadelphia,East,Office Supplies,Pens,23.54,5,0.0,8.67
+ORD-01612,2022-03-10,2022-03-12,Standard Class,CUST-1082,Corporate,Charlotte,South,Technology,Monitors,1932.48,1,0.0,577.18
+ORD-01613,2023-09-03,2023-09-10,Standard Class,CUST-1046,Consumer,New Orleans,South,Office Supplies,Pens,27.42,4,0.4,4.34
+ORD-01614,2023-02-21,2023-02-28,Standard Class,CUST-1148,Corporate,Miami,South,Office Supplies,Pens,313.94,1,0.2,48.94
+ORD-01615,2023-01-24,2023-01-26,Standard Class,CUST-1274,Corporate,Philadelphia,East,Technology,Phones,7785.58,1,0.1,391.89
+ORD-01616,2021-09-16,2021-09-21,First Class,CUST-1161,Corporate,New Orleans,South,Technology,Monitors,3453.22,4,0.0,351.67
+ORD-01617,2022-08-04,2022-08-06,Standard Class,CUST-1063,Corporate,Denver,Central,Technology,Accessories,1726.42,6,0.1,192.98
+ORD-01618,2023-02-11,2023-02-12,Second Class,CUST-1115,Consumer,Philadelphia,East,Technology,Monitors,7369.89,6,0.0,1793.49
+ORD-01619,2022-09-05,2022-09-12,Second Class,CUST-1216,Home Office,Nashville,South,Office Supplies,Binders,137.29,3,0.5,11.94
+ORD-01620,2022-08-02,2022-08-09,Second Class,CUST-1027,Consumer,Denver,Central,Office Supplies,Pens,555.38,5,0.0,155.98
+ORD-01621,2023-09-16,2023-09-19,Standard Class,CUST-1004,Corporate,Philadelphia,East,Office Supplies,Pens,270.19,6,0.0,104.59
+ORD-01622,2021-12-11,2021-12-12,Same Day,CUST-1173,Consumer,Dallas,Central,Furniture,Chairs,1053.12,5,0.0,-38.84
+ORD-01623,2023-03-24,2023-03-28,Standard Class,CUST-1045,Consumer,Atlanta,East,Office Supplies,Paper,83.11,6,0.15,18.19
+ORD-01624,2021-06-19,2021-06-20,Standard Class,CUST-1245,Consumer,Portland,West,Office Supplies,Labels,151.87,5,0.0,52.13
+ORD-01625,2023-06-08,2023-06-11,Same Day,CUST-1094,Consumer,Dallas,Central,Technology,Phones,1514.27,5,0.0,367.59
+ORD-01626,2021-09-12,2021-09-14,First Class,CUST-1002,Consumer,Atlanta,East,Furniture,Chairs,1741.66,2,0.0,173.78
+ORD-01627,2021-06-29,2021-07-04,Second Class,CUST-1186,Corporate,San Francisco,West,Office Supplies,Pens,42.23,3,0.0,9.76
+ORD-01628,2023-11-30,2023-12-03,Standard Class,CUST-1267,Consumer,New York,East,Office Supplies,Paper,402.31,3,0.0,129.79
+ORD-01629,2021-04-02,2021-04-04,Second Class,CUST-1282,Corporate,Philadelphia,East,Office Supplies,Pens,20.65,2,0.0,8.43
+ORD-01630,2023-02-21,2023-02-28,Standard Class,CUST-1217,Consumer,Portland,West,Technology,Accessories,9113.67,6,0.0,2633.38
+ORD-01631,2022-01-30,2022-02-06,Standard Class,CUST-1194,Corporate,New York,East,Office Supplies,Paper,117.92,4,0.0,28.11
+ORD-01632,2023-04-14,2023-04-15,Second Class,CUST-1074,Corporate,Los Angeles,West,Technology,Laptops,957.52,3,0.0,159.62
+ORD-01633,2023-02-15,2023-02-16,Same Day,CUST-1250,Consumer,Los Angeles,West,Office Supplies,Paper,118.5,3,0.0,45.28
+ORD-01634,2021-04-09,2021-04-11,Second Class,CUST-1272,Corporate,Houston,Central,Technology,Accessories,3725.57,6,0.0,973.18
+ORD-01635,2021-11-15,2021-11-22,Second Class,CUST-1189,Consumer,Philadelphia,East,Office Supplies,Labels,83.96,6,0.1,18.21
+ORD-01636,2022-12-26,2022-12-30,Standard Class,CUST-1117,Corporate,Denver,Central,Office Supplies,Paper,140.08,6,0.4,18.23
+ORD-01637,2021-06-12,2021-06-13,First Class,CUST-1146,Corporate,Charlotte,South,Furniture,Chairs,1340.92,6,0.0,-47.8
+ORD-01638,2023-11-08,2023-11-15,Standard Class,CUST-1063,Home Office,Chicago,Central,Office Supplies,Labels,89.22,5,0.1,35.64
+ORD-01639,2022-12-08,2022-12-10,Second Class,CUST-1268,Corporate,Miami,South,Furniture,Tables,1611.16,6,0.1,227.43
+ORD-01640,2023-05-16,2023-05-20,Same Day,CUST-1127,Corporate,San Francisco,West,Office Supplies,Paper,107.95,6,0.4,9.12
+ORD-01641,2023-03-18,2023-03-20,Standard Class,CUST-1029,Consumer,Portland,West,Office Supplies,Binders,83.3,4,0.4,18.59
+ORD-01642,2022-01-17,2022-01-21,Standard Class,CUST-1263,Consumer,Boston,East,Furniture,Storage,702.7,5,0.0,-0.43
+ORD-01643,2022-05-28,2022-05-30,First Class,CUST-1274,Consumer,Portland,West,Office Supplies,Labels,219.75,2,0.0,67.48
+ORD-01644,2023-06-08,2023-06-09,Standard Class,CUST-1202,Consumer,Charlotte,South,Office Supplies,Binders,114.18,2,0.0,30.97
+ORD-01645,2022-06-29,2022-06-30,First Class,CUST-1204,Corporate,Nashville,South,Furniture,Bookcases,2610.76,3,0.2,74.62
+ORD-01646,2022-12-06,2022-12-11,Standard Class,CUST-1004,Corporate,Los Angeles,West,Furniture,Storage,246.41,4,0.0,38.8
+ORD-01647,2021-11-09,2021-11-16,Standard Class,CUST-1126,Corporate,Los Angeles,West,Furniture,Bookcases,1938.22,3,0.0,-41.18
+ORD-01648,2022-01-07,2022-01-09,Second Class,CUST-1140,Corporate,Los Angeles,West,Office Supplies,Labels,297.84,1,0.0,69.42
+ORD-01649,2023-04-15,2023-04-20,Standard Class,CUST-1261,Consumer,Philadelphia,East,Office Supplies,Paper,98.87,1,0.0,30.31
+ORD-01650,2023-05-07,2023-05-09,First Class,CUST-1164,Consumer,Boston,East,Furniture,Chairs,643.73,6,0.0,-32.1
+ORD-01651,2023-10-04,2023-10-07,Standard Class,CUST-1066,Consumer,Los Angeles,West,Technology,Monitors,968.85,5,0.0,99.53
+ORD-01652,2023-02-26,2023-02-27,Standard Class,CUST-1300,Consumer,Houston,Central,Furniture,Bookcases,2894.81,1,0.1,146.07
+ORD-01653,2022-12-04,2022-12-07,Standard Class,CUST-1098,Home Office,Portland,West,Office Supplies,Paper,198.31,2,0.1,37.37
+ORD-01654,2021-08-29,2021-09-02,Standard Class,CUST-1085,Home Office,New Orleans,South,Furniture,Bookcases,774.38,1,0.1,106.95
+ORD-01655,2023-03-26,2023-03-30,Second Class,CUST-1287,Corporate,Los Angeles,West,Office Supplies,Paper,104.28,4,0.0,40.43
+ORD-01656,2022-03-23,2022-03-28,Standard Class,CUST-1155,Consumer,Philadelphia,East,Office Supplies,Labels,381.69,3,0.1,126.01
+ORD-01657,2022-05-03,2022-05-06,Standard Class,CUST-1138,Consumer,Chicago,Central,Office Supplies,Pens,12.8,2,0.4,0.89
+ORD-01658,2021-08-26,2021-08-27,Standard Class,CUST-1135,Home Office,Philadelphia,East,Office Supplies,Binders,297.16,5,0.0,129.74
+ORD-01659,2021-01-22,2021-01-25,Standard Class,CUST-1298,Consumer,New Orleans,South,Office Supplies,Labels,110.39,5,0.0,48.89
+ORD-01660,2022-02-27,2022-03-03,Second Class,CUST-1079,Home Office,New Orleans,South,Technology,Monitors,2122.41,4,0.0,479.58
+ORD-01661,2022-01-14,2022-01-16,Standard Class,CUST-1010,Consumer,Atlanta,East,Furniture,Storage,1010.55,3,0.4,-207.06
+ORD-01662,2022-05-18,2022-05-22,Standard Class,CUST-1006,Consumer,Dallas,Central,Furniture,Tables,6582.09,6,0.0,537.72
+ORD-01663,2021-03-31,2021-04-02,First Class,CUST-1006,Home Office,New York,East,Office Supplies,Labels,41.01,5,0.0,17.82
+ORD-01664,2021-06-24,2021-06-26,First Class,CUST-1079,Corporate,Miami,South,Office Supplies,Binders,80.6,4,0.2,14.25
+ORD-01665,2022-08-31,2022-09-01,Standard Class,CUST-1116,Consumer,New York,East,Technology,Accessories,5506.19,1,0.0,1555.13
+ORD-01666,2023-02-27,2023-03-06,First Class,CUST-1052,Consumer,Boston,East,Furniture,Tables,1603.18,2,0.0,316.94
+ORD-01667,2021-06-23,2021-06-24,First Class,CUST-1217,Consumer,Boston,East,Office Supplies,Pens,185.31,2,0.0,52.57
+ORD-01668,2023-10-20,2023-10-27,Standard Class,CUST-1001,Consumer,Boston,East,Technology,Accessories,2517.5,1,0.2,358.14
+ORD-01669,2023-09-07,2023-09-08,Standard Class,CUST-1165,Consumer,Dallas,Central,Office Supplies,Paper,51.38,1,0.4,3.58
+ORD-01670,2023-04-28,2023-05-03,Standard Class,CUST-1196,Consumer,Houston,Central,Office Supplies,Paper,360.17,2,0.0,157.04
+ORD-01671,2023-02-27,2023-02-28,First Class,CUST-1112,Corporate,Atlanta,East,Furniture,Storage,3915.5,6,0.1,368.64
+ORD-01672,2023-08-29,2023-08-31,Standard Class,CUST-1150,Home Office,Philadelphia,East,Office Supplies,Paper,96.97,2,0.3,13.6
+ORD-01673,2021-10-21,2021-10-25,Standard Class,CUST-1297,Consumer,San Francisco,West,Furniture,Storage,5384.95,6,0.0,675.01
+ORD-01674,2021-01-26,2021-01-31,Standard Class,CUST-1071,Consumer,Seattle,West,Technology,Laptops,8445.83,6,0.0,1152.73
+ORD-01675,2021-01-28,2021-01-31,Second Class,CUST-1257,Consumer,Boston,East,Office Supplies,Pens,14.79,2,0.3,0.86
+ORD-01676,2023-10-25,2023-10-28,First Class,CUST-1267,Corporate,Denver,Central,Technology,Monitors,4395.63,1,0.4,-200.59
+ORD-01677,2022-01-12,2022-01-19,Standard Class,CUST-1207,Corporate,Denver,Central,Furniture,Tables,1407.34,3,0.2,-46.29
+ORD-01678,2021-08-11,2021-08-12,Standard Class,CUST-1054,Corporate,Seattle,West,Office Supplies,Paper,48.85,5,0.0,13.22
+ORD-01679,2021-03-08,2021-03-10,Standard Class,CUST-1024,Consumer,Houston,Central,Technology,Phones,737.18,1,0.1,153.37
+ORD-01680,2023-10-22,2023-10-24,Same Day,CUST-1049,Corporate,Seattle,West,Furniture,Bookcases,2157.65,6,0.15,255.6
+ORD-01681,2023-09-04,2023-09-09,First Class,CUST-1040,Consumer,Philadelphia,East,Furniture,Chairs,1576.98,4,0.0,-19.11
+ORD-01682,2021-10-16,2021-10-23,First Class,CUST-1184,Home Office,Nashville,South,Office Supplies,Binders,85.06,3,0.0,19.8
+ORD-01683,2021-06-03,2021-06-05,Same Day,CUST-1280,Consumer,Portland,West,Office Supplies,Labels,348.8,3,0.0,71.06
+ORD-01684,2021-11-27,2021-11-28,First Class,CUST-1235,Consumer,Atlanta,East,Office Supplies,Binders,136.85,6,0.0,29.8
+ORD-01685,2021-09-11,2021-09-16,Standard Class,CUST-1066,Corporate,Charlotte,South,Technology,Monitors,2778.29,5,0.3,83.87
+ORD-01686,2021-03-29,2021-04-03,Standard Class,CUST-1004,Corporate,Atlanta,East,Furniture,Bookcases,1497.39,5,0.15,-95.53
+ORD-01687,2022-04-02,2022-04-06,First Class,CUST-1238,Corporate,San Francisco,West,Technology,Phones,2210.57,5,0.0,428.18
+ORD-01688,2022-11-05,2022-11-06,Standard Class,CUST-1142,Corporate,Denver,Central,Technology,Laptops,3719.02,1,0.0,923.27
+ORD-01689,2021-03-06,2021-03-11,Standard Class,CUST-1242,Corporate,Nashville,South,Furniture,Tables,849.69,4,0.4,-135.63
+ORD-01690,2021-06-21,2021-06-23,Second Class,CUST-1214,Consumer,Charlotte,South,Technology,Laptops,1437.18,4,0.0,394.87
+ORD-01691,2022-12-02,2022-12-05,First Class,CUST-1082,Consumer,Los Angeles,West,Furniture,Bookcases,683.47,5,0.4,-88.57
+ORD-01692,2022-02-11,2022-02-12,Second Class,CUST-1162,Home Office,Atlanta,East,Office Supplies,Labels,219.59,6,0.0,98.07
+ORD-01693,2023-04-13,2023-04-16,Standard Class,CUST-1230,Home Office,Charlotte,South,Technology,Monitors,698.79,2,0.5,27.02
+ORD-01694,2021-12-07,2021-12-12,Second Class,CUST-1295,Consumer,San Francisco,West,Office Supplies,Binders,179.24,6,0.0,44.41
+ORD-01695,2021-09-13,2021-09-20,Standard Class,CUST-1218,Consumer,Chicago,Central,Office Supplies,Pens,309.5,5,0.0,89.12
+ORD-01696,2021-11-30,2021-12-05,Standard Class,CUST-1145,Consumer,San Francisco,West,Furniture,Bookcases,2018.38,4,0.2,44.68
+ORD-01697,2023-04-23,2023-04-24,Standard Class,CUST-1148,Consumer,Miami,South,Office Supplies,Binders,69.28,1,0.1,19.11
+ORD-01698,2023-08-20,2023-08-21,Standard Class,CUST-1202,Corporate,Portland,West,Office Supplies,Paper,223.36,6,0.0,90.48
+ORD-01699,2022-09-22,2022-09-26,Second Class,CUST-1013,Consumer,Houston,Central,Technology,Accessories,1224.01,1,0.3,40.28
+ORD-01700,2023-05-31,2023-06-02,Same Day,CUST-1295,Consumer,Houston,Central,Technology,Accessories,5912.8,1,0.0,1353.36
+ORD-01701,2021-11-21,2021-11-25,Standard Class,CUST-1133,Consumer,Nashville,South,Furniture,Storage,886.77,4,0.1,51.31
+ORD-01702,2021-01-24,2021-01-31,Standard Class,CUST-1292,Consumer,Nashville,South,Office Supplies,Paper,233.31,1,0.0,87.93
+ORD-01703,2022-03-31,2022-04-03,Second Class,CUST-1133,Consumer,New Orleans,South,Furniture,Tables,730.17,4,0.15,56.06
+ORD-01704,2021-07-31,2021-08-01,Second Class,CUST-1047,Corporate,San Francisco,West,Office Supplies,Pens,71.57,2,0.0,19.37
+ORD-01705,2021-02-14,2021-02-18,Standard Class,CUST-1230,Consumer,Nashville,South,Technology,Accessories,369.22,3,0.0,67.93
+ORD-01706,2021-03-06,2021-03-07,Second Class,CUST-1002,Corporate,San Francisco,West,Office Supplies,Paper,439.52,5,0.0,155.37
+ORD-01707,2023-11-27,2023-12-02,Second Class,CUST-1015,Corporate,Nashville,South,Technology,Accessories,2730.29,2,0.3,-73.83
+ORD-01708,2021-07-08,2021-07-11,Standard Class,CUST-1262,Consumer,San Francisco,West,Furniture,Tables,3911.23,4,0.0,595.5
+ORD-01709,2022-07-30,2022-08-03,First Class,CUST-1249,Corporate,San Francisco,West,Office Supplies,Paper,59.76,6,0.0,15.03
+ORD-01710,2023-02-24,2023-02-28,Second Class,CUST-1230,Home Office,Boston,East,Furniture,Storage,1318.58,1,0.0,142.64
+ORD-01711,2023-12-23,2023-12-26,Standard Class,CUST-1183,Corporate,New Orleans,South,Technology,Phones,1116.11,2,0.0,183.64
+ORD-01712,2021-01-20,2021-01-23,Standard Class,CUST-1119,Consumer,Houston,Central,Technology,Laptops,5349.22,3,0.0,1142.03
+ORD-01713,2022-07-24,2022-07-31,Standard Class,CUST-1222,Corporate,San Francisco,West,Office Supplies,Labels,83.84,6,0.1,26.12
+ORD-01714,2022-07-17,2022-07-21,Standard Class,CUST-1121,Home Office,Los Angeles,West,Furniture,Bookcases,1210.96,4,0.0,38.41
+ORD-01715,2023-04-05,2023-04-06,Standard Class,CUST-1048,Home Office,Los Angeles,West,Office Supplies,Pens,134.9,4,0.0,27.53
+ORD-01716,2021-06-13,2021-06-18,Standard Class,CUST-1232,Consumer,Houston,Central,Office Supplies,Labels,422.35,6,0.1,104.88
+ORD-01717,2021-01-22,2021-01-24,Standard Class,CUST-1087,Consumer,Chicago,Central,Furniture,Chairs,585.33,2,0.3,-11.08
+ORD-01718,2022-06-16,2022-06-17,First Class,CUST-1194,Home Office,Chicago,Central,Technology,Accessories,1364.54,5,0.0,226.33
+ORD-01719,2021-10-31,2021-11-05,Standard Class,CUST-1270,Consumer,Charlotte,South,Technology,Laptops,8070.98,5,0.1,1482.21
+ORD-01720,2022-04-08,2022-04-09,Second Class,CUST-1105,Consumer,Houston,Central,Technology,Monitors,2057.26,2,0.15,196.68
+ORD-01721,2023-08-17,2023-08-21,Second Class,CUST-1263,Consumer,Miami,South,Office Supplies,Binders,32.25,5,0.0,13.01
+ORD-01722,2021-09-24,2021-09-26,Standard Class,CUST-1103,Home Office,Dallas,Central,Office Supplies,Pens,275.84,5,0.5,46.06
+ORD-01723,2021-07-29,2021-07-31,Standard Class,CUST-1095,Consumer,Portland,West,Office Supplies,Paper,61.06,4,0.15,11.3
+ORD-01724,2021-06-22,2021-06-25,Standard Class,CUST-1027,Consumer,Denver,Central,Technology,Monitors,2384.78,3,0.0,443.97
+ORD-01725,2022-08-26,2022-08-28,Standard Class,CUST-1055,Corporate,Portland,West,Furniture,Bookcases,2118.36,4,0.1,49.58
+ORD-01726,2022-06-30,2022-07-02,First Class,CUST-1207,Consumer,Nashville,South,Office Supplies,Paper,14.55,6,0.0,6.12
+ORD-01727,2022-02-21,2022-02-24,Standard Class,CUST-1244,Consumer,Seattle,West,Furniture,Chairs,3015.96,5,0.15,-305.94
+ORD-01728,2023-07-22,2023-07-24,Standard Class,CUST-1039,Consumer,Los Angeles,West,Office Supplies,Paper,578.1,3,0.0,118.63
+ORD-01729,2022-05-22,2022-05-26,Standard Class,CUST-1268,Corporate,Atlanta,East,Technology,Phones,406.43,2,0.1,100.83
+ORD-01730,2023-07-16,2023-07-20,Second Class,CUST-1006,Consumer,Chicago,Central,Furniture,Tables,3440.43,4,0.15,-211.98
+ORD-01731,2021-02-12,2021-02-14,Second Class,CUST-1015,Consumer,Denver,Central,Office Supplies,Pens,249.73,4,0.15,40.06
+ORD-01732,2021-08-10,2021-08-13,Same Day,CUST-1135,Consumer,New York,East,Technology,Monitors,4434.86,2,0.5,111.84
+ORD-01733,2022-07-20,2022-07-23,First Class,CUST-1290,Corporate,Charlotte,South,Office Supplies,Pens,78.32,4,0.2,10.24
+ORD-01734,2023-08-14,2023-08-21,Second Class,CUST-1249,Consumer,Los Angeles,West,Office Supplies,Pens,72.31,3,0.1,22.86
+ORD-01735,2021-09-10,2021-09-11,First Class,CUST-1025,Consumer,Los Angeles,West,Technology,Accessories,1323.24,1,0.0,307.06
+ORD-01736,2021-10-20,2021-10-27,Second Class,CUST-1127,Home Office,Nashville,South,Technology,Accessories,652.47,3,0.0,69.44
+ORD-01737,2022-09-29,2022-10-01,First Class,CUST-1128,Home Office,New York,East,Office Supplies,Labels,208.24,2,0.2,28.07
+ORD-01738,2023-08-03,2023-08-08,First Class,CUST-1160,Consumer,New York,East,Technology,Laptops,2487.02,6,0.0,510.62
+ORD-01739,2023-08-03,2023-08-04,Same Day,CUST-1154,Consumer,Atlanta,East,Furniture,Bookcases,990.81,2,0.4,-143.44
+ORD-01740,2021-09-15,2021-09-19,First Class,CUST-1027,Consumer,Seattle,West,Office Supplies,Pens,326.92,4,0.2,104.2
+ORD-01741,2022-08-19,2022-08-24,Standard Class,CUST-1261,Consumer,Chicago,Central,Technology,Accessories,2745.49,5,0.3,-70.59
+ORD-01742,2021-10-07,2021-10-09,Same Day,CUST-1248,Corporate,Dallas,Central,Office Supplies,Binders,269.57,1,0.0,74.87
+ORD-01743,2023-12-01,2023-12-02,First Class,CUST-1200,Consumer,Los Angeles,West,Office Supplies,Paper,40.84,4,0.0,16.67
+ORD-01744,2022-06-18,2022-06-23,First Class,CUST-1072,Home Office,Portland,West,Technology,Phones,1767.04,2,0.0,401.54
+ORD-01745,2021-07-24,2021-07-29,Standard Class,CUST-1237,Consumer,San Francisco,West,Office Supplies,Paper,229.44,1,0.0,85.91
+ORD-01746,2021-01-23,2021-01-28,Second Class,CUST-1239,Consumer,Seattle,West,Furniture,Storage,2458.78,2,0.0,434.63
+ORD-01747,2023-10-28,2023-10-30,First Class,CUST-1180,Consumer,San Francisco,West,Office Supplies,Labels,200.09,2,0.1,38.74
+ORD-01748,2022-09-13,2022-09-17,First Class,CUST-1092,Consumer,Philadelphia,East,Office Supplies,Pens,59.56,6,0.0,18.94
+ORD-01749,2023-04-07,2023-04-08,Second Class,CUST-1243,Corporate,Seattle,West,Office Supplies,Pens,23.03,4,0.0,8.44
+ORD-01750,2023-02-26,2023-03-02,First Class,CUST-1037,Consumer,Nashville,South,Furniture,Tables,1501.24,6,0.1,-107.16
+ORD-01751,2023-07-10,2023-07-14,Standard Class,CUST-1146,Home Office,New York,East,Furniture,Bookcases,652.94,6,0.0,47.52
+ORD-01752,2021-07-17,2021-07-19,Standard Class,CUST-1290,Consumer,Philadelphia,East,Technology,Laptops,387.03,4,0.3,8.48
+ORD-01753,2023-08-29,2023-09-03,Standard Class,CUST-1192,Consumer,Atlanta,East,Furniture,Chairs,1117.73,6,0.2,-45.02
+ORD-01754,2021-04-16,2021-04-21,Standard Class,CUST-1199,Consumer,Seattle,West,Office Supplies,Binders,83.38,3,0.0,36.28
+ORD-01755,2022-05-10,2022-05-15,Standard Class,CUST-1056,Home Office,Nashville,South,Office Supplies,Binders,420.34,6,0.0,90.02
+ORD-01756,2022-11-17,2022-11-18,Standard Class,CUST-1120,Consumer,Chicago,Central,Office Supplies,Pens,45.35,1,0.4,7.52
+ORD-01757,2021-06-15,2021-06-20,Second Class,CUST-1254,Home Office,New York,East,Furniture,Chairs,1827.82,1,0.0,-72.32
+ORD-01758,2022-04-12,2022-04-13,First Class,CUST-1194,Corporate,Boston,East,Furniture,Bookcases,1346.5,5,0.2,71.15
+ORD-01759,2021-09-14,2021-09-18,Standard Class,CUST-1188,Consumer,New York,East,Office Supplies,Binders,213.39,5,0.0,48.97
+ORD-01760,2021-01-21,2021-01-23,Standard Class,CUST-1127,Consumer,New York,East,Furniture,Bookcases,401.11,6,0.5,-118.84
+ORD-01761,2022-12-18,2022-12-23,Standard Class,CUST-1245,Consumer,Portland,West,Office Supplies,Binders,100.0,4,0.5,-1.76
+ORD-01762,2023-01-02,2023-01-04,Second Class,CUST-1125,Consumer,San Francisco,West,Office Supplies,Binders,124.76,3,0.4,24.33
+ORD-01763,2023-09-23,2023-09-26,First Class,CUST-1283,Consumer,New York,East,Furniture,Bookcases,373.38,3,0.2,-7.37
+ORD-01764,2023-06-21,2023-06-28,Standard Class,CUST-1142,Consumer,Dallas,Central,Technology,Accessories,1957.64,3,0.0,523.21
+ORD-01765,2023-02-26,2023-03-02,First Class,CUST-1194,Consumer,Chicago,Central,Office Supplies,Pens,30.93,2,0.0,6.53
+ORD-01766,2021-02-23,2021-02-28,First Class,CUST-1110,Consumer,Boston,East,Technology,Monitors,3483.54,5,0.4,283.87
+ORD-01767,2021-04-27,2021-04-28,First Class,CUST-1217,Home Office,Denver,Central,Office Supplies,Pens,178.98,4,0.3,50.92
+ORD-01768,2022-05-03,2022-05-05,Same Day,CUST-1127,Consumer,Portland,West,Office Supplies,Pens,327.88,1,0.2,110.74
+ORD-01769,2022-07-05,2022-07-12,Standard Class,CUST-1135,Consumer,Atlanta,East,Office Supplies,Pens,41.32,3,0.0,14.14
+ORD-01770,2023-01-05,2023-01-09,Standard Class,CUST-1141,Consumer,Atlanta,East,Office Supplies,Labels,194.95,1,0.0,67.24
+ORD-01771,2022-07-20,2022-07-23,First Class,CUST-1025,Consumer,Charlotte,South,Office Supplies,Pens,262.03,5,0.0,63.84
+ORD-01772,2022-04-12,2022-04-13,Standard Class,CUST-1276,Corporate,Portland,West,Technology,Phones,3583.38,3,0.5,-525.96
+ORD-01773,2021-06-08,2021-06-10,Standard Class,CUST-1218,Corporate,New York,East,Office Supplies,Paper,83.01,1,0.2,22.43
+ORD-01774,2023-02-07,2023-02-11,Standard Class,CUST-1148,Consumer,Seattle,West,Office Supplies,Paper,382.48,1,0.1,72.7
+ORD-01775,2023-11-07,2023-11-12,Second Class,CUST-1076,Home Office,San Francisco,West,Office Supplies,Binders,216.72,6,0.0,74.91
+ORD-01776,2023-05-07,2023-05-12,Same Day,CUST-1225,Corporate,Nashville,South,Furniture,Chairs,1211.56,5,0.1,78.51
+ORD-01777,2023-01-12,2023-01-14,Standard Class,CUST-1185,Home Office,Houston,Central,Furniture,Tables,743.66,4,0.15,-10.22
+ORD-01778,2023-05-08,2023-05-10,Standard Class,CUST-1299,Corporate,Charlotte,South,Technology,Phones,1811.38,4,0.4,-92.4
+ORD-01779,2023-05-13,2023-05-18,Standard Class,CUST-1232,Consumer,Houston,Central,Office Supplies,Pens,531.25,2,0.1,182.3
+ORD-01780,2021-03-11,2021-03-15,Standard Class,CUST-1198,Corporate,Atlanta,East,Technology,Phones,255.04,5,0.5,-31.5
+ORD-01781,2022-11-21,2022-11-26,Standard Class,CUST-1181,Corporate,San Francisco,West,Office Supplies,Pens,46.63,6,0.5,-1.8
+ORD-01782,2021-10-03,2021-10-10,Standard Class,CUST-1189,Consumer,Atlanta,East,Office Supplies,Labels,31.6,5,0.0,6.38
+ORD-01783,2022-07-27,2022-07-28,Second Class,CUST-1296,Consumer,Atlanta,East,Office Supplies,Labels,154.71,5,0.0,52.76
+ORD-01784,2021-10-21,2021-10-22,Standard Class,CUST-1160,Consumer,Portland,West,Furniture,Storage,2967.56,5,0.0,58.06
+ORD-01785,2021-12-13,2021-12-16,Standard Class,CUST-1142,Consumer,Seattle,West,Technology,Accessories,3540.26,2,0.5,2.46
+ORD-01786,2022-02-04,2022-02-05,First Class,CUST-1218,Consumer,Philadelphia,East,Technology,Laptops,1323.24,5,0.0,206.91
+ORD-01787,2021-09-03,2021-09-07,Second Class,CUST-1059,Home Office,Houston,Central,Office Supplies,Paper,535.55,3,0.0,222.86
+ORD-01788,2023-11-05,2023-11-08,Standard Class,CUST-1221,Corporate,Dallas,Central,Office Supplies,Binders,38.28,1,0.15,7.8
+ORD-01789,2022-05-19,2022-05-21,Second Class,CUST-1248,Home Office,Los Angeles,West,Technology,Accessories,2632.6,2,0.15,205.49
+ORD-01790,2023-11-24,2023-12-01,Standard Class,CUST-1106,Corporate,San Francisco,West,Office Supplies,Labels,113.67,5,0.0,36.68
+ORD-01791,2022-04-26,2022-05-03,Second Class,CUST-1248,Corporate,Boston,East,Office Supplies,Binders,77.78,3,0.3,20.24
+ORD-01792,2022-08-12,2022-08-16,Standard Class,CUST-1237,Consumer,Atlanta,East,Furniture,Storage,5243.75,2,0.0,294.78
+ORD-01793,2023-09-18,2023-09-22,First Class,CUST-1209,Corporate,Atlanta,East,Office Supplies,Binders,184.31,2,0.0,49.21
+ORD-01794,2023-05-21,2023-05-25,First Class,CUST-1023,Consumer,Seattle,West,Technology,Accessories,799.61,3,0.0,196.41
+ORD-01795,2021-08-14,2021-08-19,First Class,CUST-1010,Corporate,San Francisco,West,Furniture,Storage,2048.9,6,0.1,-194.69
+ORD-01796,2021-05-10,2021-05-17,First Class,CUST-1274,Home Office,Houston,Central,Office Supplies,Binders,24.27,2,0.0,6.06
+ORD-01797,2022-03-18,2022-03-23,Standard Class,CUST-1052,Home Office,San Francisco,West,Furniture,Tables,1346.67,5,0.0,-60.59
+ORD-01798,2022-05-22,2022-05-23,Standard Class,CUST-1067,Consumer,Seattle,West,Furniture,Storage,450.54,4,0.2,-25.02
+ORD-01799,2023-05-01,2023-05-02,Second Class,CUST-1099,Consumer,Miami,South,Office Supplies,Pens,14.28,4,0.0,4.96
+ORD-01800,2022-07-16,2022-07-20,Standard Class,CUST-1149,Corporate,Denver,Central,Office Supplies,Pens,61.9,4,0.4,8.92
+ORD-01801,2023-12-29,2024-01-03,First Class,CUST-1279,Consumer,New Orleans,South,Furniture,Tables,257.92,3,0.5,-30.46
+ORD-01802,2023-01-28,2023-02-01,Standard Class,CUST-1048,Consumer,Los Angeles,West,Office Supplies,Labels,259.97,1,0.0,104.62
+ORD-01803,2023-04-06,2023-04-11,Standard Class,CUST-1159,Corporate,Charlotte,South,Office Supplies,Paper,253.04,4,0.0,81.82
+ORD-01804,2022-03-05,2022-03-10,Standard Class,CUST-1236,Home Office,Portland,West,Office Supplies,Paper,480.92,3,0.0,174.57
+ORD-01805,2021-01-28,2021-01-30,Standard Class,CUST-1019,Corporate,Charlotte,South,Office Supplies,Binders,80.39,1,0.0,24.87
+ORD-01806,2023-05-07,2023-05-11,First Class,CUST-1138,Consumer,Portland,West,Office Supplies,Labels,6.34,6,0.0,1.73
+ORD-01807,2022-02-23,2022-02-28,Second Class,CUST-1107,Consumer,Philadelphia,East,Furniture,Bookcases,4639.66,4,0.1,-172.55
+ORD-01808,2021-11-04,2021-11-08,Standard Class,CUST-1048,Consumer,Portland,West,Office Supplies,Paper,14.72,6,0.0,3.63
+ORD-01809,2022-04-08,2022-04-11,Standard Class,CUST-1299,Corporate,Portland,West,Furniture,Bookcases,2337.99,4,0.0,362.83
+ORD-01810,2022-02-19,2022-02-20,Second Class,CUST-1288,Home Office,Atlanta,East,Office Supplies,Pens,77.29,3,0.15,15.07
+ORD-01811,2023-08-28,2023-08-30,Second Class,CUST-1075,Home Office,Boston,East,Technology,Monitors,586.63,5,0.5,-77.28
+ORD-01812,2021-10-08,2021-10-13,Same Day,CUST-1060,Consumer,New Orleans,South,Technology,Monitors,6992.58,5,0.15,632.25
+ORD-01813,2023-12-06,2023-12-09,Standard Class,CUST-1073,Corporate,Atlanta,East,Technology,Monitors,1704.69,3,0.4,151.88
+ORD-01814,2023-06-11,2023-06-18,Second Class,CUST-1177,Corporate,Boston,East,Office Supplies,Labels,38.84,6,0.3,10.25
+ORD-01815,2021-01-22,2021-01-24,Standard Class,CUST-1188,Consumer,Philadelphia,East,Office Supplies,Paper,138.2,1,0.0,38.36
+ORD-01816,2023-03-27,2023-03-28,Second Class,CUST-1015,Corporate,New York,East,Office Supplies,Binders,448.15,5,0.0,96.04
+ORD-01817,2021-08-01,2021-08-02,Standard Class,CUST-1042,Consumer,Charlotte,South,Office Supplies,Labels,99.59,2,0.15,16.85
+ORD-01818,2022-07-23,2022-07-25,First Class,CUST-1086,Consumer,Los Angeles,West,Furniture,Chairs,1213.68,3,0.0,143.21
+ORD-01819,2021-05-06,2021-05-07,Second Class,CUST-1022,Consumer,Atlanta,East,Office Supplies,Pens,56.06,4,0.15,8.18
+ORD-01820,2021-01-07,2021-01-10,Second Class,CUST-1044,Consumer,Denver,Central,Technology,Laptops,2488.97,6,0.0,480.99
+ORD-01821,2022-10-13,2022-10-18,Standard Class,CUST-1191,Consumer,Los Angeles,West,Office Supplies,Labels,76.69,2,0.2,22.79
+ORD-01822,2022-09-28,2022-09-29,Second Class,CUST-1211,Corporate,Philadelphia,East,Furniture,Tables,2234.48,3,0.0,-33.28
+ORD-01823,2023-06-20,2023-06-23,Standard Class,CUST-1267,Consumer,San Francisco,West,Technology,Laptops,1113.88,6,0.1,133.41
+ORD-01824,2023-06-08,2023-06-11,Second Class,CUST-1282,Consumer,Portland,West,Furniture,Tables,3594.64,5,0.0,449.02
+ORD-01825,2021-03-06,2021-03-07,Standard Class,CUST-1190,Consumer,San Francisco,West,Office Supplies,Pens,159.94,3,0.0,50.67
+ORD-01826,2021-01-17,2021-01-19,First Class,CUST-1183,Corporate,New York,East,Office Supplies,Binders,198.31,2,0.0,84.43
+ORD-01827,2023-06-10,2023-06-17,Second Class,CUST-1247,Consumer,New York,East,Furniture,Storage,1557.73,3,0.0,67.46
+ORD-01828,2023-11-05,2023-11-06,First Class,CUST-1083,Corporate,San Francisco,West,Office Supplies,Pens,118.88,1,0.4,11.91
+ORD-01829,2021-10-13,2021-10-15,Second Class,CUST-1177,Home Office,Nashville,South,Furniture,Bookcases,613.89,2,0.5,-136.7
+ORD-01830,2022-09-22,2022-09-23,Standard Class,CUST-1284,Consumer,Philadelphia,East,Furniture,Tables,827.62,2,0.0,108.45
+ORD-01831,2023-03-19,2023-03-26,Standard Class,CUST-1124,Consumer,San Francisco,West,Office Supplies,Pens,121.76,6,0.15,40.53
+ORD-01832,2022-11-01,2022-11-04,Standard Class,CUST-1250,Corporate,Boston,East,Office Supplies,Binders,445.93,3,0.1,126.43
+ORD-01833,2022-11-28,2022-12-03,Standard Class,CUST-1255,Corporate,San Francisco,West,Office Supplies,Binders,348.24,2,0.3,73.62
+ORD-01834,2023-05-22,2023-05-24,Second Class,CUST-1215,Consumer,New York,East,Technology,Laptops,2908.42,3,0.15,352.3
+ORD-01835,2021-07-27,2021-08-03,Standard Class,CUST-1196,Consumer,Chicago,Central,Technology,Monitors,2183.67,5,0.0,274.59
+ORD-01836,2023-05-21,2023-05-24,Standard Class,CUST-1257,Consumer,Atlanta,East,Office Supplies,Binders,101.34,4,0.1,35.53
+ORD-01837,2023-05-19,2023-05-24,Standard Class,CUST-1132,Consumer,Houston,Central,Furniture,Storage,1391.34,6,0.0,47.69
+ORD-01838,2023-09-30,2023-10-04,Standard Class,CUST-1012,Consumer,Atlanta,East,Technology,Monitors,3133.02,3,0.0,524.76
+ORD-01839,2021-03-14,2021-03-19,Standard Class,CUST-1043,Consumer,Portland,West,Furniture,Tables,260.87,2,0.1,-0.25
+ORD-01840,2023-07-28,2023-08-04,Standard Class,CUST-1075,Consumer,Denver,Central,Furniture,Tables,4597.24,1,0.0,145.49
+ORD-01841,2022-09-11,2022-09-15,Second Class,CUST-1040,Consumer,New York,East,Office Supplies,Binders,75.73,6,0.4,4.86
+ORD-01842,2023-11-19,2023-11-24,Same Day,CUST-1242,Corporate,Nashville,South,Office Supplies,Labels,219.07,5,0.15,30.06
+ORD-01843,2023-03-28,2023-03-30,Second Class,CUST-1066,Consumer,San Francisco,West,Technology,Monitors,5279.64,4,0.0,746.69
+ORD-01844,2022-10-27,2022-10-29,Standard Class,CUST-1215,Consumer,Boston,East,Technology,Monitors,883.73,4,0.15,129.79
+ORD-01845,2022-11-29,2022-12-02,Standard Class,CUST-1107,Home Office,Atlanta,East,Office Supplies,Pens,220.89,4,0.0,91.36
+ORD-01846,2021-06-10,2021-06-17,Second Class,CUST-1189,Consumer,Houston,Central,Furniture,Tables,2781.35,5,0.0,381.05
+ORD-01847,2021-12-08,2021-12-13,Second Class,CUST-1284,Consumer,Atlanta,East,Furniture,Bookcases,2791.06,3,0.0,394.2
+ORD-01848,2021-09-10,2021-09-11,First Class,CUST-1081,Consumer,Philadelphia,East,Office Supplies,Paper,62.38,2,0.5,5.78
+ORD-01849,2022-07-26,2022-07-29,Standard Class,CUST-1162,Corporate,Boston,East,Office Supplies,Labels,99.21,6,0.15,29.44
+ORD-01850,2023-07-10,2023-07-12,Standard Class,CUST-1237,Consumer,Portland,West,Furniture,Storage,3341.3,3,0.0,-164.28
+ORD-01851,2021-03-01,2021-03-06,Standard Class,CUST-1166,Home Office,Atlanta,East,Office Supplies,Binders,33.76,1,0.1,11.24
+ORD-01852,2021-02-16,2021-02-23,Same Day,CUST-1234,Corporate,Atlanta,East,Office Supplies,Paper,331.9,2,0.1,121.43
+ORD-01853,2021-03-05,2021-03-07,Standard Class,CUST-1090,Consumer,San Francisco,West,Furniture,Tables,4327.7,2,0.0,436.29
+ORD-01854,2022-05-17,2022-05-21,First Class,CUST-1208,Home Office,Houston,Central,Office Supplies,Binders,109.7,6,0.0,22.83
+ORD-01855,2021-09-05,2021-09-12,Same Day,CUST-1149,Corporate,Miami,South,Office Supplies,Labels,117.61,1,0.0,47.86
+ORD-01856,2021-10-26,2021-10-29,Standard Class,CUST-1173,Consumer,Atlanta,East,Office Supplies,Binders,97.67,6,0.15,21.16
+ORD-01857,2021-06-01,2021-06-05,Standard Class,CUST-1151,Consumer,Dallas,Central,Technology,Laptops,7258.08,3,0.2,1098.85
+ORD-01858,2021-10-14,2021-10-16,Second Class,CUST-1149,Corporate,Houston,Central,Office Supplies,Pens,80.66,3,0.0,23.61
+ORD-01859,2022-08-27,2022-08-29,Standard Class,CUST-1131,Consumer,Boston,East,Furniture,Tables,2728.69,4,0.0,62.99
+ORD-01860,2023-01-16,2023-01-23,Standard Class,CUST-1079,Consumer,New Orleans,South,Office Supplies,Binders,314.98,3,0.0,133.87
+ORD-01861,2021-12-13,2021-12-18,Standard Class,CUST-1175,Home Office,Atlanta,East,Office Supplies,Pens,209.71,1,0.3,11.23
+ORD-01862,2021-09-02,2021-09-09,Second Class,CUST-1268,Corporate,Seattle,West,Technology,Laptops,2611.87,1,0.0,737.96
+ORD-01863,2022-11-06,2022-11-11,Standard Class,CUST-1267,Consumer,New York,East,Office Supplies,Paper,7.37,5,0.5,-0.27
+ORD-01864,2022-05-17,2022-05-19,Second Class,CUST-1282,Corporate,Dallas,Central,Technology,Accessories,7144.66,3,0.0,2113.93
+ORD-01865,2022-09-13,2022-09-14,Standard Class,CUST-1050,Home Office,Chicago,Central,Technology,Laptops,1220.01,4,0.1,202.83
+ORD-01866,2021-06-20,2021-06-24,Standard Class,CUST-1297,Consumer,New York,East,Furniture,Chairs,784.03,1,0.1,-19.61
+ORD-01867,2023-07-24,2023-07-25,Standard Class,CUST-1168,Corporate,Denver,Central,Furniture,Chairs,1900.69,2,0.1,44.0
+ORD-01868,2022-11-30,2022-12-03,Second Class,CUST-1249,Consumer,New Orleans,South,Furniture,Bookcases,3381.3,2,0.1,-243.9
+ORD-01869,2022-09-16,2022-09-17,Standard Class,CUST-1099,Consumer,Philadelphia,East,Technology,Monitors,9312.72,2,0.0,2210.76
+ORD-01870,2021-07-30,2021-08-06,Second Class,CUST-1098,Consumer,Seattle,West,Office Supplies,Paper,87.32,2,0.1,16.47
+ORD-01871,2023-08-29,2023-09-05,Second Class,CUST-1241,Consumer,Nashville,South,Office Supplies,Paper,292.18,3,0.2,48.9
+ORD-01872,2022-10-08,2022-10-12,Standard Class,CUST-1028,Consumer,Boston,East,Office Supplies,Pens,158.92,4,0.2,16.12
+ORD-01873,2021-02-09,2021-02-16,First Class,CUST-1218,Home Office,Philadelphia,East,Office Supplies,Pens,102.96,3,0.0,30.21
+ORD-01874,2023-06-21,2023-06-24,Second Class,CUST-1240,Corporate,Philadelphia,East,Office Supplies,Pens,40.98,6,0.0,15.6
+ORD-01875,2023-09-25,2023-09-27,First Class,CUST-1141,Corporate,Denver,Central,Office Supplies,Binders,182.48,3,0.0,39.06
+ORD-01876,2021-06-01,2021-06-04,First Class,CUST-1153,Consumer,Miami,South,Furniture,Storage,5635.86,5,0.2,385.99
+ORD-01877,2022-06-18,2022-06-23,First Class,CUST-1160,Corporate,Boston,East,Office Supplies,Binders,209.1,1,0.15,33.48
+ORD-01878,2022-10-20,2022-10-24,Standard Class,CUST-1132,Corporate,Charlotte,South,Office Supplies,Pens,114.04,6,0.0,42.13
+ORD-01879,2021-04-09,2021-04-14,First Class,CUST-1258,Consumer,Portland,West,Technology,Phones,1015.98,1,0.0,190.44
+ORD-01880,2021-05-18,2021-05-25,Standard Class,CUST-1081,Consumer,Denver,Central,Office Supplies,Pens,7.98,5,0.5,1.16
+ORD-01881,2021-05-30,2021-06-06,Same Day,CUST-1077,Corporate,Atlanta,East,Office Supplies,Binders,202.46,6,0.0,85.51
+ORD-01882,2023-06-05,2023-06-06,First Class,CUST-1004,Consumer,Seattle,West,Office Supplies,Binders,189.64,1,0.0,77.19
+ORD-01883,2023-12-27,2023-12-31,First Class,CUST-1295,Corporate,San Francisco,West,Technology,Monitors,2725.3,3,0.2,313.1
+ORD-01884,2021-03-22,2021-03-24,Second Class,CUST-1106,Consumer,San Francisco,West,Technology,Laptops,1442.18,2,0.0,235.17
+ORD-01885,2022-12-29,2022-12-30,First Class,CUST-1227,Consumer,Boston,East,Technology,Laptops,2063.27,1,0.0,597.53
+ORD-01886,2023-02-19,2023-02-24,Standard Class,CUST-1264,Consumer,Atlanta,East,Office Supplies,Paper,73.86,5,0.4,9.36
+ORD-01887,2022-10-11,2022-10-15,Standard Class,CUST-1260,Corporate,Portland,West,Technology,Laptops,511.41,3,0.2,36.81
+ORD-01888,2021-07-24,2021-07-27,Standard Class,CUST-1153,Home Office,Portland,West,Technology,Monitors,2469.37,6,0.2,214.41
+ORD-01889,2022-07-17,2022-07-24,Standard Class,CUST-1289,Home Office,Denver,Central,Technology,Phones,5066.78,2,0.0,1365.41
+ORD-01890,2022-03-06,2022-03-13,Standard Class,CUST-1088,Corporate,Portland,West,Technology,Laptops,4644.51,4,0.1,996.94
+ORD-01891,2021-11-29,2021-11-30,First Class,CUST-1164,Consumer,Dallas,Central,Technology,Laptops,4033.13,3,0.0,704.33
+ORD-01892,2023-04-15,2023-04-16,First Class,CUST-1047,Consumer,Atlanta,East,Technology,Phones,2881.58,2,0.0,296.77
+ORD-01893,2023-06-21,2023-06-23,Standard Class,CUST-1065,Consumer,Portland,West,Furniture,Chairs,1556.76,3,0.0,104.88
+ORD-01894,2022-02-06,2022-02-08,Second Class,CUST-1042,Consumer,Miami,South,Furniture,Bookcases,756.53,6,0.2,-86.51
+ORD-01895,2022-09-09,2022-09-12,Standard Class,CUST-1136,Consumer,Los Angeles,West,Office Supplies,Labels,367.26,5,0.15,93.64
+ORD-01896,2021-03-12,2021-03-19,Second Class,CUST-1007,Corporate,Boston,East,Office Supplies,Paper,490.94,2,0.1,171.12
+ORD-01897,2023-09-12,2023-09-16,Standard Class,CUST-1207,Consumer,Dallas,Central,Technology,Phones,3910.8,5,0.1,834.56
+ORD-01898,2022-07-27,2022-08-03,Standard Class,CUST-1174,Corporate,Boston,East,Furniture,Tables,4219.41,3,0.0,730.51
+ORD-01899,2022-12-03,2022-12-08,Second Class,CUST-1064,Corporate,Denver,Central,Office Supplies,Labels,129.35,5,0.0,26.69
+ORD-01900,2022-12-13,2022-12-16,Standard Class,CUST-1203,Corporate,Chicago,Central,Technology,Monitors,744.54,2,0.4,70.24
+ORD-01901,2022-12-26,2022-12-31,Standard Class,CUST-1272,Corporate,San Francisco,West,Office Supplies,Paper,165.84,1,0.1,46.87
+ORD-01902,2021-12-06,2021-12-13,Standard Class,CUST-1276,Consumer,Dallas,Central,Furniture,Tables,1885.33,2,0.2,71.22
+ORD-01903,2023-04-01,2023-04-04,Same Day,CUST-1153,Consumer,New Orleans,South,Office Supplies,Labels,172.25,2,0.3,28.77
+ORD-01904,2021-05-17,2021-05-18,Second Class,CUST-1200,Consumer,Houston,Central,Technology,Accessories,3873.78,2,0.0,1024.57
+ORD-01905,2022-04-09,2022-04-12,Standard Class,CUST-1077,Consumer,Philadelphia,East,Office Supplies,Labels,101.46,6,0.0,39.05
+ORD-01906,2022-09-30,2022-10-05,Standard Class,CUST-1277,Consumer,Houston,Central,Technology,Laptops,1744.03,1,0.0,327.27
+ORD-01907,2021-03-25,2021-03-29,First Class,CUST-1086,Home Office,Seattle,West,Office Supplies,Labels,379.52,5,0.0,120.17
+ORD-01908,2023-01-13,2023-01-15,Standard Class,CUST-1029,Corporate,Dallas,Central,Office Supplies,Labels,419.38,4,0.2,142.93
+ORD-01909,2022-11-05,2022-11-09,Second Class,CUST-1248,Home Office,Houston,Central,Office Supplies,Pens,152.57,1,0.5,-4.46
+ORD-01910,2023-09-27,2023-10-02,Standard Class,CUST-1195,Corporate,Portland,West,Technology,Monitors,5742.98,6,0.1,1286.88
+ORD-01911,2022-05-04,2022-05-07,Standard Class,CUST-1177,Corporate,New York,East,Technology,Phones,4909.7,1,0.2,705.32
+ORD-01912,2023-06-04,2023-06-11,First Class,CUST-1050,Home Office,Miami,South,Office Supplies,Labels,246.01,3,0.1,38.39
+ORD-01913,2022-12-06,2022-12-09,Standard Class,CUST-1234,Home Office,Denver,Central,Technology,Monitors,4878.47,3,0.0,1252.51
+ORD-01914,2022-10-22,2022-10-29,First Class,CUST-1045,Consumer,Dallas,Central,Office Supplies,Pens,151.66,4,0.2,21.69
+ORD-01915,2023-04-12,2023-04-15,Second Class,CUST-1248,Consumer,Boston,East,Furniture,Tables,1851.3,6,0.2,-184.14
+ORD-01916,2021-08-17,2021-08-19,Standard Class,CUST-1038,Home Office,Nashville,South,Furniture,Storage,2613.94,4,0.2,-40.35
+ORD-01917,2022-11-28,2022-12-03,Standard Class,CUST-1150,Home Office,Denver,Central,Technology,Phones,1216.49,6,0.4,-96.44
+ORD-01918,2021-11-14,2021-11-21,Standard Class,CUST-1125,Consumer,Philadelphia,East,Office Supplies,Binders,148.94,2,0.0,60.81
+ORD-01919,2021-02-12,2021-02-17,Standard Class,CUST-1098,Consumer,Philadelphia,East,Office Supplies,Labels,300.3,5,0.0,101.44
+ORD-01920,2023-01-16,2023-01-19,Second Class,CUST-1276,Corporate,Atlanta,East,Furniture,Storage,1749.79,3,0.3,59.9
+ORD-01921,2021-07-17,2021-07-22,Second Class,CUST-1178,Corporate,Philadelphia,East,Furniture,Tables,3912.6,2,0.0,612.61
+ORD-01922,2023-06-13,2023-06-14,Standard Class,CUST-1029,Consumer,New York,East,Office Supplies,Paper,286.42,6,0.0,89.4
+ORD-01923,2022-07-20,2022-07-25,Standard Class,CUST-1068,Consumer,Nashville,South,Office Supplies,Labels,35.31,6,0.15,8.75
+ORD-01924,2022-11-08,2022-11-10,Second Class,CUST-1300,Corporate,Houston,Central,Office Supplies,Paper,350.52,6,0.0,117.39
+ORD-01925,2021-09-03,2021-09-04,Standard Class,CUST-1091,Corporate,Miami,South,Furniture,Chairs,3888.05,2,0.15,226.05
+ORD-01926,2021-07-12,2021-07-16,Standard Class,CUST-1070,Corporate,Atlanta,East,Office Supplies,Binders,282.34,4,0.2,55.15
+ORD-01927,2022-06-01,2022-06-05,Standard Class,CUST-1041,Consumer,Seattle,West,Office Supplies,Paper,54.47,6,0.0,13.98
+ORD-01928,2021-05-02,2021-05-09,Standard Class,CUST-1002,Home Office,New York,East,Furniture,Chairs,1468.7,1,0.0,288.28
+ORD-01929,2022-01-22,2022-01-29,Same Day,CUST-1079,Home Office,Seattle,West,Furniture,Bookcases,2079.87,1,0.1,299.38
+ORD-01930,2023-07-01,2023-07-02,First Class,CUST-1055,Corporate,Nashville,South,Office Supplies,Paper,76.16,3,0.2,13.55
+ORD-01931,2021-11-14,2021-11-19,Standard Class,CUST-1229,Home Office,Philadelphia,East,Furniture,Tables,3993.59,4,0.4,-451.3
+ORD-01932,2023-10-03,2023-10-05,Same Day,CUST-1050,Consumer,Boston,East,Office Supplies,Binders,120.14,4,0.0,51.56
+ORD-01933,2023-12-26,2023-12-31,Second Class,CUST-1149,Home Office,Houston,Central,Office Supplies,Binders,124.31,2,0.0,29.07
+ORD-01934,2021-08-02,2021-08-05,Standard Class,CUST-1028,Consumer,Atlanta,East,Office Supplies,Labels,345.53,3,0.0,154.82
+ORD-01935,2021-12-22,2021-12-29,Second Class,CUST-1197,Consumer,Los Angeles,West,Furniture,Chairs,569.89,3,0.1,-50.26
+ORD-01936,2022-01-01,2022-01-06,Second Class,CUST-1113,Corporate,Denver,Central,Technology,Phones,737.03,2,0.3,-22.31
+ORD-01937,2021-02-01,2021-02-02,Second Class,CUST-1002,Consumer,Denver,Central,Office Supplies,Binders,194.19,3,0.3,15.36
+ORD-01938,2023-04-04,2023-04-05,Standard Class,CUST-1292,Home Office,Charlotte,South,Office Supplies,Pens,49.7,4,0.1,10.66
+ORD-01939,2023-04-28,2023-05-02,Standard Class,CUST-1005,Consumer,Seattle,West,Office Supplies,Pens,72.52,5,0.2,16.1
+ORD-01940,2021-05-25,2021-06-01,Second Class,CUST-1274,Consumer,Portland,West,Office Supplies,Labels,30.22,2,0.3,5.2
+ORD-01941,2022-06-20,2022-06-21,Standard Class,CUST-1284,Consumer,Charlotte,South,Furniture,Bookcases,4459.78,1,0.2,316.67
+ORD-01942,2022-04-14,2022-04-15,Standard Class,CUST-1123,Consumer,Los Angeles,West,Office Supplies,Paper,251.6,1,0.0,93.95
+ORD-01943,2023-10-29,2023-10-31,First Class,CUST-1174,Consumer,Philadelphia,East,Furniture,Bookcases,4219.6,2,0.0,-195.99
+ORD-01944,2021-04-26,2021-04-30,First Class,CUST-1099,Consumer,New Orleans,South,Office Supplies,Pens,162.28,6,0.1,33.48
+ORD-01945,2023-12-19,2023-12-22,Standard Class,CUST-1033,Consumer,Portland,West,Furniture,Storage,1883.97,1,0.1,-38.83
+ORD-01946,2021-03-20,2021-03-22,Standard Class,CUST-1198,Corporate,Philadelphia,East,Furniture,Chairs,3265.17,1,0.0,-160.47
+ORD-01947,2023-09-03,2023-09-08,Standard Class,CUST-1121,Corporate,Miami,South,Office Supplies,Binders,251.16,6,0.15,55.68
+ORD-01948,2023-07-20,2023-07-25,First Class,CUST-1198,Consumer,Atlanta,East,Office Supplies,Pens,265.04,2,0.0,95.22
+ORD-01949,2021-03-29,2021-04-02,Standard Class,CUST-1180,Consumer,New York,East,Office Supplies,Paper,64.5,6,0.5,-1.21
+ORD-01950,2023-03-07,2023-03-11,Standard Class,CUST-1105,Consumer,Atlanta,East,Technology,Monitors,2642.28,5,0.15,136.4
+ORD-01951,2023-04-17,2023-04-20,Second Class,CUST-1231,Home Office,Boston,East,Technology,Laptops,3362.4,5,0.0,652.46
+ORD-01952,2023-02-27,2023-03-04,First Class,CUST-1088,Consumer,San Francisco,West,Furniture,Storage,3336.13,5,0.0,5.38
+ORD-01953,2022-05-19,2022-05-26,Standard Class,CUST-1271,Consumer,Philadelphia,East,Technology,Laptops,2001.11,5,0.0,573.53
+ORD-01954,2021-04-19,2021-04-22,Standard Class,CUST-1077,Consumer,Chicago,Central,Office Supplies,Binders,231.53,6,0.4,20.65
+ORD-01955,2023-07-04,2023-07-08,Standard Class,CUST-1081,Corporate,Houston,Central,Office Supplies,Pens,108.2,5,0.0,24.39
+ORD-01956,2021-11-21,2021-11-26,Second Class,CUST-1058,Corporate,Los Angeles,West,Office Supplies,Paper,289.3,2,0.15,56.5
+ORD-01957,2023-02-20,2023-02-24,Standard Class,CUST-1225,Corporate,Miami,South,Office Supplies,Paper,96.02,3,0.2,23.67
+ORD-01958,2022-12-06,2022-12-09,First Class,CUST-1201,Home Office,New York,East,Office Supplies,Paper,444.7,3,0.0,103.94
+ORD-01959,2021-06-20,2021-06-23,Standard Class,CUST-1086,Home Office,Nashville,South,Office Supplies,Binders,369.63,4,0.0,156.27
+ORD-01960,2021-02-18,2021-02-22,First Class,CUST-1134,Home Office,Seattle,West,Furniture,Bookcases,1283.13,3,0.0,12.45
+ORD-01961,2023-07-28,2023-08-04,First Class,CUST-1005,Corporate,Boston,East,Furniture,Storage,236.42,5,0.0,46.0
+ORD-01962,2021-03-15,2021-03-22,Standard Class,CUST-1208,Home Office,Philadelphia,East,Office Supplies,Binders,409.7,4,0.0,164.2
+ORD-01963,2022-07-01,2022-07-02,Standard Class,CUST-1058,Corporate,New Orleans,South,Office Supplies,Paper,109.95,5,0.2,36.1
+ORD-01964,2021-05-14,2021-05-16,Standard Class,CUST-1006,Consumer,Chicago,Central,Technology,Laptops,2424.62,1,0.2,418.82
+ORD-01965,2023-08-02,2023-08-09,Second Class,CUST-1102,Consumer,Miami,South,Office Supplies,Pens,118.48,2,0.1,19.44
+ORD-01966,2022-04-23,2022-04-25,First Class,CUST-1243,Consumer,Los Angeles,West,Office Supplies,Binders,12.25,2,0.0,4.37
+ORD-01967,2021-05-06,2021-05-10,Second Class,CUST-1073,Consumer,Philadelphia,East,Office Supplies,Labels,31.81,3,0.0,14.11
+ORD-01968,2022-04-12,2022-04-14,First Class,CUST-1111,Consumer,Chicago,Central,Office Supplies,Paper,168.01,3,0.1,46.48
+ORD-01969,2022-05-31,2022-06-03,Same Day,CUST-1030,Corporate,Chicago,Central,Furniture,Bookcases,1382.31,6,0.0,101.57
+ORD-01970,2021-06-30,2021-07-03,Second Class,CUST-1291,Consumer,Portland,West,Office Supplies,Labels,230.21,1,0.15,63.62
+ORD-01971,2023-09-29,2023-10-02,Standard Class,CUST-1180,Consumer,Atlanta,East,Technology,Accessories,2911.22,6,0.0,390.43
+ORD-01972,2023-07-16,2023-07-18,First Class,CUST-1162,Consumer,Atlanta,East,Furniture,Storage,1366.16,2,0.0,-59.95
+ORD-01973,2021-12-20,2021-12-22,First Class,CUST-1076,Consumer,New York,East,Furniture,Tables,2215.99,4,0.0,-101.72
+ORD-01974,2022-07-23,2022-07-25,First Class,CUST-1249,Consumer,Portland,West,Technology,Laptops,2547.5,2,0.0,737.42
+ORD-01975,2023-09-04,2023-09-09,Standard Class,CUST-1213,Consumer,New York,East,Office Supplies,Binders,84.51,2,0.1,23.12
+ORD-01976,2023-05-29,2023-06-03,Second Class,CUST-1065,Corporate,Boston,East,Furniture,Bookcases,552.85,3,0.1,-8.14
+ORD-01977,2022-10-31,2022-11-07,Standard Class,CUST-1143,Consumer,Portland,West,Furniture,Storage,1341.49,4,0.1,168.3
+ORD-01978,2022-04-14,2022-04-21,First Class,CUST-1240,Home Office,Dallas,Central,Office Supplies,Pens,145.54,5,0.2,23.62
+ORD-01979,2022-10-21,2022-10-22,Standard Class,CUST-1136,Consumer,New York,East,Office Supplies,Pens,294.26,6,0.1,109.68
+ORD-01980,2021-05-01,2021-05-05,Standard Class,CUST-1287,Corporate,Houston,Central,Technology,Monitors,767.15,4,0.0,203.27
+ORD-01981,2022-02-14,2022-02-21,Second Class,CUST-1268,Home Office,Charlotte,South,Technology,Accessories,632.85,2,0.0,70.95
+ORD-01982,2021-01-23,2021-01-26,First Class,CUST-1215,Consumer,Portland,West,Office Supplies,Pens,85.69,6,0.0,17.76
+ORD-01983,2021-11-18,2021-11-23,Standard Class,CUST-1101,Consumer,Dallas,Central,Technology,Monitors,3664.56,3,0.0,566.95
+ORD-01984,2021-04-18,2021-04-21,Standard Class,CUST-1281,Consumer,San Francisco,West,Office Supplies,Labels,255.37,4,0.0,104.18
+ORD-01985,2021-03-12,2021-03-19,Second Class,CUST-1067,Consumer,Atlanta,East,Technology,Monitors,595.48,6,0.3,-23.12
+ORD-01986,2022-04-27,2022-04-28,First Class,CUST-1252,Corporate,Los Angeles,West,Furniture,Chairs,4148.76,1,0.0,220.55
+ORD-01987,2021-07-03,2021-07-05,Second Class,CUST-1122,Corporate,Atlanta,East,Furniture,Chairs,689.96,2,0.2,46.34
+ORD-01988,2022-04-22,2022-04-24,Standard Class,CUST-1202,Consumer,San Francisco,West,Technology,Phones,4311.31,6,0.1,494.03
+ORD-01989,2021-03-15,2021-03-17,Standard Class,CUST-1188,Corporate,Atlanta,East,Technology,Accessories,2911.46,5,0.0,699.81
+ORD-01990,2022-07-31,2022-08-03,First Class,CUST-1131,Corporate,Philadelphia,East,Furniture,Tables,4182.59,5,0.0,1.66
+ORD-01991,2021-03-01,2021-03-05,Standard Class,CUST-1054,Consumer,Charlotte,South,Furniture,Bookcases,4502.9,4,0.0,-98.28
+ORD-01992,2022-09-14,2022-09-17,Second Class,CUST-1111,Home Office,Seattle,West,Office Supplies,Paper,130.05,3,0.1,48.26
+ORD-01993,2023-03-07,2023-03-14,Standard Class,CUST-1245,Home Office,San Francisco,West,Furniture,Bookcases,2363.44,4,0.1,-138.7
+ORD-01994,2021-01-01,2021-01-02,Standard Class,CUST-1227,Consumer,Dallas,Central,Office Supplies,Pens,56.88,3,0.4,13.23
+ORD-01995,2023-05-17,2023-05-24,Standard Class,CUST-1017,Consumer,Seattle,West,Furniture,Tables,1589.96,3,0.0,180.31
+ORD-01996,2022-02-24,2022-02-25,First Class,CUST-1007,Home Office,Portland,West,Office Supplies,Pens,96.82,2,0.3,27.4
+ORD-01997,2023-09-10,2023-09-11,Second Class,CUST-1015,Consumer,Boston,East,Technology,Laptops,3764.6,4,0.0,675.78
+ORD-01998,2021-04-01,2021-04-08,Standard Class,CUST-1136,Consumer,Denver,Central,Technology,Monitors,879.55,2,0.15,148.45
+ORD-01999,2021-01-04,2021-01-11,Standard Class,CUST-1024,Consumer,Nashville,South,Technology,Accessories,1085.34,2,0.1,206.85
+ORD-02000,2023-02-04,2023-02-11,Second Class,CUST-1089,Home Office,Atlanta,East,Technology,Phones,4548.38,4,0.0,1036.41
+ORD-02001,2023-10-10,2023-10-17,Standard Class,CUST-1070,Corporate,Boston,East,Office Supplies,Pens,150.53,3,0.4,3.25
+ORD-02002,2021-12-03,2021-12-04,First Class,CUST-1081,Corporate,Atlanta,East,Furniture,Bookcases,1230.97,6,0.1,43.15
+ORD-02003,2023-05-09,2023-05-10,Standard Class,CUST-1281,Home Office,Nashville,South,Office Supplies,Paper,133.76,3,0.1,39.31
+ORD-02004,2023-02-04,2023-02-09,Standard Class,CUST-1054,Consumer,Houston,Central,Office Supplies,Paper,563.42,4,0.0,162.14
+ORD-02005,2023-10-31,2023-11-01,First Class,CUST-1155,Corporate,San Francisco,West,Technology,Monitors,1138.12,4,0.15,98.23
+ORD-02006,2021-09-05,2021-09-07,Standard Class,CUST-1216,Consumer,Nashville,South,Office Supplies,Binders,31.93,1,0.0,10.0
+ORD-02007,2022-09-15,2022-09-19,Standard Class,CUST-1251,Consumer,Seattle,West,Office Supplies,Labels,341.25,6,0.1,101.81
+ORD-02008,2023-02-25,2023-03-02,Standard Class,CUST-1251,Consumer,New York,East,Office Supplies,Labels,396.51,3,0.15,111.05
+ORD-02009,2022-06-01,2022-06-06,Standard Class,CUST-1232,Corporate,Portland,West,Office Supplies,Labels,31.19,1,0.15,9.48
+ORD-02010,2023-07-14,2023-07-16,Standard Class,CUST-1014,Consumer,Portland,West,Furniture,Bookcases,1143.32,6,0.0,-20.47
+ORD-02011,2023-03-06,2023-03-11,Second Class,CUST-1251,Consumer,San Francisco,West,Office Supplies,Labels,99.79,5,0.0,22.89
+ORD-02012,2023-05-24,2023-05-25,Second Class,CUST-1198,Consumer,San Francisco,West,Technology,Monitors,1779.66,1,0.0,351.04
+ORD-02013,2023-10-08,2023-10-10,Standard Class,CUST-1288,Consumer,Chicago,Central,Office Supplies,Paper,108.51,6,0.0,25.48
+ORD-02014,2023-01-25,2023-02-01,Second Class,CUST-1216,Consumer,Atlanta,East,Technology,Monitors,5800.06,5,0.0,903.54
+ORD-02015,2022-05-14,2022-05-16,Second Class,CUST-1228,Consumer,Seattle,West,Technology,Phones,956.65,2,0.0,131.4
+ORD-02016,2022-01-15,2022-01-20,First Class,CUST-1200,Consumer,Atlanta,East,Office Supplies,Pens,64.92,2,0.0,15.38
+ORD-02017,2023-12-23,2023-12-24,Second Class,CUST-1109,Consumer,New York,East,Technology,Phones,1795.38,4,0.0,267.04
+ORD-02018,2021-05-26,2021-05-28,Standard Class,CUST-1037,Consumer,Philadelphia,East,Technology,Monitors,2428.01,5,0.3,-88.38
+ORD-02019,2022-04-07,2022-04-10,Standard Class,CUST-1014,Home Office,Atlanta,East,Office Supplies,Paper,255.71,4,0.0,71.63
+ORD-02020,2023-11-10,2023-11-14,Standard Class,CUST-1038,Corporate,Philadelphia,East,Technology,Accessories,3371.79,4,0.0,688.69
+ORD-02021,2021-03-23,2021-03-26,First Class,CUST-1155,Corporate,New York,East,Furniture,Chairs,1714.69,3,0.0,260.12
+ORD-02022,2021-10-09,2021-10-13,Standard Class,CUST-1032,Corporate,Charlotte,South,Office Supplies,Pens,107.75,5,0.5,8.96
+ORD-02023,2022-10-26,2022-10-28,Standard Class,CUST-1265,Corporate,New Orleans,South,Technology,Accessories,2252.75,3,0.5,-251.48
+ORD-02024,2021-10-13,2021-10-20,Standard Class,CUST-1236,Corporate,Portland,West,Office Supplies,Pens,121.83,2,0.15,32.07
+ORD-02025,2022-11-22,2022-11-24,Standard Class,CUST-1138,Corporate,Seattle,West,Office Supplies,Paper,534.62,6,0.0,159.27
+ORD-02026,2021-09-12,2021-09-16,Standard Class,CUST-1253,Consumer,Philadelphia,East,Office Supplies,Labels,491.61,3,0.0,121.54
+ORD-02027,2023-05-26,2023-06-02,Standard Class,CUST-1071,Consumer,Atlanta,East,Furniture,Bookcases,1768.88,1,0.0,82.64
+ORD-02028,2021-08-09,2021-08-14,Standard Class,CUST-1216,Consumer,Chicago,Central,Technology,Accessories,2289.62,6,0.2,423.92
+ORD-02029,2022-08-06,2022-08-10,Second Class,CUST-1282,Home Office,Seattle,West,Technology,Phones,1356.42,3,0.1,222.62
+ORD-02030,2023-02-24,2023-02-26,Standard Class,CUST-1138,Corporate,Seattle,West,Furniture,Tables,612.55,6,0.4,-139.17
+ORD-02031,2021-12-06,2021-12-08,Standard Class,CUST-1222,Consumer,Portland,West,Office Supplies,Binders,414.17,3,0.0,107.56
+ORD-02032,2023-06-29,2023-07-03,Standard Class,CUST-1277,Consumer,Philadelphia,East,Office Supplies,Labels,75.05,1,0.3,17.84
+ORD-02033,2022-12-03,2022-12-06,First Class,CUST-1073,Consumer,Charlotte,South,Office Supplies,Paper,25.62,3,0.2,6.45
+ORD-02034,2023-04-10,2023-04-13,Standard Class,CUST-1012,Consumer,Portland,West,Office Supplies,Labels,86.25,4,0.3,12.49
+ORD-02035,2023-03-08,2023-03-13,First Class,CUST-1217,Consumer,New York,East,Office Supplies,Paper,220.21,4,0.0,68.06
+ORD-02036,2023-09-08,2023-09-10,Same Day,CUST-1024,Consumer,Boston,East,Technology,Accessories,940.23,3,0.2,184.13
+ORD-02037,2021-04-13,2021-04-16,Second Class,CUST-1142,Consumer,Dallas,Central,Office Supplies,Binders,49.48,4,0.0,13.52
+ORD-02038,2021-07-08,2021-07-13,Standard Class,CUST-1085,Consumer,Seattle,West,Office Supplies,Paper,25.12,4,0.0,7.98
+ORD-02039,2022-01-02,2022-01-07,Standard Class,CUST-1078,Consumer,New York,East,Technology,Laptops,1747.85,2,0.1,216.36
+ORD-02040,2022-07-12,2022-07-17,Standard Class,CUST-1079,Consumer,Los Angeles,West,Furniture,Tables,1482.62,4,0.0,-12.23
+ORD-02041,2022-05-19,2022-05-23,Standard Class,CUST-1021,Corporate,New Orleans,South,Office Supplies,Paper,25.84,5,0.15,4.28
+ORD-02042,2023-03-20,2023-03-25,First Class,CUST-1266,Consumer,Seattle,West,Technology,Monitors,4047.06,6,0.3,175.34
+ORD-02043,2021-09-16,2021-09-17,First Class,CUST-1195,Consumer,Denver,Central,Furniture,Storage,1084.12,4,0.2,-131.3
+ORD-02044,2023-06-11,2023-06-18,Standard Class,CUST-1071,Consumer,Portland,West,Furniture,Bookcases,3851.65,6,0.3,-9.12
+ORD-02045,2023-06-19,2023-06-22,Standard Class,CUST-1237,Consumer,Philadelphia,East,Office Supplies,Pens,256.98,2,0.15,55.99
+ORD-02046,2022-08-29,2022-09-01,First Class,CUST-1039,Home Office,San Francisco,West,Technology,Phones,902.09,4,0.3,114.93
+ORD-02047,2023-09-09,2023-09-10,Same Day,CUST-1051,Consumer,Denver,Central,Office Supplies,Pens,112.22,1,0.0,36.66
+ORD-02048,2023-07-08,2023-07-12,Standard Class,CUST-1026,Corporate,San Francisco,West,Technology,Accessories,3873.18,3,0.0,640.27
+ORD-02049,2023-11-03,2023-11-04,Second Class,CUST-1225,Consumer,Charlotte,South,Office Supplies,Binders,179.77,6,0.4,16.98
+ORD-02050,2023-03-19,2023-03-21,Standard Class,CUST-1291,Consumer,San Francisco,West,Office Supplies,Pens,33.22,4,0.0,7.75
+ORD-02051,2021-05-16,2021-05-18,Standard Class,CUST-1239,Home Office,Boston,East,Technology,Laptops,5547.1,2,0.15,1011.8
+ORD-02052,2022-12-03,2022-12-08,Second Class,CUST-1295,Consumer,Charlotte,South,Office Supplies,Paper,232.15,3,0.3,67.07
+ORD-02053,2023-12-02,2023-12-09,Second Class,CUST-1139,Corporate,Boston,East,Office Supplies,Pens,90.9,4,0.0,18.69
+ORD-02054,2022-06-12,2022-06-13,Second Class,CUST-1237,Consumer,Atlanta,East,Furniture,Bookcases,2401.46,2,0.2,-228.77
+ORD-02055,2022-11-10,2022-11-13,Standard Class,CUST-1033,Consumer,Houston,Central,Office Supplies,Binders,30.18,6,0.1,11.68
+ORD-02056,2021-03-04,2021-03-07,Standard Class,CUST-1202,Consumer,Atlanta,East,Office Supplies,Binders,140.95,4,0.0,45.33
+ORD-02057,2021-12-04,2021-12-07,Second Class,CUST-1042,Consumer,Philadelphia,East,Office Supplies,Labels,75.83,1,0.1,27.55
+ORD-02058,2021-11-08,2021-11-09,Standard Class,CUST-1182,Consumer,Portland,West,Technology,Phones,409.6,3,0.0,64.83
+ORD-02059,2021-06-18,2021-06-19,Standard Class,CUST-1055,Consumer,Seattle,West,Office Supplies,Binders,150.54,4,0.2,48.81
+ORD-02060,2021-05-14,2021-05-18,Standard Class,CUST-1049,Home Office,New York,East,Technology,Accessories,4782.56,5,0.0,1220.58
+ORD-02061,2021-11-30,2021-12-07,Standard Class,CUST-1205,Consumer,Chicago,Central,Furniture,Tables,3614.09,3,0.0,279.08
+ORD-02062,2023-08-03,2023-08-05,Standard Class,CUST-1075,Corporate,Houston,Central,Furniture,Tables,1295.5,1,0.0,125.56
+ORD-02063,2022-10-18,2022-10-23,Standard Class,CUST-1282,Consumer,Los Angeles,West,Technology,Monitors,3001.14,6,0.0,373.71
+ORD-02064,2023-01-16,2023-01-18,Second Class,CUST-1199,Home Office,Nashville,South,Office Supplies,Pens,185.0,3,0.0,38.45
+ORD-02065,2023-07-10,2023-07-12,First Class,CUST-1094,Corporate,Atlanta,East,Technology,Monitors,7059.41,5,0.15,1529.16
+ORD-02066,2022-11-17,2022-11-19,First Class,CUST-1103,Consumer,Charlotte,South,Technology,Laptops,593.32,3,0.0,131.0
+ORD-02067,2023-02-03,2023-02-06,Second Class,CUST-1108,Corporate,Los Angeles,West,Office Supplies,Labels,17.27,2,0.2,5.91
+ORD-02068,2021-03-22,2021-03-26,First Class,CUST-1145,Consumer,Philadelphia,East,Technology,Accessories,6527.32,1,0.1,1313.0
+ORD-02069,2023-08-08,2023-08-13,First Class,CUST-1153,Consumer,New York,East,Furniture,Storage,2573.34,3,0.2,-242.6
+ORD-02070,2022-04-15,2022-04-16,Standard Class,CUST-1038,Consumer,Houston,Central,Office Supplies,Binders,148.64,1,0.0,29.81
+ORD-02071,2022-09-20,2022-09-25,First Class,CUST-1282,Consumer,Atlanta,East,Office Supplies,Pens,202.36,6,0.5,0.68
+ORD-02072,2022-02-15,2022-02-16,Standard Class,CUST-1010,Corporate,Charlotte,South,Technology,Phones,1775.69,4,0.0,264.79
+ORD-02073,2023-05-24,2023-05-26,Standard Class,CUST-1277,Corporate,Seattle,West,Technology,Accessories,5631.22,3,0.0,1612.49
+ORD-02074,2021-01-07,2021-01-09,First Class,CUST-1172,Home Office,San Francisco,West,Office Supplies,Binders,26.22,4,0.4,0.74
+ORD-02075,2021-06-20,2021-06-23,Standard Class,CUST-1128,Corporate,Atlanta,East,Technology,Monitors,6044.1,5,0.0,1579.45
+ORD-02076,2022-02-02,2022-02-06,Standard Class,CUST-1053,Consumer,Nashville,South,Office Supplies,Binders,446.13,4,0.0,184.42
+ORD-02077,2021-05-18,2021-05-25,Standard Class,CUST-1188,Corporate,San Francisco,West,Office Supplies,Labels,136.37,3,0.1,36.06
+ORD-02078,2023-02-02,2023-02-09,Standard Class,CUST-1068,Consumer,San Francisco,West,Technology,Phones,587.44,1,0.4,42.53
+ORD-02079,2022-11-29,2022-11-30,Same Day,CUST-1159,Consumer,Atlanta,East,Office Supplies,Binders,76.5,2,0.2,19.85
+ORD-02080,2021-10-08,2021-10-15,Standard Class,CUST-1038,Consumer,Los Angeles,West,Furniture,Storage,1078.15,4,0.5,-247.79
+ORD-02081,2021-02-23,2021-02-26,Standard Class,CUST-1051,Corporate,Seattle,West,Office Supplies,Pens,36.76,5,0.3,10.4
+ORD-02082,2022-03-11,2022-03-16,Standard Class,CUST-1277,Consumer,New Orleans,South,Furniture,Chairs,2921.26,5,0.0,81.42
+ORD-02083,2021-07-25,2021-07-29,Second Class,CUST-1170,Home Office,Houston,Central,Office Supplies,Binders,114.08,1,0.0,47.86
+ORD-02084,2021-08-07,2021-08-11,Second Class,CUST-1287,Home Office,Los Angeles,West,Technology,Phones,893.42,2,0.0,108.44
+ORD-02085,2021-08-01,2021-08-08,First Class,CUST-1260,Consumer,San Francisco,West,Office Supplies,Paper,491.1,2,0.0,185.16
+ORD-02086,2022-01-20,2022-01-24,Second Class,CUST-1098,Corporate,Seattle,West,Technology,Monitors,1459.4,4,0.0,324.94
+ORD-02087,2022-08-13,2022-08-16,Standard Class,CUST-1254,Home Office,Atlanta,East,Office Supplies,Pens,34.94,5,0.15,6.59
+ORD-02088,2022-01-13,2022-01-20,Second Class,CUST-1023,Corporate,Philadelphia,East,Technology,Phones,3068.94,2,0.0,331.57
+ORD-02089,2021-01-06,2021-01-13,Standard Class,CUST-1174,Consumer,San Francisco,West,Office Supplies,Labels,28.38,1,0.2,2.94
+ORD-02090,2023-04-22,2023-04-26,Standard Class,CUST-1074,Home Office,Los Angeles,West,Technology,Laptops,5150.69,6,0.0,722.69
+ORD-02091,2023-06-15,2023-06-16,First Class,CUST-1234,Consumer,San Francisco,West,Technology,Accessories,3119.42,1,0.0,350.25
+ORD-02092,2023-05-23,2023-05-24,Standard Class,CUST-1114,Consumer,Boston,East,Furniture,Tables,814.05,6,0.1,-10.61
+ORD-02093,2023-06-17,2023-06-19,Standard Class,CUST-1260,Consumer,Denver,Central,Furniture,Bookcases,232.47,5,0.1,-0.9
+ORD-02094,2022-07-11,2022-07-18,Second Class,CUST-1054,Corporate,Seattle,West,Office Supplies,Paper,203.72,5,0.15,26.5
+ORD-02095,2023-12-22,2023-12-24,Second Class,CUST-1283,Corporate,San Francisco,West,Technology,Accessories,1643.29,6,0.0,170.76
+ORD-02096,2023-05-21,2023-05-24,Second Class,CUST-1289,Consumer,San Francisco,West,Furniture,Bookcases,3464.77,6,0.1,198.23
+ORD-02097,2022-11-20,2022-11-23,Standard Class,CUST-1287,Home Office,Philadelphia,East,Office Supplies,Binders,132.03,4,0.1,36.08
+ORD-02098,2022-02-24,2022-02-28,First Class,CUST-1225,Consumer,San Francisco,West,Technology,Phones,1148.43,5,0.0,342.18
+ORD-02099,2021-01-24,2021-01-29,Standard Class,CUST-1047,Consumer,Dallas,Central,Office Supplies,Paper,173.68,2,0.1,64.69
+ORD-02100,2022-05-09,2022-05-10,First Class,CUST-1003,Home Office,New York,East,Furniture,Tables,2454.89,6,0.1,157.91
+ORD-02101,2021-07-24,2021-07-25,First Class,CUST-1178,Corporate,Dallas,Central,Office Supplies,Labels,93.64,4,0.4,6.5
+ORD-02102,2021-02-13,2021-02-20,Standard Class,CUST-1091,Consumer,Philadelphia,East,Office Supplies,Labels,71.86,1,0.2,11.39
+ORD-02103,2022-04-08,2022-04-13,Second Class,CUST-1153,Consumer,Seattle,West,Technology,Laptops,432.97,3,0.15,73.52
+ORD-02104,2023-02-14,2023-02-15,Standard Class,CUST-1055,Home Office,Los Angeles,West,Office Supplies,Labels,26.87,4,0.1,8.63
+ORD-02105,2021-12-07,2021-12-10,Standard Class,CUST-1272,Consumer,San Francisco,West,Technology,Laptops,3867.16,5,0.3,-71.62
+ORD-02106,2023-07-01,2023-07-04,First Class,CUST-1100,Consumer,Charlotte,South,Office Supplies,Paper,60.94,1,0.4,12.16
+ORD-02107,2021-08-25,2021-09-01,First Class,CUST-1286,Home Office,Denver,Central,Furniture,Storage,315.52,1,0.0,39.46
+ORD-02108,2021-09-16,2021-09-18,Standard Class,CUST-1268,Corporate,San Francisco,West,Furniture,Tables,1643.6,3,0.0,144.75
+ORD-02109,2023-10-02,2023-10-04,Standard Class,CUST-1226,Home Office,San Francisco,West,Furniture,Bookcases,573.77,2,0.15,-58.9
+ORD-02110,2022-11-23,2022-11-24,Second Class,CUST-1012,Consumer,Houston,Central,Technology,Phones,220.91,6,0.2,34.25
+ORD-02111,2021-06-16,2021-06-17,First Class,CUST-1190,Corporate,San Francisco,West,Office Supplies,Binders,251.41,5,0.4,6.18
+ORD-02112,2023-10-30,2023-11-06,Second Class,CUST-1295,Consumer,Houston,Central,Technology,Phones,2600.05,2,0.0,304.23
+ORD-02113,2022-08-15,2022-08-20,First Class,CUST-1222,Consumer,New York,East,Furniture,Bookcases,1156.81,5,0.0,77.76
+ORD-02114,2023-02-13,2023-02-16,First Class,CUST-1076,Corporate,New York,East,Furniture,Chairs,1182.34,5,0.0,93.37
+ORD-02115,2022-10-21,2022-10-24,Second Class,CUST-1192,Corporate,San Francisco,West,Furniture,Chairs,3672.75,5,0.0,-27.33
+ORD-02116,2023-08-01,2023-08-06,Standard Class,CUST-1094,Consumer,New York,East,Office Supplies,Binders,45.19,5,0.2,13.32
+ORD-02117,2022-06-02,2022-06-07,First Class,CUST-1090,Home Office,Los Angeles,West,Technology,Phones,485.81,6,0.0,119.83
+ORD-02118,2022-01-20,2022-01-25,Standard Class,CUST-1072,Corporate,Philadelphia,East,Furniture,Storage,4804.65,1,0.0,-54.22
+ORD-02119,2022-05-13,2022-05-17,Standard Class,CUST-1220,Consumer,Houston,Central,Office Supplies,Pens,229.38,5,0.0,87.46
+ORD-02120,2023-03-11,2023-03-14,First Class,CUST-1148,Consumer,New Orleans,South,Technology,Accessories,9498.17,3,0.0,2747.14
+ORD-02121,2022-01-18,2022-01-21,Standard Class,CUST-1210,Corporate,San Francisco,West,Office Supplies,Binders,27.87,3,0.15,6.76
+ORD-02122,2023-01-25,2023-01-27,Second Class,CUST-1068,Corporate,New York,East,Office Supplies,Pens,137.02,6,0.2,23.14
+ORD-02123,2021-04-28,2021-05-01,Second Class,CUST-1099,Consumer,Houston,Central,Furniture,Chairs,1011.98,3,0.0,142.95
+ORD-02124,2021-10-17,2021-10-18,Standard Class,CUST-1278,Consumer,New York,East,Office Supplies,Pens,65.01,1,0.1,21.47
+ORD-02125,2022-03-20,2022-03-22,Standard Class,CUST-1017,Corporate,Los Angeles,West,Technology,Laptops,1697.23,4,0.5,-241.27
+ORD-02126,2023-03-09,2023-03-10,Standard Class,CUST-1004,Corporate,Charlotte,South,Office Supplies,Binders,230.23,5,0.2,64.48
+ORD-02127,2021-08-07,2021-08-10,Standard Class,CUST-1006,Home Office,Los Angeles,West,Technology,Laptops,1791.77,5,0.1,389.74
+ORD-02128,2021-09-03,2021-09-10,Standard Class,CUST-1188,Consumer,Atlanta,East,Technology,Monitors,1601.77,4,0.3,137.79
+ORD-02129,2021-09-10,2021-09-15,Second Class,CUST-1203,Consumer,Los Angeles,West,Office Supplies,Pens,293.09,2,0.0,80.03
+ORD-02130,2021-12-16,2021-12-23,Standard Class,CUST-1122,Corporate,Dallas,Central,Furniture,Bookcases,662.5,1,0.1,17.53
+ORD-02131,2022-08-26,2022-08-28,First Class,CUST-1010,Consumer,New York,East,Furniture,Bookcases,2360.3,3,0.4,-564.79
+ORD-02132,2021-04-05,2021-04-10,Same Day,CUST-1021,Consumer,Portland,West,Office Supplies,Pens,89.74,1,0.15,20.79
+ORD-02133,2021-07-01,2021-07-02,Standard Class,CUST-1051,Consumer,Philadelphia,East,Office Supplies,Binders,244.04,2,0.0,106.18
+ORD-02134,2023-11-09,2023-11-14,First Class,CUST-1287,Consumer,Seattle,West,Office Supplies,Paper,31.59,4,0.0,13.01
+ORD-02135,2021-08-26,2021-08-28,Same Day,CUST-1175,Consumer,Boston,East,Office Supplies,Paper,39.26,2,0.2,13.6
+ORD-02136,2023-02-06,2023-02-11,Standard Class,CUST-1009,Consumer,Nashville,South,Technology,Monitors,1864.87,6,0.0,324.7
+ORD-02137,2022-01-08,2022-01-09,Standard Class,CUST-1206,Home Office,New York,East,Office Supplies,Binders,217.25,2,0.5,20.8
+ORD-02138,2023-07-24,2023-07-25,Second Class,CUST-1196,Home Office,Denver,Central,Office Supplies,Labels,401.78,5,0.0,159.06
+ORD-02139,2022-09-27,2022-10-02,First Class,CUST-1094,Consumer,Los Angeles,West,Office Supplies,Paper,113.67,1,0.4,25.31
+ORD-02140,2021-04-23,2021-04-27,Standard Class,CUST-1060,Corporate,San Francisco,West,Office Supplies,Paper,47.61,4,0.5,3.25
+ORD-02141,2022-03-19,2022-03-22,Standard Class,CUST-1185,Corporate,Miami,South,Furniture,Storage,1898.68,6,0.1,-85.25
+ORD-02142,2021-01-07,2021-01-10,Same Day,CUST-1222,Home Office,Chicago,Central,Office Supplies,Paper,72.1,5,0.5,12.66
+ORD-02143,2022-06-29,2022-06-30,Standard Class,CUST-1037,Corporate,Boston,East,Furniture,Tables,5155.64,6,0.1,-71.25
+ORD-02144,2021-10-26,2021-10-28,Standard Class,CUST-1128,Home Office,Portland,West,Office Supplies,Paper,329.53,1,0.1,130.2
+ORD-02145,2022-09-29,2022-10-04,First Class,CUST-1244,Consumer,Philadelphia,East,Office Supplies,Pens,31.1,2,0.3,8.03
+ORD-02146,2023-03-09,2023-03-10,First Class,CUST-1103,Corporate,Portland,West,Office Supplies,Binders,119.82,5,0.2,34.85
+ORD-02147,2021-02-22,2021-02-23,First Class,CUST-1041,Home Office,Houston,Central,Technology,Laptops,8547.44,3,0.1,1473.69
+ORD-02148,2021-12-29,2022-01-05,Standard Class,CUST-1188,Consumer,New Orleans,South,Technology,Phones,5040.57,1,0.1,884.09
+ORD-02149,2023-03-12,2023-03-14,Second Class,CUST-1066,Consumer,Portland,West,Technology,Accessories,934.69,4,0.3,88.99
+ORD-02150,2023-08-30,2023-09-03,Standard Class,CUST-1134,Corporate,Los Angeles,West,Office Supplies,Pens,249.93,1,0.1,95.75
+ORD-02151,2021-07-02,2021-07-04,Standard Class,CUST-1176,Consumer,San Francisco,West,Technology,Accessories,7183.93,2,0.0,2055.48
+ORD-02152,2021-12-03,2021-12-10,Standard Class,CUST-1121,Consumer,Los Angeles,West,Office Supplies,Labels,39.48,4,0.0,9.01
+ORD-02153,2023-02-10,2023-02-11,Same Day,CUST-1157,Corporate,Portland,West,Office Supplies,Pens,130.42,3,0.0,47.86
+ORD-02154,2021-10-16,2021-10-20,Standard Class,CUST-1145,Home Office,Dallas,Central,Technology,Phones,438.12,3,0.5,-57.44
+ORD-02155,2023-12-31,2024-01-01,Standard Class,CUST-1087,Home Office,Boston,East,Office Supplies,Paper,474.35,5,0.15,118.55
+ORD-02156,2022-01-09,2022-01-10,First Class,CUST-1293,Corporate,San Francisco,West,Office Supplies,Binders,259.47,2,0.1,102.08
+ORD-02157,2022-04-20,2022-04-25,Standard Class,CUST-1163,Consumer,Denver,Central,Furniture,Storage,410.52,6,0.2,-43.39
+ORD-02158,2023-05-28,2023-06-01,Standard Class,CUST-1254,Home Office,Portland,West,Furniture,Bookcases,1257.27,4,0.0,157.19
+ORD-02159,2021-01-05,2021-01-09,Standard Class,CUST-1178,Home Office,Philadelphia,East,Technology,Monitors,1226.92,2,0.15,72.62
+ORD-02160,2021-01-31,2021-02-03,Second Class,CUST-1291,Corporate,Portland,West,Furniture,Tables,2439.43,4,0.4,-191.04
+ORD-02161,2022-11-02,2022-11-07,Second Class,CUST-1273,Consumer,Philadelphia,East,Technology,Phones,3568.77,5,0.2,681.56
+ORD-02162,2021-11-21,2021-11-23,First Class,CUST-1117,Corporate,Seattle,West,Office Supplies,Pens,94.06,5,0.3,23.48
+ORD-02163,2021-09-24,2021-09-27,Standard Class,CUST-1033,Corporate,New Orleans,South,Office Supplies,Labels,319.1,5,0.2,80.55
+ORD-02164,2021-03-15,2021-03-22,First Class,CUST-1205,Home Office,Atlanta,East,Office Supplies,Pens,99.95,5,0.0,24.46
+ORD-02165,2022-07-17,2022-07-21,Second Class,CUST-1253,Consumer,San Francisco,West,Furniture,Storage,1212.46,4,0.15,49.62
+ORD-02166,2023-06-13,2023-06-18,Second Class,CUST-1295,Home Office,Philadelphia,East,Office Supplies,Labels,123.36,5,0.2,16.33
+ORD-02167,2022-01-17,2022-01-24,Standard Class,CUST-1184,Corporate,Houston,Central,Technology,Phones,3275.92,1,0.0,783.27
+ORD-02168,2021-03-04,2021-03-11,Second Class,CUST-1175,Corporate,Boston,East,Office Supplies,Labels,48.51,6,0.3,4.56
+ORD-02169,2021-10-15,2021-10-18,Standard Class,CUST-1272,Consumer,Portland,West,Office Supplies,Pens,374.51,2,0.0,97.99
+ORD-02170,2021-07-31,2021-08-03,Standard Class,CUST-1095,Home Office,Dallas,Central,Office Supplies,Pens,191.13,3,0.0,70.74
+ORD-02171,2023-03-08,2023-03-10,First Class,CUST-1113,Consumer,Denver,Central,Furniture,Bookcases,3493.34,6,0.0,339.84
+ORD-02172,2023-01-20,2023-01-21,Standard Class,CUST-1166,Corporate,Los Angeles,West,Furniture,Bookcases,6183.96,5,0.1,859.97
+ORD-02173,2022-02-02,2022-02-05,Standard Class,CUST-1038,Home Office,Houston,Central,Technology,Accessories,1151.28,5,0.3,148.25
+ORD-02174,2022-11-15,2022-11-20,Standard Class,CUST-1157,Consumer,Charlotte,South,Office Supplies,Binders,39.22,4,0.0,11.42
+ORD-02175,2022-03-20,2022-03-27,Standard Class,CUST-1049,Home Office,Boston,East,Technology,Accessories,958.51,5,0.2,91.22
+ORD-02176,2022-06-29,2022-07-01,Same Day,CUST-1018,Consumer,Boston,East,Technology,Monitors,1803.39,1,0.0,457.97
+ORD-02177,2021-05-04,2021-05-09,Second Class,CUST-1066,Corporate,New York,East,Office Supplies,Paper,177.94,3,0.2,18.09
+ORD-02178,2023-05-27,2023-05-31,Second Class,CUST-1230,Home Office,Philadelphia,East,Technology,Accessories,701.92,4,0.3,46.83
+ORD-02179,2023-11-11,2023-11-14,Second Class,CUST-1216,Consumer,San Francisco,West,Furniture,Bookcases,4782.68,5,0.1,-72.29
+ORD-02180,2021-09-01,2021-09-02,Standard Class,CUST-1020,Consumer,Houston,Central,Office Supplies,Pens,245.6,1,0.5,-10.72
+ORD-02181,2021-05-29,2021-05-31,First Class,CUST-1106,Corporate,Philadelphia,East,Technology,Accessories,401.27,1,0.2,69.7
+ORD-02182,2022-01-09,2022-01-16,Standard Class,CUST-1196,Corporate,Philadelphia,East,Technology,Accessories,1292.55,5,0.0,263.63
+ORD-02183,2023-06-23,2023-06-30,First Class,CUST-1263,Consumer,San Francisco,West,Furniture,Storage,6856.31,3,0.0,-331.9
+ORD-02184,2023-12-13,2023-12-15,Same Day,CUST-1068,Consumer,New Orleans,South,Office Supplies,Paper,207.03,1,0.15,67.68
+ORD-02185,2022-09-17,2022-09-22,Second Class,CUST-1125,Home Office,San Francisco,West,Technology,Phones,1404.17,5,0.15,283.78
+ORD-02186,2023-08-24,2023-08-28,Second Class,CUST-1179,Consumer,Portland,West,Furniture,Storage,834.5,2,0.15,-67.4
+ORD-02187,2021-10-05,2021-10-09,Standard Class,CUST-1232,Corporate,Seattle,West,Furniture,Bookcases,363.08,5,0.0,38.0
+ORD-02188,2023-06-20,2023-06-21,First Class,CUST-1226,Consumer,Denver,Central,Furniture,Tables,2394.43,2,0.0,291.81
+ORD-02189,2022-10-30,2022-11-01,First Class,CUST-1218,Home Office,Nashville,South,Office Supplies,Paper,51.03,1,0.15,17.63
+ORD-02190,2021-12-08,2021-12-11,Standard Class,CUST-1104,Corporate,Philadelphia,East,Office Supplies,Binders,159.57,5,0.2,50.09
+ORD-02191,2023-10-07,2023-10-09,Second Class,CUST-1170,Consumer,Los Angeles,West,Furniture,Bookcases,1498.62,5,0.0,277.96
+ORD-02192,2022-01-05,2022-01-09,Second Class,CUST-1035,Corporate,Atlanta,East,Technology,Accessories,6353.19,4,0.0,1360.91
+ORD-02193,2021-08-19,2021-08-21,First Class,CUST-1124,Corporate,Portland,West,Technology,Accessories,3983.26,5,0.0,1156.13
+ORD-02194,2021-04-22,2021-04-27,Standard Class,CUST-1250,Consumer,Chicago,Central,Technology,Phones,443.39,5,0.3,1.36
+ORD-02195,2023-02-02,2023-02-09,Standard Class,CUST-1020,Consumer,Atlanta,East,Office Supplies,Labels,159.16,1,0.0,53.12
+ORD-02196,2022-10-19,2022-10-20,Second Class,CUST-1292,Home Office,Nashville,South,Technology,Accessories,3020.38,2,0.2,98.47
+ORD-02197,2022-12-15,2022-12-22,Standard Class,CUST-1261,Corporate,San Francisco,West,Office Supplies,Binders,25.45,6,0.0,6.85
+ORD-02198,2023-10-21,2023-10-22,Standard Class,CUST-1077,Home Office,Charlotte,South,Technology,Laptops,1600.0,2,0.0,175.49
+ORD-02199,2021-10-13,2021-10-14,First Class,CUST-1066,Consumer,Portland,West,Technology,Laptops,464.88,1,0.0,82.06
